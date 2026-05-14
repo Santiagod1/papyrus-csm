@@ -1,0 +1,667 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "100 Mini Brochecitos Broches Madera Natural",
+      "tipo": "Especial",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 9000
+    },
+    {
+      "id": 2,
+      "nombre": "Acetato 50 x 70cm",
+      "tipo": "Especial",
+      "presentacion": "10 hojas",
+      "unidades": 10,
+      "costoTotal": 16800
+    },
+    {
+      "id": 3,
+      "nombre": "Alfajores Guaymallen Triple Blanco DDL 70g",
+      "tipo": "Especial",
+      "presentacion": "24",
+      "unidades": 24,
+      "costoTotal": 10400
+    },
+    {
+      "id": 4,
+      "nombre": "Anillos Doble Alambre Multicolor 22mm A4 x24",
+      "tipo": "Especial",
+      "presentacion": "A4",
+      "unidades": 24,
+      "costoTotal": 27900
+    },
+    {
+      "id": 5,
+      "nombre": "Papel Kraft A4 Misionero 125gr",
+      "tipo": "Papel",
+      "presentacion": "20 hojas",
+      "unidades": 20,
+      "costoTotal": 1470
+    },
+    {
+      "id": 6,
+      "nombre": "Resma A4 Autor 90g 500 Hojas",
+      "tipo": "Papel",
+      "presentacion": "500",
+      "unidades": 500,
+      "costoTotal": 10304
+    },
+    {
+      "id": 7,
+      "nombre": "BOLSA PVC 19.5x20",
+      "tipo": "Especial",
+      "presentacion": "10 bolsas",
+      "unidades": 10,
+      "costoTotal": 29920
+    },
+    {
+      "id": 8,
+      "nombre": "Bolsa PVC 17x20",
+      "tipo": "Especial",
+      "presentacion": "15",
+      "unidades": 15,
+      "costoTotal": 39400
+    },
+    {
+      "id": 9,
+      "nombre": "Bolsas Transparente 10x15 Polipropileno x100",
+      "tipo": "Especial",
+      "presentacion": "BOLSA 10X15",
+      "unidades": 100,
+      "costoTotal": 2122
+    },
+    {
+      "id": 10,
+      "nombre": "Bolsitas PVC glitter celestes",
+      "tipo": "Especial",
+      "presentacion": "bolsas",
+      "unidades": 30,
+      "costoTotal": 43853
+    },
+    {
+      "id": 11,
+      "nombre": "Cadena bolita",
+      "tipo": "Mercería",
+      "presentacion": "1 metro",
+      "unidades": 1,
+      "costoTotal": 2000
+    },
+    {
+      "id": 12,
+      "nombre": "CARTON KAPPA A4 1.5MM x20",
+      "tipo": "Cartón",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 8300
+    },
+    {
+      "id": 13,
+      "nombre": "Cartón pluma 70x100",
+      "tipo": "Cartón",
+      "presentacion": "",
+      "unidades": 5,
+      "costoTotal": 4600
+    },
+    {
+      "id": 14,
+      "nombre": "Cinta Bebé",
+      "tipo": "Cinta",
+      "presentacion": "10 metros",
+      "unidades": 10,
+      "costoTotal": 4000
+    },
+    {
+      "id": 15,
+      "nombre": "Cinta Bifaz",
+      "tipo": "Cinta",
+      "presentacion": "1 metro",
+      "unidades": 25,
+      "costoTotal": 3900
+    },
+    {
+      "id": 16,
+      "nombre": "Círculos Madera Fibrofacil MDF Llavero 5cm 100u",
+      "tipo": "Especial",
+      "presentacion": "100 un",
+      "unidades": 100,
+      "costoTotal": 15205
+    },
+    {
+      "id": 17,
+      "nombre": "Cordón Algodón 3mm Encerado Beige 100m",
+      "tipo": "Especial",
+      "presentacion": "100 metros",
+      "unidades": 100,
+      "costoTotal": 6837
+    },
+    {
+      "id": 18,
+      "nombre": "cuadro",
+      "tipo": "cuadro",
+      "presentacion": "21x15",
+      "unidades": 1,
+      "costoTotal": 7800
+    },
+    {
+      "id": 19,
+      "nombre": "ESPIRALES 5/8 15.9mm x30 Rosa-Lila-Verde",
+      "tipo": "encuadernado",
+      "presentacion": "30",
+      "unidades": 30,
+      "costoTotal": 25336
+    },
+    {
+      "id": 20,
+      "nombre": "ESPIRALES A4 Surtido Color x50",
+      "tipo": "Especial",
+      "presentacion": "A4",
+      "unidades": 50,
+      "costoTotal": 8400
+    },
+    {
+      "id": 21,
+      "nombre": "Fibrón acrílico",
+      "tipo": "Librería",
+      "presentacion": "1 unidad",
+      "unidades": 10,
+      "costoTotal": 2500
+    },
+    {
+      "id": 22,
+      "nombre": "Filmilo",
+      "tipo": "Papel adhesivo",
+      "presentacion": "20 hojas",
+      "unidades": 20,
+      "costoTotal": 9710
+    },
+    {
+      "id": 23,
+      "nombre": "Filmilo Blanco Reluciente ArtJet",
+      "tipo": "Papel adhesivo",
+      "presentacion": "20 Hojas",
+      "unidades": 20,
+      "costoTotal": 7605
+    },
+    {
+      "id": 24,
+      "nombre": "Foil por metro",
+      "tipo": "Foil",
+      "presentacion": "1 metro",
+      "unidades": 5,
+      "costoTotal": 6990
+    },
+    {
+      "id": 25,
+      "nombre": "Goma eva",
+      "tipo": "Especial",
+      "presentacion": "57x41",
+      "unidades": 1,
+      "costoTotal": 1800
+    },
+    {
+      "id": 26,
+      "nombre": "Gomitas Mogul Rollo Frutas 35g Caja x12",
+      "tipo": "Especial",
+      "presentacion": "12",
+      "unidades": 12,
+      "costoTotal": 5099
+    },
+    {
+      "id": 27,
+      "nombre": "Hilo",
+      "tipo": "Mercería",
+      "presentacion": "1 metro",
+      "unidades": 3,
+      "costoTotal": 1200
+    },
+    {
+      "id": 28,
+      "nombre": "Hilo de cordón 6mm x100m",
+      "tipo": "Especial",
+      "presentacion": "100 metros",
+      "unidades": 100,
+      "costoTotal": 16700
+    },
+    {
+      "id": 29,
+      "nombre": "Hilo dorado",
+      "tipo": "Mercería",
+      "presentacion": "50 metros",
+      "unidades": 50,
+      "costoTotal": 8900
+    },
+    {
+      "id": 30,
+      "nombre": "Hoja A4 Negra 140g",
+      "tipo": "Papel",
+      "presentacion": "10 hojas",
+      "unidades": 10,
+      "costoTotal": 4995
+    },
+    {
+      "id": 31,
+      "nombre": "Hoja A4 Perlado 120g",
+      "tipo": "Papel",
+      "presentacion": "10 hojas",
+      "unidades": 10,
+      "costoTotal": 8195
+    },
+    {
+      "id": 32,
+      "nombre": "Hoja Azul 70g",
+      "tipo": "Papel",
+      "presentacion": "100 hojas",
+      "unidades": 100,
+      "costoTotal": 8600
+    },
+    {
+      "id": 33,
+      "nombre": "Hoja Azul 270g",
+      "tipo": "Papel",
+      "presentacion": "5 hojas",
+      "unidades": 5,
+      "costoTotal": 5500
+    },
+    {
+      "id": 34,
+      "nombre": "Iman autoadhesivo",
+      "tipo": "Especial",
+      "presentacion": "10 Hojas",
+      "unidades": 10,
+      "costoTotal": 13100
+    },
+    {
+      "id": 35,
+      "nombre": "Juguito 125mm",
+      "tipo": "Especial",
+      "presentacion": "18",
+      "unidades": 18,
+      "costoTotal": 8694
+    },
+    {
+      "id": 36,
+      "nombre": "Kit 6 Madejas Hilos Mouline Bordado 48m",
+      "tipo": "Especial",
+      "presentacion": "48",
+      "unidades": 48,
+      "costoTotal": 4124
+    },
+    {
+      "id": 37,
+      "nombre": "Lacre",
+      "tipo": "Especial",
+      "presentacion": "25gr",
+      "unidades": 25,
+      "costoTotal": 2810
+    },
+    {
+      "id": 38,
+      "nombre": "Lámina por metro",
+      "tipo": "Laminado",
+      "presentacion": "150 metros",
+      "unidades": 150,
+      "costoTotal": 28900
+    },
+    {
+      "id": 39,
+      "nombre": "Llavero Argolla Sin Fin c/Cadena x100u",
+      "tipo": "Especial",
+      "presentacion": "100 UN",
+      "unidades": 100,
+      "costoTotal": 7350
+    },
+    {
+      "id": 40,
+      "nombre": "Matelina 180g",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 10296
+    },
+    {
+      "id": 41,
+      "nombre": "Matelina 300g",
+      "tipo": "Papel",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 8976
+    },
+    {
+      "id": 42,
+      "nombre": "Matelina A3",
+      "tipo": "Papel",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 5828
+    },
+    {
+      "id": 43,
+      "nombre": "Matelina adhesiva",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 16548
+    },
+    {
+      "id": 44,
+      "nombre": "Matelina Bifaz",
+      "tipo": "Papel",
+      "presentacion": "50 Hojas",
+      "unidades": 50,
+      "costoTotal": 8541
+    },
+    {
+      "id": 45,
+      "nombre": "Papel Autoadhesivo",
+      "tipo": "Papel adhesivo",
+      "presentacion": "100 hojas A4",
+      "unidades": 100,
+      "costoTotal": 18380
+    },
+    {
+      "id": 46,
+      "nombre": "Papel Foto 200g",
+      "tipo": "Papel",
+      "presentacion": "100 Hojas",
+      "unidades": 100,
+      "costoTotal": 13000
+    },
+    {
+      "id": 47,
+      "nombre": "Papel Fotográfico 120G",
+      "tipo": "Papel",
+      "presentacion": "100 hojas",
+      "unidades": 100,
+      "costoTotal": 10008
+    },
+    {
+      "id": 48,
+      "nombre": "Papel Fotográfico 230g",
+      "tipo": "Papel",
+      "presentacion": "20 Hojas",
+      "unidades": 20,
+      "costoTotal": 4400
+    },
+    {
+      "id": 49,
+      "nombre": "Papel Fotográfico Brillante 240g",
+      "tipo": "Papel",
+      "presentacion": "20 hojas",
+      "unidades": 20,
+      "costoTotal": 9438
+    },
+    {
+      "id": 50,
+      "nombre": "Papel fotográfico de 180g",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 13500
+    },
+    {
+      "id": 51,
+      "nombre": "Papel fotográfico doble faz",
+      "tipo": "Papel",
+      "presentacion": "20 hojas",
+      "unidades": 20,
+      "costoTotal": 11949
+    },
+    {
+      "id": 52,
+      "nombre": "Papel fotográfico doble faz 240g",
+      "tipo": "Papel",
+      "presentacion": "100 hojas",
+      "unidades": 100,
+      "costoTotal": 15210
+    },
+    {
+      "id": 53,
+      "nombre": "Papel ilustración 300g",
+      "tipo": "Papel",
+      "presentacion": "100 hojas A4",
+      "unidades": 100,
+      "costoTotal": 12589
+    },
+    {
+      "id": 54,
+      "nombre": "Papel Imantado",
+      "tipo": "Especial",
+      "presentacion": "10 Hojas",
+      "unidades": 10,
+      "costoTotal": 22000
+    },
+    {
+      "id": 55,
+      "nombre": "Papel opalina 240g",
+      "tipo": "Papel",
+      "presentacion": "100 Hojas",
+      "unidades": 100,
+      "costoTotal": 13919
+    },
+    {
+      "id": 56,
+      "nombre": "Pastillas La Yapa Caramelos Caja 36u",
+      "tipo": "Especial",
+      "presentacion": "36",
+      "unidades": 36,
+      "costoTotal": 13900
+    },
+    {
+      "id": 57,
+      "nombre": "PEGAMENTO",
+      "tipo": "Especial",
+      "presentacion": "50G",
+      "unidades": 50,
+      "costoTotal": 4500
+    },
+    {
+      "id": 58,
+      "nombre": "Pico Dulce Chupetín Caja x48",
+      "tipo": "Especial",
+      "presentacion": "48",
+      "unidades": 48,
+      "costoTotal": 9245
+    },
+    {
+      "id": 59,
+      "nombre": "Resma 190g",
+      "tipo": "Papel",
+      "presentacion": "100 Hojas",
+      "unidades": 100,
+      "costoTotal": 14000
+    },
+    {
+      "id": 60,
+      "nombre": "Resma A4 150g",
+      "tipo": "Papel",
+      "presentacion": "100 hojas",
+      "unidades": 100,
+      "costoTotal": 7932
+    },
+    {
+      "id": 61,
+      "nombre": "Resma común",
+      "tipo": "Papel",
+      "presentacion": "500 hojas",
+      "unidades": 500,
+      "costoTotal": 7000
+    },
+    {
+      "id": 62,
+      "nombre": "Set 20 Vasos Plástico Glitter Tapa y Sorbete",
+      "tipo": "Especial",
+      "presentacion": "20 vasos",
+      "unidades": 20,
+      "costoTotal": 18122
+    },
+    {
+      "id": 63,
+      "nombre": "SOBRE DE PLASTIFICADO",
+      "tipo": "Especial",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 36066
+    },
+    {
+      "id": 64,
+      "nombre": "Sorbetes Negros Plásticos x1000",
+      "tipo": "Especial",
+      "presentacion": "1000",
+      "unidades": 1000,
+      "costoTotal": 9990
+    },
+    {
+      "id": 65,
+      "nombre": "TatuFan",
+      "tipo": "Especial",
+      "presentacion": "10 hojas",
+      "unidades": 10,
+      "costoTotal": 22000
+    },
+    {
+      "id": 66,
+      "nombre": "Turrones pack",
+      "tipo": "Especial",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 12999
+    },
+    {
+      "id": 67,
+      "nombre": "Velas De Noche Para Hornillo Con Portavelas x6",
+      "tipo": "Especial",
+      "presentacion": "6",
+      "unidades": 6,
+      "costoTotal": 2999
+    },
+    {
+      "id": 68,
+      "nombre": "prueba",
+      "tipo": "Papel",
+      "presentacion": "",
+      "unidades": 0,
+      "costoTotal": 0
+    }
+  ],
+  "stock": {
+    "1": 100,
+    "2": 10,
+    "3": 24,
+    "4": 24,
+    "5": 20,
+    "6": 500,
+    "7": 10,
+    "8": 15,
+    "9": 100,
+    "10": 30,
+    "11": 1,
+    "12": 20,
+    "13": 5,
+    "14": 10,
+    "15": 25,
+    "16": 100,
+    "17": 100,
+    "18": 1,
+    "19": 30,
+    "20": 50,
+    "21": 10,
+    "22": 20,
+    "23": 20,
+    "24": 5,
+    "25": 1,
+    "26": 12,
+    "27": 3,
+    "28": 100,
+    "29": 50,
+    "30": 10,
+    "31": 10,
+    "32": 100,
+    "33": 5,
+    "34": 10,
+    "35": 18,
+    "36": 48,
+    "37": 25,
+    "38": 150,
+    "39": 100,
+    "40": 100,
+    "41": 50,
+    "42": 20,
+    "43": 100,
+    "44": 50,
+    "45": 100,
+    "46": 100,
+    "47": 100,
+    "48": 20,
+    "49": 20,
+    "50": 100,
+    "51": 20,
+    "52": 100,
+    "53": 100,
+    "54": 10,
+    "55": 100,
+    "56": 36,
+    "57": 50,
+    "58": 48,
+    "59": 100,
+    "60": 100,
+    "61": 500,
+    "62": 20,
+    "63": 100,
+    "64": 1000,
+    "65": 10,
+    "66": 50,
+    "67": 6,
+    "68": 0
+  },
+  "equipos": [
+    {
+      "id": 1,
+      "nombre": "Impresora Canon Maxify gx3010",
+      "valor": 458000,
+      "vidaUtil": 36,
+      "usoMes": 100
+    },
+    {
+      "id": 2,
+      "nombre": "Plotter Cricut Maker 4",
+      "valor": 1200000,
+      "vidaUtil": 48,
+      "usoMes": 100
+    },
+    {
+      "id": 3,
+      "nombre": "Laminadora Gadnic",
+      "valor": 100000,
+      "vidaUtil": 36,
+      "usoMes": 100
+    }
+  ],
+  "tintas": [
+    {
+      "id": 1,
+      "nombre": "Gi-16 K",
+      "equipo": "Impresora Canon Maxify gx3010",
+      "tipo": "Original",
+      "precio": 80000,
+      "rendimiento": 6000
+    },
+    {
+      "id": 2,
+      "nombre": "Gi-16 CMY",
+      "equipo": "Impresora Canon Maxify gx3010",
+      "tipo": "Original",
+      "precio": 150000,
+      "rendimiento": 14000
+    }
+  ],
+  "luz": [
+    {
+      "costoMensual": 18000,
+      "valorHora": 25
+    }
+  ],
+  "presupuestos": [],
+  "pedidos": []
+}
