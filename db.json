@@ -716,5 +716,21 @@
       }
     }
   ],
-  "pedidos": []
+  "pedidos": [
+    {
+      "id": 1,
+      "codigo": "PED001",
+      "cliente": "Santi",
+      "fecha": "2026-05-14",
+      "entrega": "2026-05-15",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 36,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 57108.964,
+      "senia": 28554.482
+    }
+  ]
 }
