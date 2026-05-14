@@ -83,7 +83,7 @@
     {
       "id": 11,
       "nombre": "Cadena bolita",
-      "tipo": "Mercería",
+      "tipo": "MercerÃ­a",
       "presentacion": "1 metro",
       "unidades": 1,
       "costoTotal": 2000
@@ -91,22 +91,22 @@
     {
       "id": 12,
       "nombre": "CARTON KAPPA A4 1.5MM x20",
-      "tipo": "Cartón",
+      "tipo": "CartÃ³n",
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 8300
     },
     {
       "id": 13,
-      "nombre": "Cartón pluma 70x100",
-      "tipo": "Cartón",
+      "nombre": "CartÃ³n pluma 70x100",
+      "tipo": "CartÃ³n",
       "presentacion": "",
       "unidades": 5,
       "costoTotal": 4600
     },
     {
       "id": 14,
-      "nombre": "Cinta Bebé",
+      "nombre": "Cinta BebÃ©",
       "tipo": "Cinta",
       "presentacion": "10 metros",
       "unidades": 10,
@@ -122,7 +122,7 @@
     },
     {
       "id": 16,
-      "nombre": "Círculos Madera Fibrofacil MDF Llavero 5cm 100u",
+      "nombre": "CÃ­rculos Madera Fibrofacil MDF Llavero 5cm 100u",
       "tipo": "Especial",
       "presentacion": "100 un",
       "unidades": 100,
@@ -130,7 +130,7 @@
     },
     {
       "id": 17,
-      "nombre": "Cordón Algodón 3mm Encerado Beige 100m",
+      "nombre": "CordÃ³n AlgodÃ³n 3mm Encerado Beige 100m",
       "tipo": "Especial",
       "presentacion": "100 metros",
       "unidades": 100,
@@ -162,8 +162,8 @@
     },
     {
       "id": 21,
-      "nombre": "Fibrón acrílico",
-      "tipo": "Librería",
+      "nombre": "FibrÃ³n acrÃ­lico",
+      "tipo": "LibrerÃ­a",
       "presentacion": "1 unidad",
       "unidades": 10,
       "costoTotal": 2500
@@ -211,14 +211,14 @@
     {
       "id": 27,
       "nombre": "Hilo",
-      "tipo": "Mercería",
+      "tipo": "MercerÃ­a",
       "presentacion": "1 metro",
       "unidades": 3,
       "costoTotal": 1200
     },
     {
       "id": 28,
-      "nombre": "Hilo de cordón 6mm x100m",
+      "nombre": "Hilo de cordÃ³n 6mm x100m",
       "tipo": "Especial",
       "presentacion": "100 metros",
       "unidades": 100,
@@ -227,7 +227,7 @@
     {
       "id": 29,
       "nombre": "Hilo dorado",
-      "tipo": "Mercería",
+      "tipo": "MercerÃ­a",
       "presentacion": "50 metros",
       "unidades": 50,
       "costoTotal": 8900
@@ -298,7 +298,7 @@
     },
     {
       "id": 38,
-      "nombre": "Lámina por metro",
+      "nombre": "LÃ¡mina por metro",
       "tipo": "Laminado",
       "presentacion": "150 metros",
       "unidades": 150,
@@ -370,7 +370,7 @@
     },
     {
       "id": 47,
-      "nombre": "Papel Fotográfico 120G",
+      "nombre": "Papel FotogrÃ¡fico 120G",
       "tipo": "Papel",
       "presentacion": "100 hojas",
       "unidades": 100,
@@ -378,7 +378,7 @@
     },
     {
       "id": 48,
-      "nombre": "Papel Fotográfico 230g",
+      "nombre": "Papel FotogrÃ¡fico 230g",
       "tipo": "Papel",
       "presentacion": "20 Hojas",
       "unidades": 20,
@@ -386,7 +386,7 @@
     },
     {
       "id": 49,
-      "nombre": "Papel Fotográfico Brillante 240g",
+      "nombre": "Papel FotogrÃ¡fico Brillante 240g",
       "tipo": "Papel",
       "presentacion": "20 hojas",
       "unidades": 20,
@@ -394,7 +394,7 @@
     },
     {
       "id": 50,
-      "nombre": "Papel fotográfico de 180g",
+      "nombre": "Papel fotogrÃ¡fico de 180g",
       "tipo": "Papel",
       "presentacion": "100",
       "unidades": 100,
@@ -402,7 +402,7 @@
     },
     {
       "id": 51,
-      "nombre": "Papel fotográfico doble faz",
+      "nombre": "Papel fotogrÃ¡fico doble faz",
       "tipo": "Papel",
       "presentacion": "20 hojas",
       "unidades": 20,
@@ -410,7 +410,7 @@
     },
     {
       "id": 52,
-      "nombre": "Papel fotográfico doble faz 240g",
+      "nombre": "Papel fotogrÃ¡fico doble faz 240g",
       "tipo": "Papel",
       "presentacion": "100 hojas",
       "unidades": 100,
@@ -418,7 +418,7 @@
     },
     {
       "id": 53,
-      "nombre": "Papel ilustración 300g",
+      "nombre": "Papel ilustraciÃ³n 300g",
       "tipo": "Papel",
       "presentacion": "100 hojas A4",
       "unidades": 100,
@@ -458,7 +458,7 @@
     },
     {
       "id": 58,
-      "nombre": "Pico Dulce Chupetín Caja x48",
+      "nombre": "Pico Dulce ChupetÃ­n Caja x48",
       "tipo": "Especial",
       "presentacion": "48",
       "unidades": 48,
@@ -482,7 +482,7 @@
     },
     {
       "id": 61,
-      "nombre": "Resma común",
+      "nombre": "Resma comÃºn",
       "tipo": "Papel",
       "presentacion": "500 hojas",
       "unidades": 500,
@@ -490,7 +490,7 @@
     },
     {
       "id": 62,
-      "nombre": "Set 20 Vasos Plástico Glitter Tapa y Sorbete",
+      "nombre": "Set 20 Vasos PlÃ¡stico Glitter Tapa y Sorbete",
       "tipo": "Especial",
       "presentacion": "20 vasos",
       "unidades": 20,
@@ -506,7 +506,7 @@
     },
     {
       "id": 64,
-      "nombre": "Sorbetes Negros Plásticos x1000",
+      "nombre": "Sorbetes Negros PlÃ¡sticos x1000",
       "tipo": "Especial",
       "presentacion": "1000",
       "unidades": 1000,
@@ -590,13 +590,13 @@
     "42": 20,
     "43": 100,
     "44": 50,
-    "45": 100,
+    "45": 48,
     "46": 100,
     "47": 100,
     "48": 20,
     "49": 20,
     "50": 100,
-    "51": 20,
+    "51": 0,
     "52": 100,
     "53": 100,
     "54": 10,
@@ -662,6 +662,52 @@
       "valorHora": 25
     }
   ],
-  "presupuestos": [],
+  "presupuestos": [
+    {
+      "id": 36,
+      "codigo": "P036",
+      "cliente": "Santi",
+      "productoFinal": "Album",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-05-14",
+      "materiales": [
+        {
+          "prodId": 51,
+          "cantidad": 32
+        },
+        {
+          "prodId": 45,
+          "cantidad": 52
+        }
+      ],
+      "paginas": 106,
+      "tintas": "ambas",
+      "usosEquipo": 84,
+      "equipoId": "1",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 10,
+      "total": 57108.964,
+      "gananciaReal": 15191.724,
+      "senia": 28554.482,
+      "_c": {
+        "subMP": 28676,
+        "cTinta": 2548.24,
+        "cAmort": 10668,
+        "cLuz": 25,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 41917.24,
+        "sub": 51917.24,
+        "mrgV": 5191.724,
+        "total": 57108.964,
+        "ganReal": 15191.724
+      }
+    }
+  ],
   "pedidos": []
 }
