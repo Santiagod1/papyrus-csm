@@ -410,7 +410,7 @@ td.price{font-family:'DM Mono',monospace;font-size:12px;color:var(--ink)}
     <div id="sync-status-text" style="font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.08em">○ sin config</div>
     <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
       <button class="btn btn-secondary btn-sm" onclick="openModal('modal-config')" style="font-size:11px;padding:6px 8px;min-height:36px">⚙</button>
-<button class="btn btn-secondary btn-sm" onclick="syncManual()" style="font-size:11px;padding:6px 8px;min-height:36px" id="btn-sync" title="Sincronizar">↻</button>
+	  <button class="btn btn-secondary btn-sm" onclick="syncManual()" style="font-size:11px;padding:6px 8px;min-height:36px" id="btn-sync" title="Sincronizar">↻</button>
     </div>
   </div>
 </aside>
@@ -883,14 +883,14 @@ td.price{font-family:'DM Mono',monospace;font-size:12px;color:var(--ink)}
 <!-- VISTAS IMPRIMIBLES -->
 <div class="print-overlay" id="print-interna">
   <div class="print-doc">
-    <div class="print-close-bar"><span class="print-close-bar-title">Hoja interna — costos y ganancia</span><div style="display:flex;gap:8px"><button class="btn btn-secondary btn-sm" onclick="window.print()">🖨 Imprimir</button><button class="btn btn-secondary btn-sm" onclick="document.getElementById('print-interna').classList.remove('open')">Cerrar</button></div></div>
+    <div class="print-close-bar"><span class="print-close-bar-title">Hoja interna — costos y ganancia</span><div style="display:flex;gap:8px"><button class="btn btn-secondary btn-sm" onclick="printOShare('interna')" id="btn-action-interna">🖨 Imprimir</button><button class="btn btn-secondary btn-sm" onclick="document.getElementById('print-interna').classList.remove('open')">Cerrar</button></div></div>
     <div class="print-body" id="doc-interno-body"></div>
   </div>
 </div>
 
 <div class="print-overlay" id="print-cliente">
   <div class="print-doc">
-    <div class="print-close-bar"><span class="print-close-bar-title">Hoja para el cliente</span><div style="display:flex;gap:8px"><button class="btn btn-secondary btn-sm" onclick="window.print()">🖨 Imprimir</button><button class="btn btn-secondary btn-sm" onclick="document.getElementById('print-cliente').classList.remove('open')">Cerrar</button></div></div>
+    <div class="print-close-bar"><span class="print-close-bar-title">Hoja para el cliente</span><div style="display:flex;gap:8px"><button class="btn btn-secondary btn-sm" onclick="printOShare('cliente')" id="btn-action-cliente">🖨 Imprimir</button><button class="btn btn-secondary btn-sm" onclick="document.getElementById('print-cliente').classList.remove('open')">Cerrar</button></div></div>
     <div class="print-body" id="doc-cliente-body"></div>
   </div>
 </div>
@@ -979,7 +979,7 @@ async function ghGet() {
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const data = await r.json();
     ghSha = data.sha;
-    return JSON.parse(atob(data.content.replace(/\n/g, '')));
+    return JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))));
   } catch(e) {
     console.error('ghGet error:', e);
     return null;
@@ -1710,6 +1710,7 @@ function generarVistaInterna(d){
 <table class="doc-table"><thead><tr><th>Concepto</th><th>Hs</th><th>Valor/hs</th><th style="text-align:right">Monto</th></tr></thead><tbody><tr><td>Diseño</td><td>${d.hsDise||0}</td><td>${fmt(d.valDise||0)}</td><td class="doc-td-right">${fmt(c.cDise)}</td></tr><tr><td>Ensamblado / MO</td><td>${d.hsMo||0}</td><td>${fmt(d.valMo||0)}</td><td class="doc-td-right">${fmt(c.cMo)}</td></tr></tbody></table>
 <div class="doc-totals"><div class="doc-total-row"><span>Subtotal producción</span><span class="doc-total-val">${fmt(c.cProd)}</span></div><div class="doc-total-row"><span>+ Diseño y MO</span><span class="doc-total-val">${fmt(c.cDise+c.cMo)}</span></div><div class="doc-total-row"><span>= Subtotal s/ margen</span><span class="doc-total-val">${fmt(c.sub)}</span></div><div class="doc-total-row"><span>+ Margen (${d.margen}%)</span><span class="doc-total-val">${fmt(c.mrgV)}</span></div><div class="doc-total-row strong"><span>TOTAL FINAL</span><span class="doc-total-val">${fmt(d.total)}</span></div><div class="doc-total-row ganancia"><span>Ganancia real estimada</span><span class="doc-total-val">${fmt(d.gananciaReal)}</span></div><div class="doc-total-row" style="margin-top:6px;padding-top:6px;border-top:1px solid var(--border)"><span>Seña (50%)</span><span class="doc-total-val">${fmt(d.senia)}</span></div></div>`;
   document.getElementById('print-interna').classList.add('open');
+  actualizarBotonesHoja();
 }
 
 function generarVistaCliente(d){
@@ -1726,6 +1727,7 @@ ${d.cliente?`<div style="margin-bottom:14px"><div style="font-family:'DM Mono',m
 <div style="margin-top:18px;padding:12px 16px;background:var(--paper-warm);border-left:3px solid var(--gold);font-size:12px;color:var(--ink-muted);line-height:1.7">Este presupuesto es válido por 15 días. Los precios pueden variar según disponibilidad de materiales. Para confirmar el trabajo se requiere el 50% de seña.</div>
 <div class="cliente-footer">Papyrus · Papelería creativa · Rosario, Argentina</div></div>`;
   document.getElementById('print-cliente').classList.add('open');
+  actualizarBotonesHoja();
 }
 
 // ═══════════════════════════════════════
@@ -2213,6 +2215,130 @@ function renderInformes(){
   }
   renderProductos();
 })();
+
+// ══════════════════════════════════════════════
+// PRINT / SHARE — desktop imprime, móvil comparte
+// ══════════════════════════════════════════════
+
+// Detectar si es móvil (Web Share API disponible = móvil/tablet)
+const esMobile = () => navigator.share !== undefined;
+
+// Actualizar labels de los botones según dispositivo
+function actualizarBotonesHoja() {
+  const isMob = esMobile();
+  const bi = document.getElementById('btn-action-interna');
+  const bc = document.getElementById('btn-action-cliente');
+  if (bi) bi.innerHTML = isMob ? '📤 Compartir' : '🖨 Imprimir';
+  if (bc) bc.innerHTML = isMob ? '📤 Compartir' : '🖨 Imprimir';
+}
+
+function printOShare(tipo) {
+  if (esMobile()) {
+    compartirHoja(tipo);
+  } else {
+    window.print();
+  }
+}
+
+async function compartirHoja(tipo) {
+  try {
+    const texto = tipo === 'cliente'
+      ? generarTextoCompartirCliente()
+      : generarTextoCompartirInterna();
+
+    await navigator.share({
+      title: tipo === 'cliente' ? 'Presupuesto Papyrus' : 'Hoja interna — Papyrus',
+      text: texto,
+    });
+  } catch(e) {
+    // Usuario canceló o el share falló — no hacer nada
+    if (e.name !== 'AbortError') {
+      // Fallback: copiar al portapapeles
+      try {
+        const texto = tipo === 'cliente'
+          ? generarTextoCompartirCliente()
+          : generarTextoCompartirInterna();
+        await navigator.clipboard.writeText(texto);
+        showNotif('Copiado al portapapeles ✓', 'ok');
+      } catch(e2) {
+        showNotif('No se pudo compartir', 'err');
+      }
+    }
+  }
+}
+
+function generarTextoCompartirCliente() {
+  // Leer datos del DOM del doc cliente ya renderizado
+  const body = document.getElementById('doc-cliente-body');
+  if (!body) return '';
+
+  // Extraer datos relevantes del HTML renderizado
+  const logo     = 'PAPYRUS — Papelería creativa · Rosario';
+  const presupId = body.querySelector('.cliente-presup-id')?.textContent?.trim() || '';
+  const cliente  = body.querySelector('[style*="font-size:15px;font-weight:500"]')?.textContent?.trim() || '';
+  const producto = body.querySelector('[style*="font-size:24px"]')?.textContent?.trim() ||
+                   body.querySelector('[style*="font-size:26px"]')?.textContent?.trim() || '';
+  const cantidad = body.querySelector('[style*="font-size:13px;color:var(--ink-muted)"]')?.textContent?.trim() || '';
+  const variante = body.querySelector('.variante-nombre')?.textContent?.trim() || '';
+  const precio   = body.querySelector('.variante-precio')?.textContent?.trim() || '';
+  const desc     = body.querySelector('.variante-desc')?.textContent?.trim() || '';
+  const senia    = body.querySelector('.variante-senia strong')?.textContent?.trim() || '';
+
+  const lineas = [
+    `━━━━━━━━━━━━━━━━━━━`,
+    `✨ ${logo}`,
+    `━━━━━━━━━━━━━━━━━━━`,
+    presupId ? `📋 ${presupId}` : '',
+    cliente  ? `👤 Para: ${cliente}` : '',
+    ``,
+    producto ? `📦 ${producto}` : '',
+    cantidad ? `   ${cantidad}` : '',
+    ``,
+    `✅ Variante: ${variante}`,
+    precio   ? `💰 Total: ${precio}` : '',
+    senia    ? `💳 Seña requerida (50%): ${senia}` : '',
+    ``,
+    desc ? `ℹ️ ${desc}` : '',
+    ``,
+    `⏳ Válido por 15 días`,
+    `━━━━━━━━━━━━━━━━━━━`,
+  ].filter(l => l !== undefined && !(l === '' && false)); // mantiene líneas vacías intencionales
+
+  return lineas.join('\n');
+}
+
+function generarTextoCompartirInterna() {
+  const body = document.getElementById('doc-interno-body');
+  if (!body) return '';
+
+  const presupId  = body.querySelector('.doc-meta-id')?.textContent?.trim() || '';
+  const cliente   = [...body.querySelectorAll('.doc-meta-date')].find(el => el.textContent.includes('Cliente'))?.textContent?.trim() || '';
+  const producto  = body.querySelector('[style*="font-size:17px"]')?.textContent?.trim() || '';
+
+  // Extraer filas de la tabla de totales
+  const totalRows = [...body.querySelectorAll('.doc-total-row')].map(row => {
+    const cols = row.querySelectorAll('span');
+    return cols.length >= 2 ? `${cols[0].textContent.trim()}: ${cols[1].textContent.trim()}` : '';
+  }).filter(Boolean);
+
+  const lineas = [
+    `🔒 HOJA INTERNA — PAPYRUS`,
+    `━━━━━━━━━━━━━━━━━━━`,
+    presupId ? presupId : '',
+    cliente  ? cliente  : '',
+    producto ? `Producto: ${producto}` : '',
+    ``,
+    `RESUMEN DE COSTOS`,
+    ...totalRows,
+    `━━━━━━━━━━━━━━━━━━━`,
+  ];
+
+  return lineas.join('\n');
+}
+
+// Actualizar botones cuando se abren las hojas
+// (se llama al final de generarVistaCliente y generarVistaInterna)
+
 </script>
 </body>
 </html>
