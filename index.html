@@ -270,7 +270,7 @@ td.price{font-family:'DM Mono',monospace;font-size:12px;color:var(--ink)}
   /* Sidebar → bottom nav */
   .sidebar{width:100%;min-height:auto;height:56px;top:auto;bottom:0;left:0;right:0;flex-direction:row;overflow:hidden;box-shadow:0 -2px 12px rgba(26,23,20,.2)}
   .sidebar-logo{display:none}
-  .sidebar-footer{display:none}
+  .sidebar-footer{display:flex;flex-direction:row;gap:4px;padding:4px 6px;border-top:none;border-left:1px solid rgba(255,255,255,.08);align-items:center;flex-shrink:0}
   .nav{flex:1;padding:0;overflow-x:auto;overflow-y:hidden;display:flex;flex-direction:row;align-items:stretch;scrollbar-width:none}
   .nav::-webkit-scrollbar{display:none}
   .nav-section{display:none}
@@ -409,8 +409,8 @@ td.price{font-family:'DM Mono',monospace;font-size:12px;color:var(--ink)}
   <div class="sidebar-footer">
     <div id="sync-status-text" style="font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.08em">○ sin config</div>
     <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
-      <button class="btn btn-secondary btn-sm" onclick="openModal('modal-config')" style="font-size:9px;padding:3px 8px">⚙ Config</button>
-      <button class="btn btn-secondary btn-sm" onclick="syncManual()" style="font-size:9px;padding:3px 8px" id="btn-sync" title="Traer cambios del servidor y sincronizar">↻ Sync</button>
+      <button class="btn btn-secondary btn-sm" onclick="openModal('modal-config')" style="font-size:11px;padding:6px 8px;min-height:36px">⚙</button>
+<button class="btn btn-secondary btn-sm" onclick="syncManual()" style="font-size:11px;padding:6px 8px;min-height:36px" id="btn-sync" title="Sincronizar">↻</button>
     </div>
   </div>
 </aside>
