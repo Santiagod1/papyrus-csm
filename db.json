@@ -605,7 +605,7 @@
     "49": 20,
     "50": 100,
     "51": 0,
-    "52": 100,
+    "52": 99,
     "53": 100,
     "54": 10,
     "55": 100,
@@ -722,6 +722,51 @@
         "mrgV": 5191.724,
         "total": 57108.964,
         "ganReal": 15191.724
+      }
+    },
+    {
+      "id": 37,
+      "codigo": "P037",
+      "cliente": "nere",
+      "productoFinal": "cuadro personalizado",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-05-15",
+      "materiales": [
+        {
+          "prodId": 69,
+          "cantidad": 1
+        },
+        {
+          "prodId": 52,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 100,
+      "total": 22666.280000000002,
+      "gananciaReal": 11333.140000000001,
+      "senia": 11333.140000000001,
+      "_c": {
+        "subMP": 11152.1,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 11333.140000000001,
+        "sub": 11333.140000000001,
+        "mrgV": 11333.140000000001,
+        "total": 22666.280000000002,
+        "ganReal": 11333.140000000001
       }
     }
   ],
