@@ -1314,7 +1314,7 @@ function showSection(n,el){
 // ═══════════════════════════
 function exportarDatos(){
   const blob=new Blob([JSON.stringify(DB,null,2)],{type:'application/json'});
-  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='papyrus-backup-'+new Date().toISOString().slice(0,10)+'.json';a.click();
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='papyrus-backup-'+hoyLocal()+'.json';a.click();
 }
 function importarDatos(input){
   const f=input.files[0];if(!f)return;
@@ -1487,7 +1487,7 @@ function nuevoPresupuesto(){
   document.getElementById('e-val-diseno').value=18000;
   document.getElementById('e-val-mo').value=10000;
   document.getElementById('e-margen').value=30;
-  document.getElementById('e-fecha').value=new Date().toISOString().slice(0,10);
+  document.getElementById('e-fecha').value=hoyLocal();
   document.getElementById('e-variante').value='Estándar';
   popSelTinta();popSelEquipo();renderMats();calcular();
 }
@@ -1796,7 +1796,7 @@ function nuevoPedido(){
   document.getElementById('pedidos-lista-view').style.display='none';
   document.getElementById('pedido-editor-view').style.display='block';
   document.getElementById('pedido-editor-title').textContent='Nuevo pedido';
-  const hoy=new Date().toISOString().slice(0,10);
+  const hoy=hoyLocal();
   document.getElementById('ped-id').value='PED'+String(nxtId.ped).padStart(3,'0');
   document.getElementById('ped-cliente').value='';
   document.getElementById('ped-fecha').value=hoy;
@@ -1984,6 +1984,12 @@ function verHojasPedido(){
 // DASHBOARD — CALENDARIO Y ALERTAS
 // ═══════════════════════════════════════════
 const MESES_ES = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+// Fecha local correcta — evita el bug UTC en Argentina (UTC-3)
+function hoyLocal() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
 let calAno = new Date().getFullYear();
 let calMes = new Date().getMonth();
 let calDiaSel = null;
@@ -1995,13 +2001,13 @@ function mesInformes(d){infMes+=d;if(infMes>11){infMes=0;infAno++}else if(infMes
 
 function renderDashboard(){
   const hoy = new Date();
-  const hoyStr = hoy.toISOString().slice(0,10);
+  const hoyStr = hoyLocal();
   document.getElementById('cal-titulo').textContent = `${MESES_ES[calMes]} ${calAno}`;
 
   const activos  = DB.pedidos.filter(p=>!['Entregado','Cancelado'].includes(p.estado));
   const entregados = DB.pedidos.filter(p=>p.estado==='Entregado');
-  const sinFecha = DB.pedidos.filter(p=>!['Entregado','Cancelado'].includes(p.estado)&&!p.fechaEntrega);
-  const vencidos = DB.pedidos.filter(p=>p.fechaEntrega&&p.fechaEntrega<hoyStr&&!['Entregado','Cancelado'].includes(p.estado));
+  const sinFecha = DB.pedidos.filter(p=>!['Entregado','Cancelado'].includes(p.estado)&&!p.entrega);
+  const vencidos = DB.pedidos.filter(p=>p.entrega&&p.entrega<hoyStr&&!['Entregado','Cancelado'].includes(p.estado));
 
   document.getElementById('dash-stats').innerHTML=`
     <div class="stat-card"><div class="stat-label">Pedidos activos</div><div class="stat-value">${activos.length}</div></div>
@@ -2012,9 +2018,9 @@ function renderDashboard(){
   // Mapa día → pedidos con fecha de entrega
   const porDia = {};
   DB.pedidos.forEach(p=>{
-    if(p.fechaEntrega&&p.estado!=='Cancelado'){
-      if(!porDia[p.fechaEntrega]) porDia[p.fechaEntrega]=[];
-      porDia[p.fechaEntrega].push(p);
+    if(p.entrega&&p.estado!=='Cancelado'){
+      if(!porDia[p.entrega]) porDia[p.entrega]=[];
+      porDia[p.entrega].push(p);
     }
   });
 
@@ -2049,17 +2055,17 @@ function renderDashboard(){
 
   // Próximas entregas 14 días
   const hasta14 = new Date(hoy); hasta14.setDate(hoy.getDate()+14);
-  const hasta14Str = hasta14.toISOString().slice(0,10);
+  const hasta14Str = `${hasta14.getFullYear()}-${String(hasta14.getMonth()+1).padStart(2,'0')}-${String(hasta14.getDate()).padStart(2,'0')}`;
   const proximas = DB.pedidos
-    .filter(p=>p.fechaEntrega&&p.fechaEntrega>=hoyStr&&p.fechaEntrega<=hasta14Str&&!['Entregado','Cancelado'].includes(p.estado))
-    .sort((a,b)=>a.fechaEntrega.localeCompare(b.fechaEntrega));
+    .filter(p=>p.entrega&&p.entrega>=hoyStr&&p.entrega<=hasta14Str&&!['Entregado','Cancelado'].includes(p.estado))
+    .sort((a,b)=>a.entrega.localeCompare(b.entrega));
 
   const proxEl = document.getElementById('dash-proximas');
   if(!proximas.length){
     proxEl.innerHTML=`<div style="padding:14px;text-align:center;font-size:12px;color:var(--ink-muted);font-family:'DM Mono',monospace">Sin entregas en los próximos 14 días</div>`;
   } else {
     proxEl.innerHTML=proximas.map(p=>{
-      const fe=new Date(p.fechaEntrega+'T12:00:00');
+      const fe=new Date(p.entrega+'T12:00:00');
       const diff=Math.round((fe-hoy)/(1000*60*60*24));
       const urgente=diff<=3;
       const col=urgente?'var(--red)':'var(--gold)';
@@ -2068,7 +2074,7 @@ function renderDashboard(){
         <div class="prox-dias" style="border-color:${col};color:${col}">${diff}d</div>
         <div style="flex:1;min-width:0">
           <div style="font-size:13px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.nombre||p.producto||p.codigo||'—'}</div>
-          <div style="font-size:11px;color:var(--ink-muted);font-family:'DM Mono',monospace">${p.cliente||'—'} · ${p.fechaEntrega}</div>
+          <div style="font-size:11px;color:var(--ink-muted);font-family:'DM Mono',monospace">${p.cliente||'—'} · ${p.entrega}</div>
         </div>
         <span class="badge badge-${stBadge}">${p.estado||'—'}</span>
       </div>`;
@@ -2093,7 +2099,7 @@ function renderDashboard(){
 function calClick(fecha){
   if(calDiaSel===fecha){calDiaSel=null;document.getElementById('cal-detalle').style.display='none';renderDashboard();return}
   calDiaSel=fecha;
-  const entregas=DB.pedidos.filter(p=>p.fechaEntrega===fecha&&p.estado!=='Cancelado');
+  const entregas=DB.pedidos.filter(p=>p.entrega===fecha&&p.estado!=='Cancelado');
   const det=document.getElementById('cal-detalle');
   if(!entregas.length){det.style.display='none';renderDashboard();return}
   det.style.display='block';
@@ -2117,7 +2123,7 @@ function renderInformes(){
   const mesStr=`${infAno}-${String(infMes+1).padStart(2,'0')}`;
   document.getElementById('inf-titulo').textContent=`${MESES_ES[infMes]} ${infAno}`;
 
-  const pedMes   = DB.pedidos.filter(p=>(p.fechaPedido||'').startsWith(mesStr));
+  const pedMes   = DB.pedidos.filter(p=>(p.fecha||'').startsWith(mesStr));
   const presupMes= DB.presupuestos.filter(p=>(p.fecha||'').startsWith(mesStr));
   const facturacion = presupMes.reduce((a,p)=>a+(p.total||0),0);
   const ganancia    = presupMes.reduce((a,p)=>a+(p.gananciaReal||0),0);
@@ -2140,7 +2146,7 @@ function renderInformes(){
       return`<div style="display:flex;justify-content:space-between;align-items:center;padding:10px 16px;border-bottom:1px solid var(--border)">
         <div>
           <div style="font-size:13px;font-weight:500">${p.nombre||p.producto||p.codigo||'—'}</div>
-          <div style="font-size:11px;color:var(--ink-muted);font-family:'DM Mono',monospace">${p.cliente||'—'} · ${p.fechaPedido||'sin fecha'}</div>
+          <div style="font-size:11px;color:var(--ink-muted);font-family:'DM Mono',monospace">${p.cliente||'—'} · ${p.fecha||'sin fecha'}</div>
         </div>
         <div style="text-align:right">
           <span class="badge badge-${stBadge}">${p.estado||'—'}</span>
