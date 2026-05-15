@@ -727,7 +727,7 @@
       "obs": "",
       "presupId": 36,
       "variante": "Estándar",
-      "seniaPagada": false,
+      "seniaPagada": true,
       "pagadoCompleto": false,
       "total": 57108.964,
       "senia": 28554.482
