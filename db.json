@@ -559,6 +559,14 @@
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 7000
+    },
+    {
+      "id": 71,
+      "nombre": "Adhesivo liquido ibi",
+      "tipo": "Especial",
+      "presentacion": "100ml",
+      "unidades": 100,
+      "costoTotal": 1500
     }
   ],
   "stock": {
@@ -631,7 +639,8 @@
     "67": 6,
     "68": 0,
     "69": 0,
-    "70": 0
+    "70": 0,
+    "71": 0
   },
   "equipos": [
     {
