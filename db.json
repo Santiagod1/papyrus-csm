@@ -615,7 +615,7 @@
     "43": 100,
     "44": 50,
     "45": 48,
-    "46": 47,
+    "46": 28,
     "47": 100,
     "48": 20,
     "49": 20,
@@ -866,6 +866,47 @@
         "mrgV": 19455.43823611111,
         "total": 75042.404625,
         "ganReal": 39455.438236111106
+      }
+    },
+    {
+      "id": 39,
+      "codigo": "P039",
+      "cliente": "zoeynere",
+      "productoFinal": "fotos",
+      "variante": "Estándar",
+      "cantidad": 19,
+      "fecha": "2026-05-18",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 19
+        }
+      ],
+      "paginas": 19,
+      "tintas": "ambas",
+      "usosEquipo": 19,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 7780.188,
+      "gananciaReal": 1795.428,
+      "senia": 3890.094,
+      "_c": {
+        "subMP": 2470,
+        "cTinta": 456.76,
+        "cAmort": 2983,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 5984.76,
+        "sub": 5984.76,
+        "mrgV": 1795.428,
+        "total": 7780.188,
+        "ganReal": 1795.428
       }
     }
   ],
