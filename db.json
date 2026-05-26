@@ -600,7 +600,7 @@
     "20": 50,
     "21": 10,
     "22": 20,
-    "23": 20,
+    "23": 19,
     "24": 3,
     "25": 1,
     "26": 12,
@@ -1080,6 +1080,47 @@
         "mrgV": 1293.9779999999998,
         "total": 4991.058,
         "ganReal": 4293.978
+      }
+    },
+    {
+      "id": 44,
+      "codigo": "P044",
+      "cliente": "nerea",
+      "productoFinal": "Stickers",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 23,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "todos",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 4561.9349999999995,
+      "gananciaReal": 3520.645,
+      "senia": 2280.9674999999997,
+      "_c": {
+        "subMP": 380.25,
+        "cTinta": 24.04,
+        "cAmort": 562,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 1041.29,
+        "sub": 3041.29,
+        "mrgV": 1520.645,
+        "total": 4561.9349999999995,
+        "ganReal": 3520.645
       }
     }
   ],
