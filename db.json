@@ -567,6 +567,14 @@
       "presentacion": "100ml",
       "unidades": 100,
       "costoTotal": 1500
+    },
+    {
+      "id": 72,
+      "nombre": "Matelina 230gr",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 9313
     }
   ],
   "stock": {
@@ -640,7 +648,8 @@
     "68": 0,
     "69": 0,
     "70": 0,
-    "71": 0
+    "71": 0,
+    "72": 0
   },
   "equipos": [
     {
