@@ -623,7 +623,7 @@
     "43": 100,
     "44": 50,
     "45": 48,
-    "46": 28,
+    "46": 26,
     "47": 100,
     "48": 20,
     "49": 20,
@@ -1039,6 +1039,47 @@
         "mrgV": 2256.0475,
         "total": 8701.897500000001,
         "ganReal": 7256.047500000001
+      }
+    },
+    {
+      "id": 43,
+      "codigo": "P043",
+      "cliente": "micaela",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 4991.058,
+      "gananciaReal": 4293.978,
+      "senia": 2495.529,
+      "_c": {
+        "subMP": 260,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 697.0799999999999,
+        "sub": 3697.08,
+        "mrgV": 1293.9779999999998,
+        "total": 4991.058,
+        "ganReal": 4293.978
       }
     }
   ],
