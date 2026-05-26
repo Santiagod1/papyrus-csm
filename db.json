@@ -958,6 +958,47 @@
         "total": 8384.85,
         "ganReal": 7173.85
       }
+    },
+    {
+      "id": 41,
+      "codigo": "P041",
+      "cliente": "micaela",
+      "productoFinal": "etiquetas collares",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 8651.272500000001,
+      "gananciaReal": 7242.922500000001,
+      "senia": 4325.6362500000005,
+      "_c": {
+        "subMP": 465.65,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1408.35,
+        "sub": 6408.35,
+        "mrgV": 2242.9225,
+        "total": 8651.272500000001,
+        "ganReal": 7242.922500000001
+      }
     }
   ],
   "pedidos": [
