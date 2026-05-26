@@ -617,7 +617,7 @@
     "37": 25,
     "38": 150,
     "39": 100,
-    "40": 93,
+    "40": 89,
     "41": 50,
     "42": 20,
     "43": 100,
@@ -916,6 +916,47 @@
         "mrgV": 1795.428,
         "total": 7780.188,
         "ganReal": 1795.428
+      }
+    },
+    {
+      "id": 40,
+      "codigo": "P040",
+      "cliente": "micaela",
+      "productoFinal": "etiquetas aros",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 8384.85,
+      "gananciaReal": 7173.85,
+      "senia": 4192.425,
+      "_c": {
+        "subMP": 411.84,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1211,
+        "sub": 6211,
+        "mrgV": 2173.85,
+        "total": 8384.85,
+        "ganReal": 7173.85
       }
     }
   ],
