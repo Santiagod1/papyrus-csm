@@ -622,7 +622,7 @@
     "42": 20,
     "43": 100,
     "44": 50,
-    "45": 48,
+    "45": 47,
     "46": 26,
     "47": 100,
     "48": 20,
@@ -1166,6 +1166,47 @@
         "mrgV": 12193.65,
         "total": 47032.65,
         "ganReal": 22193.65
+      }
+    },
+    {
+      "id": 46,
+      "codigo": "P046",
+      "cliente": "nerea",
+      "productoFinal": "Stickers comun",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "todos",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 4211.01,
+      "gananciaReal": 3403.67,
+      "senia": 2105.505,
+      "_c": {
+        "subMP": 183.8,
+        "cTinta": 24.04,
+        "cAmort": 562,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 807.34,
+        "sub": 2807.34,
+        "mrgV": 1403.67,
+        "total": 4211.01,
+        "ganReal": 3403.67
       }
     }
   ],
