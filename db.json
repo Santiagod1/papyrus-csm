@@ -999,6 +999,47 @@
         "total": 8651.272500000001,
         "ganReal": 7242.922500000001
       }
+    },
+    {
+      "id": 42,
+      "codigo": "P042",
+      "cliente": "micaela",
+      "productoFinal": "etiquetas para pulseras",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 8701.897500000001,
+      "gananciaReal": 7256.047500000001,
+      "senia": 4350.9487500000005,
+      "_c": {
+        "subMP": 465.65,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1445.85,
+        "sub": 6445.85,
+        "mrgV": 2256.0475,
+        "total": 8701.897500000001,
+        "ganReal": 7256.047500000001
+      }
     }
   ],
   "pedidos": [
