@@ -575,6 +575,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 9313
+    },
+    {
+      "id": 73,
+      "nombre": "pouch A3",
+      "tipo": "Especial",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 6512
     }
   ],
   "stock": {
@@ -649,7 +657,8 @@
     "69": 0,
     "70": 0,
     "71": 0,
-    "72": 0
+    "72": 0,
+    "73": 0
   },
   "equipos": [
     {
