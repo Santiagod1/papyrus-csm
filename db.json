@@ -617,13 +617,13 @@
     "37": 25,
     "38": 150,
     "39": 100,
-    "40": 89,
+    "40": 74,
     "41": 0,
     "42": 20,
     "43": 100,
     "44": 50,
     "45": 47,
-    "46": 26,
+    "46": 25,
     "47": 100,
     "48": 20,
     "49": 20,
@@ -1207,6 +1207,51 @@
         "mrgV": 1403.67,
         "total": 4211.01,
         "ganReal": 3403.67
+      }
+    },
+    {
+      "id": 47,
+      "codigo": "P047",
+      "cliente": "nerea",
+      "productoFinal": "Cuadernos engrapados",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 40,
+          "cantidad": 15
+        }
+      ],
+      "paginas": 16,
+      "tintas": "ambas",
+      "usosEquipo": 15,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 8435.752,
+      "gananciaReal": 3946.712,
+      "senia": 4217.876,
+      "_c": {
+        "subMP": 1674.3999999999999,
+        "cTinta": 384.64,
+        "cAmort": 2355,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 4489.04,
+        "sub": 6489.04,
+        "mrgV": 1946.712,
+        "total": 8435.752,
+        "ganReal": 3946.712
       }
     }
   ],
