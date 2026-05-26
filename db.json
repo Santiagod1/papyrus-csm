@@ -618,7 +618,7 @@
     "38": 150,
     "39": 100,
     "40": 89,
-    "41": 50,
+    "41": 0,
     "42": 20,
     "43": 100,
     "44": 50,
@@ -1121,6 +1121,51 @@
         "mrgV": 1520.645,
         "total": 4561.9349999999995,
         "ganReal": 3520.645
+      }
+    },
+    {
+      "id": 45,
+      "codigo": "P045",
+      "cliente": "bren",
+      "productoFinal": "cajitas accesorios",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-05-26",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 100
+        },
+        {
+          "prodId": 71,
+          "cantidad": 50
+        }
+      ],
+      "paginas": 50,
+      "tintas": "ambas",
+      "usosEquipo": 30,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 47032.65,
+      "gananciaReal": 22193.65,
+      "senia": 23516.325,
+      "_c": {
+        "subMP": 18702,
+        "cTinta": 1202,
+        "cAmort": 4710,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 24839,
+        "sub": 34839,
+        "mrgV": 12193.65,
+        "total": 47032.65,
+        "ganReal": 22193.65
       }
     }
   ],
