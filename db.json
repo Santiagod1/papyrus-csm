@@ -633,7 +633,7 @@
     "45": 47,
     "46": 25,
     "47": 100,
-    "48": 18,
+    "48": 16,
     "49": 20,
     "50": 100,
     "51": 0,
@@ -1461,6 +1461,51 @@
         "mrgV": 3978.9,
         "total": 12820.9,
         "ganReal": 8978.9
+      }
+    },
+    {
+      "id": 52,
+      "codigo": "P052",
+      "cliente": "mari",
+      "productoFinal": "Cajita porta vaso",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-05-27",
+      "materiales": [
+        {
+          "prodId": 48,
+          "cantidad": 2
+        },
+        {
+          "prodId": 71,
+          "cantidad": 17
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 2771.7039999999997,
+      "gananciaReal": 1639.6239999999998,
+      "senia": 1385.8519999999999,
+      "_c": {
+        "subMP": 695,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1132.08,
+        "sub": 2132.08,
+        "mrgV": 639.6239999999999,
+        "total": 2771.7039999999997,
+        "ganReal": 1639.6239999999998
       }
     }
   ],
