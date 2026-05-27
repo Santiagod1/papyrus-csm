@@ -637,7 +637,7 @@
     "49": 20,
     "50": 100,
     "51": 0,
-    "52": 99,
+    "52": 81,
     "53": 100,
     "54": 10,
     "55": 100,
@@ -1379,6 +1379,47 @@
         "mrgV": 3816.186,
         "total": 16536.806,
         "ganReal": 8816.186
+      }
+    },
+    {
+      "id": 50,
+      "codigo": "P050",
+      "cliente": "Presson uñas",
+      "productoFinal": "cartoncitos uñas",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-05-27",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 18
+        }
+      ],
+      "paginas": 18,
+      "tintas": "ambas",
+      "usosEquipo": 18,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 45,
+      "total": 16162.454000000002,
+      "gananciaReal": 10015.934000000001,
+      "senia": 8081.227000000001,
+      "_c": {
+        "subMP": 2737.7999999999997,
+        "cTinta": 432.72,
+        "cAmort": 2826,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 6146.5199999999995,
+        "sub": 11146.52,
+        "mrgV": 5015.934,
+        "total": 16162.454000000002,
+        "ganReal": 10015.934000000001
       }
     }
   ],
