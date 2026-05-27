@@ -625,7 +625,7 @@
     "37": 25,
     "38": 150,
     "39": 100,
-    "40": 71,
+    "40": 58,
     "41": 0,
     "42": 20,
     "43": 100,
@@ -1420,6 +1420,47 @@
         "mrgV": 5015.934,
         "total": 16162.454000000002,
         "ganReal": 10015.934000000001
+      }
+    },
+    {
+      "id": 51,
+      "codigo": "P051",
+      "cliente": "Presson uñas",
+      "productoFinal": "personal",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-05-27",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 13
+        }
+      ],
+      "paginas": 13,
+      "tintas": "ambas",
+      "usosEquipo": 13,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 45,
+      "total": 12820.9,
+      "gananciaReal": 8978.9,
+      "senia": 6410.45,
+      "_c": {
+        "subMP": 1338.48,
+        "cTinta": 312.52,
+        "cAmort": 2041,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 3842,
+        "sub": 8842,
+        "mrgV": 3978.9,
+        "total": 12820.9,
+        "ganReal": 8978.9
       }
     }
   ],
