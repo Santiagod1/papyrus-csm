@@ -1180,7 +1180,7 @@
     {
       "id": 46,
       "codigo": "P046",
-      "cliente": "nerea",
+      "cliente": "Marito",
       "productoFinal": "Stickers comun",
       "variante": "Estándar",
       "cantidad": 1,
@@ -1188,34 +1188,34 @@
       "materiales": [
         {
           "prodId": 45,
-          "cantidad": 1
+          "cantidad": 5
         }
       ],
-      "paginas": 1,
+      "paginas": 5,
       "tintas": "ambas",
-      "usosEquipo": 1,
+      "usosEquipo": 5,
       "equipoId": "todos",
       "hsLuz": 0.5,
       "hsDise": 0,
       "valDise": 18000,
-      "hsMo": 0.2,
+      "hsMo": 0.5,
       "valMo": 10000,
-      "margen": 50,
-      "total": 4211.01,
-      "gananciaReal": 3403.67,
-      "senia": 2105.505,
+      "margen": 126,
+      "total": 20083.942000000003,
+      "gananciaReal": 16197.242,
+      "senia": 10041.971000000001,
       "_c": {
-        "subMP": 183.8,
-        "cTinta": 24.04,
-        "cAmort": 562,
+        "subMP": 919,
+        "cTinta": 120.20000000000002,
+        "cAmort": 2810,
         "cLuz": 37.5,
         "cDise": 0,
-        "cMo": 2000,
-        "cProd": 807.34,
-        "sub": 2807.34,
-        "mrgV": 1403.67,
-        "total": 4211.01,
-        "ganReal": 3403.67
+        "cMo": 5000,
+        "cProd": 3886.7,
+        "sub": 8886.7,
+        "mrgV": 11197.242,
+        "total": 20083.942000000003,
+        "ganReal": 16197.242
       }
     },
     {
