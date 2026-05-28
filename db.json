@@ -1624,6 +1624,21 @@
       "pagadoCompleto": false,
       "total": 16162.454000000002,
       "senia": 8081.227000000001
+    },
+    {
+      "id": 4,
+      "codigo": "PED004",
+      "cliente": "Presson uñas",
+      "fecha": "2026-05-28",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 51,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 12820.9,
+      "senia": 6410.45
     }
   ]
 }
