@@ -591,6 +591,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 5200
+    },
+    {
+      "id": 75,
+      "nombre": "Vino Tinto Trumpeter Malbec 750ml Botella Rutini WinesVino Tinto Trumpeter Malbec 750ml Botella Rutini Wines clip-icon Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines Nuevo  |  +100 mil vendidos Vino Tinto Trumpeter Malbec 750ml Botella Rutini Wines",
+      "tipo": "Especial",
+      "presentacion": "750ml",
+      "unidades": 1,
+      "costoTotal": 7700
     }
   ],
   "stock": {
@@ -667,7 +675,8 @@
     "71": 0,
     "72": 0,
     "73": 0,
-    "74": 0
+    "74": 0,
+    "75": 0
   },
   "equipos": [
     {
