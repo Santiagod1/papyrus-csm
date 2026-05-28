@@ -599,6 +599,14 @@
       "presentacion": "750ml",
       "unidades": 1,
       "costoTotal": 7700
+    },
+    {
+      "id": 76,
+      "nombre": "Bolsas Para Botella De Vino Madera, Kraft 14x08x40",
+      "tipo": "Especial",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 7700
     }
   ],
   "stock": {
@@ -676,7 +684,8 @@
     "72": 0,
     "73": 0,
     "74": 0,
-    "75": 0
+    "75": 0,
+    "76": 0
   },
   "equipos": [
     {
