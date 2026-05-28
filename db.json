@@ -583,6 +583,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 6512
+    },
+    {
+      "id": 74,
+      "nombre": "Cartulina Espejada - Metalina",
+      "tipo": "Papel",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 5200
     }
   ],
   "stock": {
@@ -658,7 +666,8 @@
     "70": 0,
     "71": 0,
     "72": 0,
-    "73": 0
+    "73": 0,
+    "74": 0
   },
   "equipos": [
     {
