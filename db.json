@@ -1639,6 +1639,21 @@
       "pagadoCompleto": false,
       "total": 12820.9,
       "senia": 6410.45
+    },
+    {
+      "id": 5,
+      "codigo": "PED005",
+      "cliente": "micaela",
+      "fecha": "2026-05-28",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 43,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 4991.058,
+      "senia": 2495.529
     }
   ]
 }
