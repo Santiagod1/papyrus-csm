@@ -1652,6 +1652,47 @@
         "total": 15067.764799999999,
         "ganReal": 5531.2047999999995
       }
+    },
+    {
+      "id": 55,
+      "codigo": "P055",
+      "cliente": "Gustavo",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-05-29",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 17
+        }
+      ],
+      "paginas": 17,
+      "tintas": "ambas",
+      "usosEquipo": 17,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 32031.78,
+      "gananciaReal": 25677.260000000002,
+      "senia": 16015.89,
+      "_c": {
+        "subMP": 3051.84,
+        "cTinta": 408.68000000000006,
+        "cAmort": 2669,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 6354.52,
+        "sub": 21354.52,
+        "mrgV": 10677.26,
+        "total": 32031.78,
+        "ganReal": 25677.260000000002
+      }
     }
   ],
   "pedidos": [
