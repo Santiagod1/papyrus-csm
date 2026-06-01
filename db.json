@@ -626,7 +626,7 @@
     "14": 10,
     "15": 25,
     "16": 100,
-    "17": 100,
+    "17": 75,
     "18": 1,
     "19": 30,
     "20": 50,
@@ -655,7 +655,7 @@
     "43": 100,
     "44": 50,
     "45": 47,
-    "46": 21,
+    "46": 0,
     "47": 100,
     "48": 16,
     "49": 20,
@@ -1786,6 +1786,55 @@
         "mrgV": 13140,
         "total": 26280,
         "ganReal": 23140
+      }
+    },
+    {
+      "id": 58,
+      "codigo": "P058",
+      "cliente": "Press",
+      "productoFinal": "Bolsitas con cordon",
+      "variante": "Estándar",
+      "cantidad": 30,
+      "fecha": "2026-06-01",
+      "materiales": [
+        {
+          "prodId": 71,
+          "cantidad": 60
+        },
+        {
+          "prodId": 46,
+          "cantidad": 60
+        },
+        {
+          "prodId": 17,
+          "cantidad": 25
+        }
+      ],
+      "paginas": 60,
+      "tintas": "ambas",
+      "usosEquipo": 60,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0.5,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 43,
+      "total": 65060.2095,
+      "gananciaReal": 43563.5595,
+      "senia": 32530.10475,
+      "_c": {
+        "subMP": 10409.25,
+        "cTinta": 1442.4,
+        "cAmort": 9420,
+        "cLuz": 225,
+        "cDise": 9000,
+        "cMo": 15000,
+        "cProd": 21496.65,
+        "sub": 45496.65,
+        "mrgV": 19563.5595,
+        "total": 65060.2095,
+        "ganReal": 43563.5595
       }
     }
   ],
