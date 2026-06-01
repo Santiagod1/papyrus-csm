@@ -649,7 +649,7 @@
     "37": 25,
     "38": 150,
     "39": 100,
-    "40": 55.5,
+    "40": 45.5,
     "41": 0,
     "42": 20,
     "43": 100,
@@ -1741,6 +1741,51 @@
         "mrgV": 27288.051,
         "total": 47062.001000000004,
         "ganReal": 37288.051
+      }
+    },
+    {
+      "id": 57,
+      "codigo": "P057",
+      "cliente": "jesi",
+      "productoFinal": "Letras 3D",
+      "variante": "Estándar",
+      "cantidad": 6,
+      "fecha": "2026-06-01",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 10
+        },
+        {
+          "prodId": 71,
+          "cantidad": 10
+        }
+      ],
+      "paginas": 10,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 100,
+      "total": 26280,
+      "gananciaReal": 23140,
+      "senia": 13140,
+      "_c": {
+        "subMP": 1179.6,
+        "cTinta": 240.40000000000003,
+        "cAmort": 1570,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 3140,
+        "sub": 13140,
+        "mrgV": 13140,
+        "total": 26280,
+        "ganReal": 23140
       }
     }
   ],
