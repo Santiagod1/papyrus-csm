@@ -1928,6 +1928,21 @@
       "pagadoCompleto": false,
       "total": 47062.001000000004,
       "senia": 23531.000500000002
+    },
+    {
+      "id": 7,
+      "codigo": "PED007",
+      "cliente": "Gustavo",
+      "fecha": "2026-06-02",
+      "entrega": "2026-06-01",
+      "estado": "Entregado",
+      "obs": "",
+      "presupId": 55,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 32031.78,
+      "senia": 16015.89
     }
   ]
 }
