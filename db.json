@@ -1915,21 +1915,6 @@
       "senia": 2495.529
     },
     {
-      "id": 6,
-      "codigo": "PED006",
-      "cliente": "jesi",
-      "fecha": "2026-06-01",
-      "entrega": "",
-      "estado": "Presupuestado",
-      "obs": "",
-      "presupId": 56,
-      "variante": "Estándar",
-      "seniaPagada": false,
-      "pagadoCompleto": false,
-      "total": 47062.001000000004,
-      "senia": 23531.000500000002
-    },
-    {
       "id": 7,
       "codigo": "PED007",
       "cliente": "Gustavo",
