@@ -640,7 +640,7 @@
     "20": 50,
     "21": 10,
     "22": 19,
-    "23": 4,
+    "23": 0,
     "24": 0,
     "25": 1,
     "26": 12,
@@ -1946,6 +1946,47 @@
         "mrgV": 1648.086,
         "total": 7141.706,
         "ganReal": 3648.0860000000002
+      }
+    },
+    {
+      "id": 61,
+      "codigo": "P061",
+      "cliente": "Gustavo",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 5000,
+      "fecha": "2026-06-06",
+      "materiales": [
+        {
+          "prodId": 23,
+          "cantidad": 1250
+        }
+      ],
+      "paginas": 1250,
+      "tintas": "ambas",
+      "usosEquipo": 1250,
+      "equipoId": "4",
+      "hsLuz": 11,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 3,
+      "valMo": 10000,
+      "margen": 98,
+      "total": 1454310,
+      "gananciaReal": 749810,
+      "senia": 727155,
+      "_c": {
+        "subMP": 477375,
+        "cTinta": 30050,
+        "cAmort": 196250,
+        "cLuz": 825,
+        "cDise": 0,
+        "cMo": 30000,
+        "cProd": 704500,
+        "sub": 734500,
+        "mrgV": 719810,
+        "total": 1454310,
+        "ganReal": 749810
       }
     }
   ],
