@@ -607,6 +607,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 7700
+    },
+    {
+      "id": 77,
+      "nombre": "Blanco Perlado",
+      "tipo": "Papel adhesivo",
+      "presentacion": "20 Hojas",
+      "unidades": 20,
+      "costoTotal": 8262
     }
   ],
   "stock": {
@@ -685,7 +693,8 @@
     "73": 0,
     "74": 0,
     "75": 0,
-    "76": 0
+    "76": 0,
+    "77": 0
   },
   "equipos": [
     {
