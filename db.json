@@ -681,7 +681,7 @@
     "61": 500,
     "62": 20,
     "63": 100,
-    "64": 1000,
+    "64": 999,
     "65": 10,
     "66": 50,
     "67": 6,
@@ -1987,6 +1987,59 @@
         "mrgV": 719810,
         "total": 1454310,
         "ganReal": 749810
+      }
+    },
+    {
+      "id": 62,
+      "codigo": "P062",
+      "cliente": "giuliana",
+      "productoFinal": "centro de mesa",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-06-15",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 1.5
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 71,
+          "cantidad": 2
+        },
+        {
+          "prodId": 64,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 2758.2749999999996,
+      "gananciaReal": 1919.425,
+      "senia": 1379.1374999999998,
+      "_c": {
+        "subMP": 439.27000000000004,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 838.85,
+        "sub": 1838.85,
+        "mrgV": 919.425,
+        "total": 2758.2749999999996,
+        "ganReal": 1919.425
       }
     }
   ],
