@@ -2041,6 +2041,47 @@
         "total": 2758.2749999999996,
         "ganReal": 1919.425
       }
+    },
+    {
+      "id": 63,
+      "codigo": "P063",
+      "cliente": "nerea",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-06-15",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 6
+        }
+      ],
+      "paginas": 6,
+      "tintas": "ambas",
+      "usosEquipo": 6,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 80,
+      "total": 13096.548000000003,
+      "gananciaReal": 10820.688000000002,
+      "senia": 6548.274000000001,
+      "_c": {
+        "subMP": 1077.1200000000001,
+        "cTinta": 144.24,
+        "cAmort": 942,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 2275.86,
+        "sub": 7275.860000000001,
+        "mrgV": 5820.688000000001,
+        "total": 13096.548000000003,
+        "ganReal": 10820.688000000002
+      }
     }
   ],
   "pedidos": [
