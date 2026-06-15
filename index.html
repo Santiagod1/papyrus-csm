@@ -1566,7 +1566,7 @@ function calcular(){
   const cProd=subMP+cTinta+cAmort+cLuz;
   const sub=cProd+cDise+cMo;
   const mrg=parseFloat(document.getElementById('e-margen').value)||0;
-  const mrgV=sub*(mrg/100);
+  const mrgV=mrg>=100?0:sub/(1-mrg/100)-sub;
   const total=sub+mrgV;
   const ganReal=cDise+cMo+mrgV;
   document.getElementById('sum-producto').textContent=document.getElementById('e-producto').value||'Nuevo presupuesto';
@@ -1601,7 +1601,7 @@ function recalc(d){
   const cMo=d.hsMo*d.valMo;
   const cProd=subMP+cTinta+cAmort+cLuz;
   const sub=cProd+cDise+cMo;
-  const mrgV=sub*(d.margen/100);
+  const mrgV=d.margen>=100?0:sub/(1-d.margen/100)-sub;
   return{subMP,cTinta,cAmort,cLuz,cDise,cMo,cProd,sub,mrgV,total:sub+mrgV,ganReal:cDise+cMo+mrgV};
 }
 
