@@ -662,7 +662,7 @@
     "42": 20,
     "43": 100,
     "44": 50,
-    "45": 47,
+    "45": 42,
     "46": 0,
     "47": 99,
     "48": 16,
@@ -2122,6 +2122,47 @@
         "mrgV": 7411.859999999999,
         "total": 12353.099999999999,
         "ganReal": 10411.859999999999
+      }
+    },
+    {
+      "id": 65,
+      "codigo": "P065",
+      "cliente": "nerea",
+      "productoFinal": "etiquetas adhesivos",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-06-15",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 60,
+      "total": 17154.25,
+      "gananciaReal": 15292.55,
+      "senia": 8577.125,
+      "_c": {
+        "subMP": 919,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1861.7,
+        "sub": 6861.7,
+        "mrgV": 10292.55,
+        "total": 17154.25,
+        "ganReal": 15292.55
       }
     }
   ],
