@@ -2046,7 +2046,7 @@
       "id": 63,
       "codigo": "P063",
       "cliente": "nerea",
-      "productoFinal": "etiquetas",
+      "productoFinal": "etiquetas para ropa matelina",
       "variante": "Estándar",
       "cantidad": 50,
       "fecha": "2026-06-15",
@@ -2065,10 +2065,10 @@
       "valDise": 18000,
       "hsMo": 0.5,
       "valMo": 10000,
-      "margen": 80,
-      "total": 13096.548000000003,
-      "gananciaReal": 10820.688000000002,
-      "senia": 6548.274000000001,
+      "margen": 50,
+      "total": 14551.720000000001,
+      "gananciaReal": 12275.86,
+      "senia": 7275.860000000001,
       "_c": {
         "subMP": 1077.1200000000001,
         "cTinta": 144.24,
@@ -2078,9 +2078,9 @@
         "cMo": 5000,
         "cProd": 2275.86,
         "sub": 7275.860000000001,
-        "mrgV": 5820.688000000001,
-        "total": 13096.548000000003,
-        "ganReal": 10820.688000000002
+        "mrgV": 7275.860000000001,
+        "total": 14551.720000000001,
+        "ganReal": 12275.86
       }
     }
   ],
