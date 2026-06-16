@@ -2164,6 +2164,47 @@
         "total": 17154.25,
         "ganReal": 15292.55
       }
+    },
+    {
+      "id": 66,
+      "codigo": "P066",
+      "cliente": "nerea",
+      "productoFinal": "etiquetas de vino 13x10",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-06-15",
+      "materiales": [
+        {
+          "prodId": 23,
+          "cantidad": 25
+        }
+      ],
+      "paginas": 25,
+      "tintas": "ambas",
+      "usosEquipo": 25,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 60,
+      "total": 48058.75,
+      "gananciaReal": 33835.25,
+      "senia": 24029.375,
+      "_c": {
+        "subMP": 9547.5,
+        "cTinta": 601,
+        "cAmort": 3925,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 14223.5,
+        "sub": 19223.5,
+        "mrgV": 28835.25,
+        "total": 48058.75,
+        "ganReal": 33835.25
+      }
     }
   ],
   "pedidos": [
