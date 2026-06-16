@@ -2082,6 +2082,47 @@
         "total": 14551.720000000001,
         "ganReal": 12275.86
       }
+    },
+    {
+      "id": 64,
+      "codigo": "P064",
+      "cliente": "nerea",
+      "productoFinal": "etiquetas fotografico",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-06-15",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 6
+        }
+      ],
+      "paginas": 6,
+      "tintas": "ambas",
+      "usosEquipo": 6,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 60,
+      "total": 12353.099999999999,
+      "gananciaReal": 10411.859999999999,
+      "senia": 6176.549999999999,
+      "_c": {
+        "subMP": 780,
+        "cTinta": 144.24,
+        "cAmort": 942,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 1941.24,
+        "sub": 4941.24,
+        "mrgV": 7411.859999999999,
+        "total": 12353.099999999999,
+        "ganReal": 10411.859999999999
+      }
     }
   ],
   "pedidos": [
