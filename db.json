@@ -2205,6 +2205,47 @@
         "total": 48058.75,
         "ganReal": 33835.25
       }
+    },
+    {
+      "id": 67,
+      "codigo": "P067",
+      "cliente": "nerea",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-06-15",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 60,
+      "total": 12382,
+      "gananciaReal": 10429.2,
+      "senia": 6191,
+      "_c": {
+        "subMP": 897.6,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 1952.8000000000002,
+        "sub": 4952.8,
+        "mrgV": 7429.2,
+        "total": 12382,
+        "ganReal": 10429.2
+      }
     }
   ],
   "pedidos": [
