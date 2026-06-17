@@ -2287,6 +2287,47 @@
         "total": 7830.6,
         "ganReal": 5915.3
       }
+    },
+    {
+      "id": 69,
+      "codigo": "P069",
+      "cliente": "val",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 200,
+      "fecha": "2026-06-17",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 17
+        }
+      ],
+      "paginas": 17,
+      "tintas": "ambas",
+      "usosEquipo": 17,
+      "equipoId": "4",
+      "hsLuz": 4,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 31175.36,
+      "gananciaReal": 25587.68,
+      "senia": 15587.68,
+      "_c": {
+        "subMP": 2210,
+        "cTinta": 408.68000000000006,
+        "cAmort": 2669,
+        "cLuz": 300,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 5587.68,
+        "sub": 15587.68,
+        "mrgV": 15587.68,
+        "total": 31175.36,
+        "ganReal": 25587.68
+      }
     }
   ],
   "pedidos": [
