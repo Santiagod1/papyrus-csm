@@ -677,7 +677,7 @@
     "57": 50,
     "58": 48,
     "59": 100,
-    "60": 100,
+    "60": 50,
     "61": 500,
     "62": 20,
     "63": 100,
@@ -2425,6 +2425,47 @@
         "mrgV": 19666.66666666667,
         "total": 49166.66666666667,
         "ganReal": 34666.66666666667
+      }
+    },
+    {
+      "id": 72,
+      "codigo": "P072",
+      "cliente": "Marito",
+      "productoFinal": "tickets",
+      "variante": "Estándar",
+      "cantidad": 200,
+      "fecha": "2026-06-20",
+      "materiales": [
+        {
+          "prodId": 60,
+          "cantidad": 50
+        }
+      ],
+      "paginas": 50,
+      "tintas": "ambas",
+      "usosEquipo": 50,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 36,
+      "total": 36200,
+      "gananciaReal": 23032,
+      "senia": 18100,
+      "_c": {
+        "subMP": 3965.9999999999995,
+        "cTinta": 1202,
+        "cAmort": 7850,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 13168,
+        "sub": 23168,
+        "mrgV": 13032,
+        "total": 36200,
+        "ganReal": 23032
       }
     }
   ],
