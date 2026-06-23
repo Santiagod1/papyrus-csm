@@ -2467,6 +2467,55 @@
         "total": 36200,
         "ganReal": 23032
       }
+    },
+    {
+      "id": 73,
+      "codigo": "P073",
+      "cliente": "nerea",
+      "productoFinal": "caja triangulo",
+      "variante": "Estándar",
+      "cantidad": 30,
+      "fecha": "2026-06-23",
+      "materiales": [
+        {
+          "prodId": 71,
+          "cantidad": 3
+        },
+        {
+          "prodId": 46,
+          "cantidad": 30
+        },
+        {
+          "prodId": 14,
+          "cantidad": 9.5
+        }
+      ],
+      "paginas": 30,
+      "tintas": "ambas",
+      "usosEquipo": 30,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 33323.14285714286,
+      "gananciaReal": 19996.94285714286,
+      "senia": 16661.57142857143,
+      "_c": {
+        "subMP": 7745,
+        "cTinta": 721.2,
+        "cAmort": 4710,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 13326.2,
+        "sub": 23326.2,
+        "mrgV": 9996.942857142862,
+        "total": 33323.14285714286,
+        "ganReal": 19996.94285714286
+      }
     }
   ],
   "pedidos": [
