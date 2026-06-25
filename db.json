@@ -623,6 +623,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 8350
+    },
+    {
+      "id": 79,
+      "nombre": "papel perlado",
+      "tipo": "Papel",
+      "presentacion": "5",
+      "unidades": 5,
+      "costoTotal": 9900
     }
   ],
   "stock": {
@@ -703,7 +711,8 @@
     "75": 0,
     "76": 0,
     "77": 0,
-    "78": 0
+    "78": 0,
+    "79": 0
   },
   "equipos": [
     {
