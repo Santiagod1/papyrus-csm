@@ -2587,6 +2587,51 @@
         "total": 30470.14285714286,
         "ganReal": 12141.04285714286
       }
+    },
+    {
+      "id": 75,
+      "codigo": "P075",
+      "cliente": "lu",
+      "productoFinal": "centros de mesas y cartas",
+      "variante": "Estándar",
+      "cantidad": 15,
+      "fecha": "2026-06-25",
+      "materiales": [
+        {
+          "prodId": 77,
+          "cantidad": 15
+        },
+        {
+          "prodId": 24,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 15,
+      "tintas": "ambas",
+      "usosEquipo": 15,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 40,
+      "total": 23096.833333333336,
+      "gananciaReal": 11238.733333333335,
+      "senia": 11548.416666666668,
+      "_c": {
+        "subMP": 8992.5,
+        "cTinta": 360.6,
+        "cAmort": 2355,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 11858.1,
+        "sub": 13858.1,
+        "mrgV": 9238.733333333335,
+        "total": 23096.833333333336,
+        "ganReal": 11238.733333333335
+      }
     }
   ],
   "pedidos": [
