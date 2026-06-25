@@ -629,7 +629,7 @@
     "1": 100,
     "2": 4.5,
     "3": 24,
-    "4": 19.5,
+    "4": 18.5,
     "5": 20,
     "6": 340,
     "7": 10,
@@ -2524,6 +2524,59 @@
         "mrgV": 9996.942857142862,
         "total": 33323.14285714286,
         "ganReal": 19996.94285714286
+      }
+    },
+    {
+      "id": 74,
+      "codigo": "P074",
+      "cliente": "nerea",
+      "productoFinal": "libro para colorear",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-06-25",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 60
+        },
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 73,
+          "cantidad": 1
+        },
+        {
+          "prodId": 40,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 62,
+      "tintas": "ambas",
+      "usosEquipo": 62,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 30470.14285714286,
+      "gananciaReal": 12141.04285714286,
+      "senia": 15235.07142857143,
+      "_c": {
+        "subMP": 7029.62,
+        "cTinta": 1490.48,
+        "cAmort": 9734,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 18329.1,
+        "sub": 21329.1,
+        "mrgV": 9141.04285714286,
+        "total": 30470.14285714286,
+        "ganReal": 12141.04285714286
       }
     }
   ],
