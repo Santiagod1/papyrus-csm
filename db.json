@@ -615,6 +615,14 @@
       "presentacion": "20 Hojas",
       "unidades": 20,
       "costoTotal": 8262
+    },
+    {
+      "id": 78,
+      "nombre": "matelina 130",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 2,
+      "costoTotal": 8350
     }
   ],
   "stock": {
@@ -694,7 +702,8 @@
     "74": 0,
     "75": 0,
     "76": 0,
-    "77": 0
+    "77": 0,
+    "78": 0
   },
   "equipos": [
     {
