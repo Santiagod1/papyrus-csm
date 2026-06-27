@@ -709,7 +709,7 @@
     "49": 20,
     "50": 100,
     "51": 0,
-    "52": 19,
+    "52": 18,
     "53": 100,
     "54": 10,
     "55": 100,
@@ -2723,6 +2723,51 @@
         "mrgV": 2717.1631089743587,
         "total": 7763.323168498167,
         "ganReal": 3717.1631089743587
+      }
+    },
+    {
+      "id": 77,
+      "codigo": "P077",
+      "cliente": "ale",
+      "productoFinal": "cuaderno",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-06-27",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 30
+        },
+        {
+          "prodId": 52,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 31,
+      "tintas": "1",
+      "usosEquipo": 31,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 14196.185714285715,
+      "gananciaReal": 6258.855714285715,
+      "senia": 7098.092857142858,
+      "_c": {
+        "subMP": 2657.1,
+        "cTinta": 413.23,
+        "cAmort": 4867,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 7937.33,
+        "sub": 9937.33,
+        "mrgV": 4258.855714285715,
+        "total": 14196.185714285715,
+        "ganReal": 6258.855714285715
       }
     }
   ],
