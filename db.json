@@ -716,7 +716,7 @@
     "56": 36,
     "57": 50,
     "58": 46.5,
-    "59": 100,
+    "59": 94,
     "60": 50,
     "61": 500,
     "62": 20,
@@ -2923,6 +2923,47 @@
         "mrgV": 3498.040000000001,
         "total": 9994.400000000001,
         "ganReal": 8498.04
+      }
+    },
+    {
+      "id": 81,
+      "codigo": "P081",
+      "cliente": "MC",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-06-30",
+      "materiales": [
+        {
+          "prodId": 59,
+          "cantidad": 6
+        }
+      ],
+      "paginas": 6,
+      "tintas": "ambas",
+      "usosEquipo": 6,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 23,
+      "total": 5099.012987012987,
+      "gananciaReal": 3172.772987012987,
+      "senia": 2549.5064935064934,
+      "_c": {
+        "subMP": 840,
+        "cTinta": 144.24,
+        "cAmort": 942,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 1926.24,
+        "sub": 3926.24,
+        "mrgV": 1172.772987012987,
+        "total": 5099.012987012987,
+        "ganReal": 3172.772987012987
       }
     }
   ],
