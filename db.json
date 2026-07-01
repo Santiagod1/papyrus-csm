@@ -655,6 +655,14 @@
       "presentacion": "70",
       "unidades": 70,
       "costoTotal": 6200
+    },
+    {
+      "id": 83,
+      "nombre": "hoja comun a3",
+      "tipo": "Papel",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 1000
     }
   ],
   "stock": {
@@ -739,7 +747,8 @@
     "79": 0,
     "80": 0,
     "81": 0,
-    "82": 0
+    "82": 0,
+    "83": 0
   },
   "equipos": [
     {
