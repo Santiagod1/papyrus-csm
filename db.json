@@ -3238,6 +3238,21 @@
       "pagadoCompleto": false,
       "total": 40495.769230769234,
       "senia": 20247.884615384617
+    },
+    {
+      "id": 13,
+      "codigo": "PED013",
+      "cliente": "nati",
+      "fecha": "2026-07-01",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 83,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 1005.3538461538461,
+      "senia": 502.67692307692306
     }
   ]
 }
