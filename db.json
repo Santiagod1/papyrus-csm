@@ -707,7 +707,7 @@
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 19,
+    "42": 18,
     "43": 100,
     "44": 50,
     "45": 38,
@@ -3014,6 +3014,47 @@
         "mrgV": 2008.1858823529415,
         "total": 3042.7058823529414,
         "ganReal": 2008.1858823529415
+      }
+    },
+    {
+      "id": 83,
+      "codigo": "P083",
+      "cliente": "nati",
+      "productoFinal": "hojas a3",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-01",
+      "materiales": [
+        {
+          "prodId": 42,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 1005.3538461538461,
+      "gananciaReal": 351.8738461538461,
+      "senia": 502.67692307692306,
+      "_c": {
+        "subMP": 291.4,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 653.48,
+        "sub": 653.48,
+        "mrgV": 351.8738461538461,
+        "total": 1005.3538461538461,
+        "ganReal": 351.8738461538461
       }
     }
   ],
