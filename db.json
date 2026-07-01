@@ -3167,6 +3167,21 @@
       "pagadoCompleto": false,
       "total": 4317.961904761905,
       "senia": 2158.9809523809527
+    },
+    {
+      "id": 11,
+      "codigo": "PED011",
+      "cliente": "nerea",
+      "fecha": "2026-07-01",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 79,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 48206.60606060606,
+      "senia": 24103.30303030303
     }
   ]
 }
