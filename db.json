@@ -3137,6 +3137,21 @@
       "pagadoCompleto": false,
       "total": 3042.7058823529414,
       "senia": 1521.3529411764707
+    },
+    {
+      "id": 9,
+      "codigo": "PED009",
+      "cliente": "MC",
+      "fecha": "2026-07-01",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 81,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 7764.21052631579,
+      "senia": 3882.105263157895
     }
   ]
 }
