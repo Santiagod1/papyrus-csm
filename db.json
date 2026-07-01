@@ -3182,6 +3182,21 @@
       "pagadoCompleto": false,
       "total": 48206.60606060606,
       "senia": 24103.30303030303
+    },
+    {
+      "id": 12,
+      "codigo": "PED012",
+      "cliente": "nere",
+      "fecha": "2026-07-01",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 78,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 40495.769230769234,
+      "senia": 20247.884615384617
     }
   ]
 }
