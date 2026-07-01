@@ -707,7 +707,7 @@
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 20,
+    "42": 19,
     "43": 100,
     "44": 50,
     "45": 38,
@@ -2969,6 +2969,51 @@
         "mrgV": 1863.4105263157899,
         "total": 7764.21052631579,
         "ganReal": 3863.41052631579
+      }
+    },
+    {
+      "id": 82,
+      "codigo": "P082",
+      "cliente": "maca",
+      "productoFinal": "copias album",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-01",
+      "materiales": [
+        {
+          "prodId": 42,
+          "cantidad": 1
+        },
+        {
+          "prodId": 83,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 66,
+      "total": 3042.7058823529414,
+      "gananciaReal": 2008.1858823529415,
+      "senia": 1521.3529411764707,
+      "_c": {
+        "subMP": 491.4,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1034.52,
+        "sub": 1034.52,
+        "mrgV": 2008.1858823529415,
+        "total": 3042.7058823529414,
+        "ganReal": 2008.1858823529415
       }
     }
   ],
