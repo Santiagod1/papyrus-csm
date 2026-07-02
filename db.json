@@ -703,11 +703,11 @@
     "35": 18,
     "36": 48,
     "37": 25,
-    "38": 145,
+    "38": 143,
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 17,
+    "42": 15,
     "43": 100,
     "44": 50,
     "45": 38,
@@ -3186,6 +3186,51 @@
         "mrgV": 852,
         "total": 1704,
         "ganReal": 852
+      }
+    },
+    {
+      "id": 87,
+      "codigo": "P087",
+      "cliente": "nati",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-02",
+      "materiales": [
+        {
+          "prodId": 42,
+          "cantidad": 2
+        },
+        {
+          "prodId": 38,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "1",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 2617.586666666666,
+      "gananciaReal": 1308.793333333333,
+      "senia": 1308.793333333333,
+      "_c": {
+        "subMP": 968.1333333333332,
+        "cTinta": 26.66,
+        "cAmort": 314,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1308.793333333333,
+        "sub": 1308.793333333333,
+        "mrgV": 1308.793333333333,
+        "total": 2617.586666666666,
+        "ganReal": 1308.793333333333
       }
     }
   ],
