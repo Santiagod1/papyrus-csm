@@ -3146,6 +3146,47 @@
         "total": 1950.44,
         "ganReal": 975.22
       }
+    },
+    {
+      "id": 86,
+      "codigo": "P086",
+      "cliente": "maca",
+      "productoFinal": "hoja",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-07-02",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 1704,
+      "gananciaReal": 852,
+      "senia": 852,
+      "_c": {
+        "subMP": 308.88,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 852,
+        "sub": 852,
+        "mrgV": 852,
+        "total": 1704,
+        "ganReal": 852
+      }
     }
   ],
   "pedidos": [
