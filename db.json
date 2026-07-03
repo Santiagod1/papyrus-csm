@@ -3241,6 +3241,51 @@
         "total": 2617.586666666666,
         "ganReal": 1308.793333333333
       }
+    },
+    {
+      "id": 88,
+      "codigo": "P088",
+      "cliente": "nere",
+      "productoFinal": "chupetin",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-03",
+      "materiales": [
+        {
+          "prodId": 84,
+          "cantidad": 1
+        },
+        {
+          "prodId": 46,
+          "cantidad": 0.5
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 496.2476190476191,
+      "gananciaReal": 148.87428571428575,
+      "senia": 248.12380952380954,
+      "_c": {
+        "subMP": 323.3333333333333,
+        "cTinta": 24.04,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 347.37333333333333,
+        "sub": 347.37333333333333,
+        "mrgV": 148.87428571428575,
+        "total": 496.2476190476191,
+        "ganReal": 148.87428571428575
+      }
     }
   ],
   "pedidos": [
