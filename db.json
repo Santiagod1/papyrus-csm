@@ -3343,6 +3343,47 @@
         "total": 58278.706666666665,
         "ganReal": 39139.35333333333
       }
+    },
+    {
+      "id": 90,
+      "codigo": "P090",
+      "cliente": "daira",
+      "productoFinal": "etiquetas ropa",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-07-03",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 7110.4,
+      "gananciaReal": 5555.2,
+      "senia": 3555.2,
+      "_c": {
+        "subMP": 650,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 1555.2,
+        "sub": 3555.2,
+        "mrgV": 3555.2,
+        "total": 7110.4,
+        "ganReal": 5555.2
+      }
     }
   ],
   "pedidos": [
