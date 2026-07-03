@@ -671,6 +671,14 @@
       "presentacion": "24",
       "unidades": 24,
       "costoTotal": 6200
+    },
+    {
+      "id": 85,
+      "nombre": "matelina 260",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 14900
     }
   ],
   "stock": {
@@ -757,7 +765,8 @@
     "81": 0,
     "82": 0,
     "83": 0,
-    "84": 0
+    "84": 0,
+    "85": 0
   },
   "equipos": [
     {
