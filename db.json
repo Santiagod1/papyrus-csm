@@ -3393,6 +3393,47 @@
         "total": 7110.4,
         "ganReal": 5555.2
       }
+    },
+    {
+      "id": 91,
+      "codigo": "P091",
+      "cliente": "abi",
+      "productoFinal": "Anotador",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-07-03",
+      "materiales": [
+        {
+          "prodId": 85,
+          "cantidad": 25
+        }
+      ],
+      "paginas": 25,
+      "tintas": "1",
+      "usosEquipo": 25,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 18547.5,
+      "gananciaReal": 10564.25,
+      "senia": 9273.75,
+      "_c": {
+        "subMP": 3725,
+        "cTinta": 333.25,
+        "cAmort": 3925,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 7983.25,
+        "sub": 12983.25,
+        "mrgV": 5564.25,
+        "total": 18547.5,
+        "ganReal": 10564.25
+      }
     }
   ],
   "pedidos": [
