@@ -663,6 +663,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 1000
+    },
+    {
+      "id": 84,
+      "nombre": "Chupetín - Blueberry - Pack x24",
+      "tipo": "Especial",
+      "presentacion": "24",
+      "unidades": 24,
+      "costoTotal": 6200
     }
   ],
   "stock": {
@@ -748,7 +756,8 @@
     "80": 0,
     "81": 0,
     "82": 0,
-    "83": 0
+    "83": 0,
+    "84": 0
   },
   "equipos": [
     {
