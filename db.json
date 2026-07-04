@@ -742,7 +742,7 @@
     "58": 46.5,
     "59": 92,
     "60": 50,
-    "61": 500,
+    "61": 490,
     "62": 20,
     "63": 100,
     "64": 999,
@@ -3474,6 +3474,47 @@
         "mrgV": 977.8542857142857,
         "total": 3259.5142857142855,
         "ganReal": 1977.8542857142857
+      }
+    },
+    {
+      "id": 93,
+      "codigo": "P093",
+      "cliente": "vero",
+      "productoFinal": "hojas",
+      "variante": "Estándar",
+      "cantidad": 10,
+      "fecha": "2026-07-04",
+      "materiales": [
+        {
+          "prodId": 61,
+          "cantidad": 10
+        }
+      ],
+      "paginas": 10,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "1",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 0,
+      "total": 1650.4,
+      "gananciaReal": 0,
+      "senia": 825.2,
+      "_c": {
+        "subMP": 140,
+        "cTinta": 240.40000000000003,
+        "cAmort": 1270,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1650.4,
+        "sub": 1650.4,
+        "mrgV": 0,
+        "total": 1650.4,
+        "ganReal": 0
       }
     }
   ],
