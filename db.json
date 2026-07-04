@@ -3561,6 +3561,47 @@
         "total": 64740.68085106382,
         "ganReal": 44312.56085106383
       }
+    },
+    {
+      "id": 95,
+      "codigo": "P095",
+      "cliente": "paula",
+      "productoFinal": "etiquetas para ropa",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-07-04",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 34
+        }
+      ],
+      "paginas": 68,
+      "tintas": "ambas",
+      "usosEquipo": 68,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 42510.95384615384,
+      "gananciaReal": 24878.83384615384,
+      "senia": 21255.47692307692,
+      "_c": {
+        "subMP": 5171.4,
+        "cTinta": 1634.7200000000003,
+        "cAmort": 10676,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 17632.12,
+        "sub": 27632.12,
+        "mrgV": 14878.83384615384,
+        "total": 42510.95384615384,
+        "ganReal": 24878.83384615384
+      }
     }
   ],
   "pedidos": [
