@@ -3434,6 +3434,47 @@
         "total": 18547.5,
         "ganReal": 10564.25
       }
+    },
+    {
+      "id": 92,
+      "codigo": "P092",
+      "cliente": "sol",
+      "productoFinal": "caratulas",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-04",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 3259.5142857142855,
+      "gananciaReal": 1977.8542857142857,
+      "senia": 1629.7571428571428,
+      "_c": {
+        "subMP": 520,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1281.6599999999999,
+        "sub": 2281.66,
+        "mrgV": 977.8542857142857,
+        "total": 3259.5142857142855,
+        "ganReal": 1977.8542857142857
+      }
     }
   ],
   "pedidos": [
