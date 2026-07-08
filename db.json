@@ -687,6 +687,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 18864
+    },
+    {
+      "id": 87,
+      "nombre": "Bolita Plastico Lisa",
+      "tipo": "Especial",
+      "presentacion": "71",
+      "unidades": 71,
+      "costoTotal": 900
     }
   ],
   "stock": {
@@ -775,7 +783,8 @@
     "83": 0,
     "84": 0,
     "85": 0,
-    "86": 0
+    "86": 0,
+    "87": 0
   },
   "equipos": [
     {
