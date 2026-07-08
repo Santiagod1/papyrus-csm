@@ -760,7 +760,7 @@
     "12": 10.5,
     "13": 5,
     "14": 0,
-    "15": 25,
+    "15": 22,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -3795,6 +3795,63 @@
         "mrgV": 17030.75824785004,
         "total": 42576.8956196251,
         "ganReal": 22030.75824785004
+      }
+    },
+    {
+      "id": 98,
+      "codigo": "P098",
+      "cliente": "yamila",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 12,
+      "fecha": "2026-07-08",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 12
+        },
+        {
+          "prodId": 14,
+          "cantidad": 3
+        },
+        {
+          "prodId": 85,
+          "cantidad": 5
+        },
+        {
+          "prodId": 71,
+          "cantidad": 12
+        },
+        {
+          "prodId": 15,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 17,
+      "tintas": "ambas",
+      "usosEquipo": 17,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 33876.479999999996,
+      "gananciaReal": 26938.239999999998,
+      "senia": 16938.239999999998,
+      "_c": {
+        "subMP": 3710.56,
+        "cTinta": 408.68000000000006,
+        "cAmort": 2669,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 6938.24,
+        "sub": 16938.239999999998,
+        "mrgV": 16938.239999999998,
+        "total": 33876.479999999996,
+        "ganReal": 26938.239999999998
       }
     }
   ],
