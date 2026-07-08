@@ -4186,6 +4186,21 @@
       "pagadoCompleto": false,
       "total": 3042.7058823529414,
       "senia": 1521.3529411764707
+    },
+    {
+      "id": 18,
+      "codigo": "PED018",
+      "cliente": "maca",
+      "fecha": "2026-07-08",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 86,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 1704,
+      "senia": 852
     }
   ]
 }
