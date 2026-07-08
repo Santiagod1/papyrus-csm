@@ -719,6 +719,14 @@
       "presentacion": "145",
       "unidades": 145,
       "costoTotal": 1600
+    },
+    {
+      "id": 91,
+      "nombre": "Argollita Metal",
+      "tipo": "Especial",
+      "presentacion": "250",
+      "unidades": 150,
+      "costoTotal": 900
     }
   ],
   "stock": {
@@ -811,7 +819,8 @@
     "87": 0,
     "88": 0,
     "89": 0,
-    "90": 0
+    "90": 0,
+    "91": 0
   },
   "equipos": [
     {
