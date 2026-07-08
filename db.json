@@ -3862,6 +3862,55 @@
         "total": 33876.479999999996,
         "ganReal": 26938.239999999998
       }
+    },
+    {
+      "id": 99,
+      "codigo": "P099",
+      "cliente": "Shamila",
+      "productoFinal": "souvenirs vela",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-07-08",
+      "materiales": [
+        {
+          "prodId": 14,
+          "cantidad": 4
+        },
+        {
+          "prodId": 72,
+          "cantidad": 20
+        },
+        {
+          "prodId": 94,
+          "cantidad": 20
+        }
+      ],
+      "paginas": 20,
+      "tintas": "ambas",
+      "usosEquipo": 20,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 40,
+      "total": 62361.22222222223,
+      "gananciaReal": 26944.488888888896,
+      "senia": 31180.611111111117,
+      "_c": {
+        "subMP": 31645.933333333334,
+        "cTinta": 480.80000000000007,
+        "cAmort": 3140,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 35416.73333333334,
+        "sub": 37416.73333333334,
+        "mrgV": 24944.488888888896,
+        "total": 62361.22222222223,
+        "ganReal": 26944.488888888896
+      }
     }
   ],
   "pedidos": [
