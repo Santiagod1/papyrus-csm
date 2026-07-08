@@ -735,6 +735,14 @@
       "presentacion": "30",
       "unidades": 30,
       "costoTotal": 900
+    },
+    {
+      "id": 93,
+      "nombre": "100 Argolla Cadena",
+      "tipo": "Especial",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 16540
     }
   ],
   "stock": {
@@ -829,7 +837,8 @@
     "89": 0,
     "90": 0,
     "91": 0,
-    "92": 0
+    "92": 0,
+    "93": 0
   },
   "equipos": [
     {
