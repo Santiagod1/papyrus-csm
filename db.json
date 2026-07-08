@@ -4216,6 +4216,21 @@
       "pagadoCompleto": false,
       "total": 40495.769230769234,
       "senia": 20247.884615384617
+    },
+    {
+      "id": 20,
+      "codigo": "PED020",
+      "cliente": "Marito",
+      "fecha": "2026-07-08",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 71,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 49166.66666666667,
+      "senia": 24583.333333333336
     }
   ]
 }
