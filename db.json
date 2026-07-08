@@ -711,6 +711,14 @@
       "presentacion": "11",
       "unidades": 11,
       "costoTotal": 2000
+    },
+    {
+      "id": 90,
+      "nombre": "Bolita Metal",
+      "tipo": "Especial",
+      "presentacion": "145",
+      "unidades": 145,
+      "costoTotal": 1600
     }
   ],
   "stock": {
@@ -802,7 +810,8 @@
     "86": 0,
     "87": 0,
     "88": 0,
-    "89": 0
+    "89": 0,
+    "90": 0
   },
   "equipos": [
     {
