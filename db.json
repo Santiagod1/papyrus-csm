@@ -4171,6 +4171,21 @@
       "pagadoCompleto": false,
       "total": 42510.95384615384,
       "senia": 21255.47692307692
+    },
+    {
+      "id": 17,
+      "codigo": "PED017",
+      "cliente": "berna",
+      "fecha": "2026-07-08",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 84,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 3042.7058823529414,
+      "senia": 1521.3529411764707
     }
   ]
 }
