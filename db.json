@@ -751,6 +751,14 @@
       "presentacion": "30",
       "unidades": 30,
       "costoTotal": 42275
+    },
+    {
+      "id": 95,
+      "nombre": "Velas Souvenir Mariposa X 15",
+      "tipo": "Especial",
+      "presentacion": "15",
+      "unidades": 15,
+      "costoTotal": 16990
     }
   ],
   "stock": {
@@ -847,7 +855,8 @@
     "91": 0,
     "92": 0,
     "93": 0,
-    "94": 0
+    "94": 0,
+    "95": 0
   },
   "equipos": [
     {
