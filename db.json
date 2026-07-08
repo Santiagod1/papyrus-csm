@@ -4141,6 +4141,21 @@
       "pagadoCompleto": false,
       "total": 42510.95384615384,
       "senia": 21255.47692307692
+    },
+    {
+      "id": 15,
+      "codigo": "PED015",
+      "cliente": "sol",
+      "fecha": "2026-07-08",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 92,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 3717.2058823529414,
+      "senia": 1858.6029411764707
     }
   ]
 }
