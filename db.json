@@ -695,6 +695,14 @@
       "presentacion": "71",
       "unidades": 71,
       "costoTotal": 900
+    },
+    {
+      "id": 88,
+      "nombre": "Dije Fundición Osito",
+      "tipo": "Especial",
+      "presentacion": "3",
+      "unidades": 3,
+      "costoTotal": 1300
     }
   ],
   "stock": {
@@ -784,7 +792,8 @@
     "84": 0,
     "85": 0,
     "86": 0,
-    "87": 0
+    "87": 0,
+    "88": 0
   },
   "equipos": [
     {
