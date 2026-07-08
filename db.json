@@ -727,6 +727,14 @@
       "presentacion": "250",
       "unidades": 150,
       "costoTotal": 900
+    },
+    {
+      "id": 92,
+      "nombre": "INF - Pasante Plástico Pastilla 22 Vocal",
+      "tipo": "Especial",
+      "presentacion": "30",
+      "unidades": 30,
+      "costoTotal": 900
     }
   ],
   "stock": {
@@ -820,7 +828,8 @@
     "88": 0,
     "89": 0,
     "90": 0,
-    "91": 0
+    "91": 0,
+    "92": 0
   },
   "equipos": [
     {
