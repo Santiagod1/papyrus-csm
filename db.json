@@ -743,6 +743,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 16540
+    },
+    {
+      "id": 94,
+      "nombre": "Vela Souvenir Mini Buble X 30 Unidades",
+      "tipo": "Especial",
+      "presentacion": "30",
+      "unidades": 30,
+      "costoTotal": 42275
     }
   ],
   "stock": {
@@ -838,7 +846,8 @@
     "90": 0,
     "91": 0,
     "92": 0,
-    "93": 0
+    "93": 0,
+    "94": 0
   },
   "equipos": [
     {
