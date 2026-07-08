@@ -703,6 +703,14 @@
       "presentacion": "3",
       "unidades": 3,
       "costoTotal": 1300
+    },
+    {
+      "id": 89,
+      "nombre": "Alambre Estañado",
+      "tipo": "Especial",
+      "presentacion": "11",
+      "unidades": 11,
+      "costoTotal": 2000
     }
   ],
   "stock": {
@@ -793,7 +801,8 @@
     "85": 0,
     "86": 0,
     "87": 0,
-    "88": 0
+    "88": 0,
+    "89": 0
   },
   "equipos": [
     {
