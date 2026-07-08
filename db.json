@@ -759,6 +759,14 @@
       "presentacion": "15",
       "unidades": 15,
       "costoTotal": 16990
+    },
+    {
+      "id": 96,
+      "nombre": "Vela Aromática Svelas Rosas",
+      "tipo": "Especial",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 6000
     }
   ],
   "stock": {
@@ -856,7 +864,8 @@
     "92": 0,
     "93": 0,
     "94": 0,
-    "95": 0
+    "95": 0,
+    "96": 0
   },
   "equipos": [
     {
