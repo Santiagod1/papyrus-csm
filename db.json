@@ -839,7 +839,7 @@
     "67": 6,
     "68": 0,
     "69": 0,
-    "70": 1,
+    "70": 0,
     "71": 0,
     "72": 0,
     "73": 0,
@@ -3928,6 +3928,51 @@
         "mrgV": 21233.4,
         "total": 42466.8,
         "ganReal": 23233.4
+      }
+    },
+    {
+      "id": 100,
+      "codigo": "P0100",
+      "cliente": "zoe",
+      "productoFinal": "Stickers",
+      "variante": "Estándar",
+      "cantidad": 15,
+      "fecha": "2026-07-12",
+      "materiales": [
+        {
+          "prodId": 23,
+          "cantidad": 13
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 15,
+      "tintas": "ambas",
+      "usosEquipo": 15,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 44,
+      "total": 24094.28571428571,
+      "gananciaReal": 15601.48571428571,
+      "senia": 12047.142857142855,
+      "_c": {
+        "subMP": 5664.7,
+        "cTinta": 360.6,
+        "cAmort": 2355,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 8492.8,
+        "sub": 13492.8,
+        "mrgV": 10601.48571428571,
+        "total": 24094.28571428571,
+        "ganReal": 15601.48571428571
       }
     }
   ],
