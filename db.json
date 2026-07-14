@@ -4112,7 +4112,7 @@
       "presupId": 56,
       "variante": "Estándar",
       "seniaPagada": false,
-      "pagadoCompleto": false,
+      "pagadoCompleto": true,
       "total": 47062.001000000004,
       "senia": 23531.000500000002
     },
