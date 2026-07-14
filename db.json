@@ -767,6 +767,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 6000
+    },
+    {
+      "id": 97,
+      "nombre": "Pack X10 Envase Plástico Pote Frasco Tapa 1 Litro",
+      "tipo": "Especial",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 8910
     }
   ],
   "stock": {
@@ -865,7 +873,8 @@
     "93": 0,
     "94": 0,
     "95": 0,
-    "96": 0
+    "96": 0,
+    "97": 0
   },
   "equipos": [
     {
