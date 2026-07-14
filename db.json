@@ -827,7 +827,7 @@
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 15,
+    "42": 14,
     "43": 100,
     "44": 50,
     "45": 36.5,
@@ -4040,6 +4040,67 @@
         "mrgV": 431.1640909090911,
         "total": 3593.034090909091,
         "ganReal": 2431.164090909091
+      }
+    },
+    {
+      "id": 102,
+      "codigo": "P0102",
+      "cliente": "zoe",
+      "productoFinal": "cumple cieli",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-07-14",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 69
+        },
+        {
+          "prodId": 97,
+          "cantidad": 50
+        },
+        {
+          "prodId": 71,
+          "cantidad": 60
+        },
+        {
+          "prodId": 42,
+          "cantidad": 1
+        },
+        {
+          "prodId": 46,
+          "cantidad": 50
+        },
+        {
+          "prodId": 98,
+          "cantidad": 25.5
+        }
+      ],
+      "paginas": 120,
+      "tintas": "ambas",
+      "usosEquipo": 120,
+      "equipoId": "4",
+      "hsLuz": 10,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 47,
+      "total": 183779.1320754717,
+      "gananciaReal": 91376.19207547168,
+      "senia": 91889.56603773584,
+      "_c": {
+        "subMP": 69928.14,
+        "cTinta": 2884.8,
+        "cAmort": 18840,
+        "cLuz": 750,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 92402.94,
+        "sub": 97402.94,
+        "mrgV": 86376.19207547168,
+        "total": 183779.1320754717,
+        "ganReal": 91376.19207547168
       }
     }
   ],
