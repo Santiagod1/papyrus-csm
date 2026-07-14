@@ -4325,6 +4325,21 @@
       "pagadoCompleto": false,
       "total": 49166.66666666667,
       "senia": 24583.333333333336
+    },
+    {
+      "id": 21,
+      "codigo": "PED021",
+      "cliente": "fran",
+      "fecha": "2026-07-14",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 101,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 3593.034090909091,
+      "senia": 1796.5170454545455
     }
   ]
 }
