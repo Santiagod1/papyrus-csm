@@ -775,6 +775,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 8910
+    },
+    {
+      "id": 98,
+      "nombre": "perlina dorada",
+      "tipo": "Papel",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 8300
     }
   ],
   "stock": {
@@ -874,7 +882,8 @@
     "94": 0,
     "95": 0,
     "96": 0,
-    "97": 0
+    "97": 0,
+    "98": 0
   },
   "equipos": [
     {
