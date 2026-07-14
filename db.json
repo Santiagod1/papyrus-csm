@@ -4292,7 +4292,7 @@
       "presupId": 86,
       "variante": "Estándar",
       "seniaPagada": false,
-      "pagadoCompleto": false,
+      "pagadoCompleto": true,
       "total": 1704,
       "senia": 852
     },
