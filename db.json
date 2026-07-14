@@ -4127,7 +4127,7 @@
       "presupId": 78,
       "variante": "Estándar",
       "seniaPagada": false,
-      "pagadoCompleto": false,
+      "pagadoCompleto": true,
       "total": 40495.769230769234,
       "senia": 20247.884615384617
     },
