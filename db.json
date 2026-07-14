@@ -784,7 +784,7 @@
     "12": 10.5,
     "13": 5,
     "14": 0,
-    "15": 22,
+    "15": 21,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -3973,6 +3973,55 @@
         "mrgV": 10601.48571428571,
         "total": 24094.28571428571,
         "ganReal": 15601.48571428571
+      }
+    },
+    {
+      "id": 101,
+      "codigo": "P0101",
+      "cliente": "fran",
+      "productoFinal": "bolsitas granja",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-14",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 2.5
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1
+        },
+        {
+          "prodId": 71,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 12,
+      "total": 3593.034090909091,
+      "gananciaReal": 2431.164090909091,
+      "senia": 1796.5170454545455,
+      "_c": {
+        "subMP": 581.25,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 1161.87,
+        "sub": 3161.87,
+        "mrgV": 431.1640909090911,
+        "total": 3593.034090909091,
+        "ganReal": 2431.164090909091
       }
     }
   ],
