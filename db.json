@@ -4102,6 +4102,55 @@
         "total": 183779.1320754717,
         "ganReal": 91376.19207547168
       }
+    },
+    {
+      "id": 103,
+      "codigo": "P0103",
+      "cliente": "sabrina",
+      "productoFinal": "Letras 3D",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-07-17",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 18
+        },
+        {
+          "prodId": 72,
+          "cantidad": 5
+        },
+        {
+          "prodId": 40,
+          "cantidad": 6
+        }
+      ],
+      "paginas": 29,
+      "tintas": "ambas",
+      "usosEquipo": 29,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 53,
+      "total": 30989.21276595745,
+      "gananciaReal": 21424.28276595745,
+      "senia": 15494.606382978725,
+      "_c": {
+        "subMP": 4314.77,
+        "cTinta": 697.1600000000001,
+        "cAmort": 4553,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 9564.93,
+        "sub": 14564.93,
+        "mrgV": 16424.28276595745,
+        "total": 30989.21276595745,
+        "ganReal": 21424.28276595745
+      }
     }
   ],
   "pedidos": [
