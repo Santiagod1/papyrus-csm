@@ -800,7 +800,7 @@
     "12": 10.5,
     "13": 5,
     "14": 0,
-    "15": 21,
+    "15": 18,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -4150,6 +4150,59 @@
         "mrgV": 16424.28276595745,
         "total": 30989.21276595745,
         "ganReal": 21424.28276595745
+      }
+    },
+    {
+      "id": 104,
+      "codigo": "P0104",
+      "cliente": "Giuli",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 30,
+      "fecha": "2026-07-17",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 60
+        },
+        {
+          "prodId": 46,
+          "cantidad": 2
+        },
+        {
+          "prodId": 71,
+          "cantidad": 50
+        },
+        {
+          "prodId": 15,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 62,
+      "tintas": "ambas",
+      "usosEquipo": 62,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 84106.95999999999,
+      "gananciaReal": 62053.479999999996,
+      "senia": 42053.479999999996,
+      "_c": {
+        "subMP": 10604,
+        "cTinta": 1490.48,
+        "cAmort": 9734,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 20000,
+        "cProd": 22053.48,
+        "sub": 42053.479999999996,
+        "mrgV": 42053.479999999996,
+        "total": 84106.95999999999,
+        "ganReal": 62053.479999999996
       }
     }
   ],
