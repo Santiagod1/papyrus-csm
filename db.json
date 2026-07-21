@@ -4213,6 +4213,47 @@
         "total": 84106.95999999999,
         "ganReal": 62053.479999999996
       }
+    },
+    {
+      "id": 105,
+      "codigo": "P0105",
+      "cliente": "ariana",
+      "productoFinal": "etiquetas de ropa",
+      "variante": "Estándar",
+      "cantidad": 100,
+      "fecha": "2026-07-21",
+      "materiales": [
+        {
+          "prodId": 99,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 18,
+      "tintas": "ambas",
+      "usosEquipo": 18,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 32,
+      "total": 14020.176470588238,
+      "gananciaReal": 9486.456470588237,
+      "senia": 7010.088235294119,
+      "_c": {
+        "subMP": 1125,
+        "cTinta": 432.72,
+        "cAmort": 2826,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 4533.72,
+        "sub": 9533.720000000001,
+        "mrgV": 4486.456470588237,
+        "total": 14020.176470588238,
+        "ganReal": 9486.456470588237
+      }
     }
   ],
   "pedidos": [
