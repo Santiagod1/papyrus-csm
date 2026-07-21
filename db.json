@@ -783,6 +783,14 @@
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 8300
+    },
+    {
+      "id": 99,
+      "nombre": "papel madera",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 12500
     }
   ],
   "stock": {
@@ -883,7 +891,8 @@
     "95": 0,
     "96": 0,
     "97": 0,
-    "98": 0
+    "98": 0,
+    "99": 0
   },
   "equipos": [
     {
