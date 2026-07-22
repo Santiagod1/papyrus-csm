@@ -838,7 +838,7 @@
     "42": 14,
     "43": 100,
     "44": 50,
-    "45": 33.5,
+    "45": 0,
     "46": 0,
     "47": 96,
     "48": 16,
@@ -4314,6 +4314,47 @@
         "mrgV": 24920.933333333334,
         "total": 49841.86666666667,
         "ganReal": 34920.933333333334
+      }
+    },
+    {
+      "id": 107,
+      "codigo": "P0107",
+      "cliente": "aye",
+      "productoFinal": "etiquetas adhe",
+      "variante": "Estándar",
+      "cantidad": 525,
+      "fecha": "2026-07-22",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 35
+        }
+      ],
+      "paginas": 35,
+      "tintas": "ambas",
+      "usosEquipo": 35,
+      "equipoId": "2",
+      "hsLuz": 4,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 58,
+      "total": 38867.619047619046,
+      "gananciaReal": 22543.219047619044,
+      "senia": 19433.809523809523,
+      "_c": {
+        "subMP": 6433,
+        "cTinta": 841.4000000000001,
+        "cAmort": 8750,
+        "cLuz": 300,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 16324.4,
+        "sub": 16324.4,
+        "mrgV": 22543.219047619044,
+        "total": 38867.619047619046,
+        "ganReal": 22543.219047619044
       }
     }
   ],
