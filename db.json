@@ -815,6 +815,14 @@
       "presentacion": "210",
       "unidades": 210,
       "costoTotal": 10000
+    },
+    {
+      "id": 103,
+      "nombre": "Cajita Box Feliz Eco Kraft Golosinas Chocolates X 20",
+      "tipo": "Especial",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 12000
     }
   ],
   "stock": {
@@ -919,7 +927,8 @@
     "99": 0,
     "100": 0,
     "101": 0,
-    "102": 0
+    "102": 0,
+    "103": 0
   },
   "equipos": [
     {
