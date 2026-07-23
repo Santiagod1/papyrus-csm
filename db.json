@@ -4383,6 +4383,63 @@
         "total": 38867.619047619046,
         "ganReal": 22543.219047619044
       }
+    },
+    {
+      "id": 108,
+      "codigo": "P0108",
+      "cliente": "nere",
+      "productoFinal": "kit dia del niño",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-23",
+      "materiales": [
+        {
+          "prodId": 100,
+          "cantidad": 1
+        },
+        {
+          "prodId": 101,
+          "cantidad": 1
+        },
+        {
+          "prodId": 102,
+          "cantidad": 10
+        },
+        {
+          "prodId": 78,
+          "cantidad": 15
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 16,
+      "tintas": "ambas",
+      "usosEquipo": 16,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 11079.910952380953,
+      "gananciaReal": 5539.9554761904765,
+      "senia": 5539.9554761904765,
+      "_c": {
+        "subMP": 2568.315476190476,
+        "cTinta": 384.64,
+        "cAmort": 2512,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 5539.9554761904765,
+        "sub": 5539.9554761904765,
+        "mrgV": 5539.9554761904765,
+        "total": 11079.910952380953,
+        "ganReal": 5539.9554761904765
+      }
     }
   ],
   "pedidos": [
