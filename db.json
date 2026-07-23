@@ -807,6 +807,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 7700
+    },
+    {
+      "id": 102,
+      "nombre": "caramelos sugus",
+      "tipo": "Especial",
+      "presentacion": "210",
+      "unidades": 210,
+      "costoTotal": 10000
     }
   ],
   "stock": {
@@ -910,7 +918,8 @@
     "98": 0,
     "99": 0,
     "100": 0,
-    "101": 0
+    "101": 0,
+    "102": 0
   },
   "equipos": [
     {
