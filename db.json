@@ -823,7 +823,7 @@
     "3": 24,
     "4": 16.5,
     "5": 20,
-    "6": 340,
+    "6": 240,
     "7": 10,
     "8": 15,
     "9": 35,
@@ -4439,6 +4439,47 @@
         "mrgV": 5539.9554761904765,
         "total": 11079.910952380953,
         "ganReal": 5539.9554761904765
+      }
+    },
+    {
+      "id": 109,
+      "codigo": "P0109",
+      "cliente": "camila",
+      "productoFinal": "planillas",
+      "variante": "Estándar",
+      "cantidad": 100,
+      "fecha": "2026-07-23",
+      "materiales": [
+        {
+          "prodId": 6,
+          "cantidad": 100
+        }
+      ],
+      "paginas": 100,
+      "tintas": "ambas",
+      "usosEquipo": 100,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 40779.6,
+      "gananciaReal": 20389.8,
+      "senia": 20389.8,
+      "_c": {
+        "subMP": 2060.8,
+        "cTinta": 2404,
+        "cAmort": 15700,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 20389.8,
+        "sub": 20389.8,
+        "mrgV": 20389.8,
+        "total": 40779.6,
+        "ganReal": 20389.8
       }
     }
   ],
