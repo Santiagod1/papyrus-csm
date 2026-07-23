@@ -840,7 +840,7 @@
     "12": 8.5,
     "13": 5,
     "14": 0,
-    "15": 18,
+    "15": 8,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -4489,6 +4489,59 @@
         "mrgV": 20389.8,
         "total": 40779.6,
         "ganReal": 20389.8
+      }
+    },
+    {
+      "id": 110,
+      "codigo": "P0110",
+      "cliente": "ani",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 18,
+      "fecha": "2026-07-23",
+      "materiales": [
+        {
+          "prodId": 103,
+          "cantidad": 18
+        },
+        {
+          "prodId": 46,
+          "cantidad": 30
+        },
+        {
+          "prodId": 15,
+          "cantidad": 10
+        },
+        {
+          "prodId": 74,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 34,
+      "tintas": "ambas",
+      "usosEquipo": 34,
+      "equipoId": "4",
+      "hsLuz": 4,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 59590.72,
+      "gananciaReal": 34795.36,
+      "senia": 29795.36,
+      "_c": {
+        "subMP": 18340,
+        "cTinta": 817.3600000000001,
+        "cAmort": 5338,
+        "cLuz": 300,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 24795.36,
+        "sub": 29795.36,
+        "mrgV": 29795.36,
+        "total": 59590.72,
+        "ganReal": 34795.36
       }
     }
   ],
