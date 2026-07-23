@@ -791,6 +791,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 12500
+    },
+    {
+      "id": 100,
+      "nombre": "crayones x6. filgo",
+      "tipo": "Librería",
+      "presentacion": "24",
+      "unidades": 24,
+      "costoTotal": 15183
     }
   ],
   "stock": {
@@ -892,7 +900,8 @@
     "96": 0,
     "97": 0,
     "98": 0,
-    "99": 0
+    "99": 0,
+    "100": 0
   },
   "equipos": [
     {
