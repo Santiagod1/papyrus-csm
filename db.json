@@ -829,7 +829,7 @@
     "1": 99,
     "2": 4,
     "3": 24,
-    "4": 16.5,
+    "4": 15.5,
     "5": 20,
     "6": 240,
     "7": 10,
@@ -4673,6 +4673,55 @@
         "mrgV": 420.7434146341461,
         "total": 2337.463414634146,
         "ganReal": 420.7434146341461
+      }
+    },
+    {
+      "id": 114,
+      "codigo": "P0114",
+      "cliente": "web",
+      "productoFinal": "libro de disney",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-24",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 57
+        },
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 73,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 57,
+      "tintas": "ambas",
+      "usosEquipo": 57,
+      "equipoId": "4",
+      "hsLuz": 4,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 40,
+      "total": 36987.46666666667,
+      "gananciaReal": 19794.986666666668,
+      "senia": 18493.733333333334,
+      "_c": {
+        "subMP": 6573.2,
+        "cTinta": 1370.2800000000002,
+        "cAmort": 8949,
+        "cLuz": 300,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 17192.48,
+        "sub": 22192.48,
+        "mrgV": 14794.986666666668,
+        "total": 36987.46666666667,
+        "ganReal": 19794.986666666668
       }
     }
   ],
