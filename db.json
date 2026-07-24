@@ -4584,6 +4584,47 @@
         "total": 15235.06,
         "ganReal": 12617.529999999999
       }
+    },
+    {
+      "id": 112,
+      "codigo": "P0112",
+      "cliente": "web",
+      "productoFinal": "etiquetas papel foto",
+      "variante": "Estándar",
+      "cantidad": 100,
+      "fecha": "2026-07-24",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 9,
+      "tintas": "ambas",
+      "usosEquipo": 9,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 40,
+      "total": 13248.933333333334,
+      "gananciaReal": 10299.573333333334,
+      "senia": 6624.466666666667,
+      "_c": {
+        "subMP": 1170,
+        "cTinta": 216.36,
+        "cAmort": 1413,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 2949.36,
+        "sub": 7949.360000000001,
+        "mrgV": 5299.573333333334,
+        "total": 13248.933333333334,
+        "ganReal": 10299.573333333334
+      }
     }
   ],
   "pedidos": [
