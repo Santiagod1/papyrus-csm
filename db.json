@@ -4723,6 +4723,55 @@
         "total": 36987.46666666667,
         "ganReal": 19794.986666666668
       }
+    },
+    {
+      "id": 115,
+      "codigo": "P0115",
+      "cliente": "web",
+      "productoFinal": "bolsitas tipo leche",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-24",
+      "materiales": [
+        {
+          "prodId": 14,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 46,
+          "cantidad": 2
+        },
+        {
+          "prodId": 24,
+          "cantidad": 0.2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 51,
+      "total": 2324.857142857143,
+      "gananciaReal": 1185.677142857143,
+      "senia": 1162.4285714285716,
+      "_c": {
+        "subMP": 739.6,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1139.18,
+        "sub": 1139.18,
+        "mrgV": 1185.677142857143,
+        "total": 2324.857142857143,
+        "ganReal": 1185.677142857143
+      }
     }
   ],
   "pedidos": [
