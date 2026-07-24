@@ -823,6 +823,14 @@
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 12000
+    },
+    {
+      "id": 104,
+      "nombre": "bolsa pvc 16,14,8",
+      "tipo": "Especial",
+      "presentacion": "1",
+      "unidades": 1,
+      "costoTotal": 1790
     }
   ],
   "stock": {
@@ -928,7 +936,8 @@
     "100": 0,
     "101": 0,
     "102": 0,
-    "103": 0
+    "103": 0,
+    "104": 0
   },
   "equipos": [
     {
