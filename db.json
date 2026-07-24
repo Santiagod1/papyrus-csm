@@ -4543,6 +4543,47 @@
         "total": 59590.72,
         "ganReal": 34795.36
       }
+    },
+    {
+      "id": 111,
+      "codigo": "P0111",
+      "cliente": "maga",
+      "productoFinal": "etiquetas de matelina",
+      "variante": "Estándar",
+      "cantidad": 100,
+      "fecha": "2026-07-24",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 9,
+      "tintas": "ambas",
+      "usosEquipo": 9,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 15235.06,
+      "gananciaReal": 12617.529999999999,
+      "senia": 7617.53,
+      "_c": {
+        "subMP": 838.17,
+        "cTinta": 216.36,
+        "cAmort": 1413,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 2617.5299999999997,
+        "sub": 7617.53,
+        "mrgV": 7617.53,
+        "total": 15235.06,
+        "ganReal": 12617.529999999999
+      }
     }
   ],
   "pedidos": [
