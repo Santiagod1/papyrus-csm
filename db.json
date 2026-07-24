@@ -844,11 +844,11 @@
     "8": 15,
     "9": 35,
     "10": 30,
-    "11": 0.5,
+    "11": 0.2,
     "12": 6.5,
     "13": 5,
     "14": 0,
-    "15": 8,
+    "15": 7.8,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -4837,6 +4837,67 @@
         "mrgV": 18099.196666666667,
         "total": 36198.39333333333,
         "ganReal": 23099.196666666667
+      }
+    },
+    {
+      "id": 117,
+      "codigo": "P0117",
+      "cliente": "web",
+      "productoFinal": "bolsa pvc",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-24",
+      "materiales": [
+        {
+          "prodId": 104,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 0.2
+        },
+        {
+          "prodId": 46,
+          "cantidad": 0.2
+        },
+        {
+          "prodId": 40,
+          "cantidad": 1
+        },
+        {
+          "prodId": 11,
+          "cantidad": 0.3
+        },
+        {
+          "prodId": 45,
+          "cantidad": 0.5
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 6158.28,
+      "gananciaReal": 3079.14,
+      "senia": 3079.14,
+      "_c": {
+        "subMP": 2642.06,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 3079.14,
+        "sub": 3079.14,
+        "mrgV": 3079.14,
+        "total": 6158.28,
+        "ganReal": 3079.14
       }
     }
   ],
