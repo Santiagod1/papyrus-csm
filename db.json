@@ -4903,6 +4903,47 @@
         "total": 6558.28,
         "ganReal": 3279.14
       }
+    },
+    {
+      "id": 118,
+      "codigo": "P0118",
+      "cliente": "silvia",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 50,
+      "fecha": "2026-07-25",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 9,
+      "tintas": "ambas",
+      "usosEquipo": 9,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 9598.720000000001,
+      "gananciaReal": 6799.360000000001,
+      "senia": 4799.360000000001,
+      "_c": {
+        "subMP": 1170,
+        "cTinta": 216.36,
+        "cAmort": 1413,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 2799.36,
+        "sub": 4799.360000000001,
+        "mrgV": 4799.360000000001,
+        "total": 9598.720000000001,
+        "ganReal": 6799.360000000001
+      }
     }
   ],
   "pedidos": [
