@@ -4944,6 +4944,59 @@
         "total": 9598.720000000001,
         "ganReal": 6799.360000000001
       }
+    },
+    {
+      "id": 119,
+      "codigo": "P0119",
+      "cliente": "nerea",
+      "productoFinal": "bolsitas MC",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-07-27",
+      "materiales": [
+        {
+          "prodId": 103,
+          "cantidad": 1
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 45,
+          "cantidad": 1
+        },
+        {
+          "prodId": 74,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 4103.84,
+      "gananciaReal": 2051.92,
+      "senia": 2051.92,
+      "_c": {
+        "subMP": 1433.8,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 2051.92,
+        "sub": 2051.92,
+        "mrgV": 2051.92,
+        "total": 4103.84,
+        "ganReal": 2051.92
+      }
     }
   ],
   "pedidos": [
