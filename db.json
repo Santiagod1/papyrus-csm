@@ -5365,6 +5365,21 @@
       "pagadoCompleto": true,
       "total": 9598.720000000001,
       "senia": 4799.360000000001
+    },
+    {
+      "id": 23,
+      "codigo": "PED023",
+      "cliente": "angelica",
+      "fecha": "2026-07-28",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 89,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 26536.48888888889,
+      "senia": 13268.244444444445
     }
   ]
 }
