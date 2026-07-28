@@ -834,7 +834,7 @@
     }
   ],
   "stock": {
-    "1": 99,
+    "1": 98,
     "2": 4,
     "3": 24,
     "4": 15,
@@ -898,7 +898,7 @@
     "62": 20,
     "63": 100,
     "64": 999,
-    "65": 10,
+    "65": 7,
     "66": 50,
     "67": 6,
     "68": 0,
@@ -4996,6 +4996,63 @@
         "mrgV": 2051.92,
         "total": 4103.84,
         "ganReal": 2051.92
+      }
+    },
+    {
+      "id": 120,
+      "codigo": "P0120",
+      "cliente": "lu",
+      "productoFinal": "casamiento",
+      "variante": "Estándar",
+      "cantidad": 38,
+      "fecha": "2026-07-28",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 25
+        },
+        {
+          "prodId": 65,
+          "cantidad": 3
+        },
+        {
+          "prodId": 71,
+          "cantidad": 25
+        },
+        {
+          "prodId": 72,
+          "cantidad": 10
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 16855.428571428572,
+      "gananciaReal": 5056.628571428573,
+      "senia": 8427.714285714286,
+      "_c": {
+        "subMP": 11798.8,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 11798.8,
+        "sub": 11798.8,
+        "mrgV": 5056.628571428573,
+        "total": 16855.428571428572,
+        "ganReal": 5056.628571428573
       }
     }
   ],
