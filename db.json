@@ -839,6 +839,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 6800
+    },
+    {
+      "id": 106,
+      "nombre": "anilllo doble espiral de 9,5 mm",
+      "tipo": "Especial",
+      "presentacion": "25",
+      "unidades": 25,
+      "costoTotal": 29800
     }
   ],
   "stock": {
@@ -946,7 +954,8 @@
     "102": 0,
     "103": 0,
     "104": 0,
-    "105": 0
+    "105": 0,
+    "106": 0
   },
   "equipos": [
     {
