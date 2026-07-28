@@ -5350,6 +5350,21 @@
       "pagadoCompleto": true,
       "total": 3593.034090909091,
       "senia": 1796.5170454545455
+    },
+    {
+      "id": 22,
+      "codigo": "PED022",
+      "cliente": "silvia",
+      "fecha": "2026-07-28",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 118,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": true,
+      "total": 9598.720000000001,
+      "senia": 4799.360000000001
     }
   ]
 }
