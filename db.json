@@ -831,6 +831,14 @@
       "presentacion": "1",
       "unidades": 1,
       "costoTotal": 1790
+    },
+    {
+      "id": 105,
+      "nombre": "Palitos - Sticks De Acrílico Para Topper De Papel 20x1cm",
+      "tipo": "Papel adhesivo",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 6800
     }
   ],
   "stock": {
@@ -937,7 +945,8 @@
     "101": 0,
     "102": 0,
     "103": 0,
-    "104": 0
+    "104": 0,
+    "105": 0
   },
   "equipos": [
     {
