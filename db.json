@@ -5072,6 +5072,55 @@
         "total": 49363.91836734694,
         "ganReal": 30175.598367346938
       }
+    },
+    {
+      "id": 121,
+      "codigo": "P0121",
+      "cliente": "romina",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 34,
+      "fecha": "2026-07-29",
+      "materiales": [
+        {
+          "prodId": 14,
+          "cantidad": 5
+        },
+        {
+          "prodId": 46,
+          "cantidad": 68
+        },
+        {
+          "prodId": 71,
+          "cantidad": 68
+        }
+      ],
+      "paginas": 68,
+      "tintas": "ambas",
+      "usosEquipo": 68,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 68641.44,
+      "gananciaReal": 44320.72,
+      "senia": 34320.72,
+      "_c": {
+        "subMP": 11860,
+        "cTinta": 1634.7200000000003,
+        "cAmort": 10676,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 24320.72,
+        "sub": 34320.72,
+        "mrgV": 34320.72,
+        "total": 68641.44,
+        "ganReal": 44320.72
+      }
     }
   ],
   "pedidos": [
