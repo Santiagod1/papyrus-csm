@@ -5215,6 +5215,51 @@
         "total": 3010.1012658227846,
         "ganReal": 632.1212658227846
       }
+    },
+    {
+      "id": 124,
+      "codigo": "P0124",
+      "cliente": "pablo",
+      "productoFinal": "sticker y tarjetas",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 4
+        },
+        {
+          "prodId": 70,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 7,
+      "tintas": "ambas",
+      "usosEquipo": 7,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 15454.6,
+      "gananciaReal": 12727.3,
+      "senia": 7727.3,
+      "_c": {
+        "subMP": 1422.52,
+        "cTinta": 168.28,
+        "cAmort": 1099,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 2727.3,
+        "sub": 7727.3,
+        "mrgV": 7727.3,
+        "total": 15454.6,
+        "ganReal": 12727.3
+      }
     }
   ],
   "pedidos": [
