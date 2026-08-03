@@ -910,7 +910,7 @@
     "58": 46.5,
     "59": 92,
     "60": 50,
-    "61": 490,
+    "61": 478,
     "62": 20,
     "63": 100,
     "64": 999,
@@ -5173,6 +5173,47 @@
         "mrgV": 12391.683018867923,
         "total": 26365.28301886792,
         "ganReal": 17391.683018867923
+      }
+    },
+    {
+      "id": 123,
+      "codigo": "P0123",
+      "cliente": "vero",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-08-02",
+      "materiales": [
+        {
+          "prodId": 61,
+          "cantidad": 12
+        }
+      ],
+      "paginas": 12,
+      "tintas": "ambas",
+      "usosEquipo": 12,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 21,
+      "total": 3010.1012658227846,
+      "gananciaReal": 632.1212658227846,
+      "senia": 1505.0506329113923,
+      "_c": {
+        "subMP": 168,
+        "cTinta": 288.48,
+        "cAmort": 1884,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 2377.98,
+        "sub": 2377.98,
+        "mrgV": 632.1212658227846,
+        "total": 3010.1012658227846,
+        "ganReal": 632.1212658227846
       }
     }
   ],
