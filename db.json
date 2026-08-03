@@ -5260,6 +5260,51 @@
         "total": 15454.6,
         "ganReal": 12727.3
       }
+    },
+    {
+      "id": 125,
+      "codigo": "P0125",
+      "cliente": "vitginia",
+      "productoFinal": "cajotas porta vasos",
+      "variante": "Estándar",
+      "cantidad": 23,
+      "fecha": "2026-08-03",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 46
+        },
+        {
+          "prodId": 71,
+          "cantidad": 23
+        }
+      ],
+      "paginas": 46,
+      "tintas": "ambas",
+      "usosEquipo": 46,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 51638.88,
+      "gananciaReal": 35819.44,
+      "senia": 25819.44,
+      "_c": {
+        "subMP": 7341.599999999999,
+        "cTinta": 1105.84,
+        "cAmort": 7222,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 15819.439999999999,
+        "sub": 25819.44,
+        "mrgV": 25819.44,
+        "total": 51638.88,
+        "ganReal": 35819.44
+      }
     }
   ],
   "pedidos": [
