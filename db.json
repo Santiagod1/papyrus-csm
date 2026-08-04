@@ -5622,6 +5622,21 @@
       "pagadoCompleto": false,
       "total": 26536.48888888889,
       "senia": 13268.244444444445
+    },
+    {
+      "id": 24,
+      "codigo": "PED024",
+      "cliente": "pablo",
+      "fecha": "2026-08-04",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 124,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": true,
+      "total": 15454.6,
+      "senia": 7727.3
     }
   ]
 }
