@@ -850,7 +850,7 @@
     }
   ],
   "stock": {
-    "1": 98,
+    "1": 97,
     "2": 4,
     "3": 24,
     "4": 14,
@@ -897,7 +897,7 @@
     "45": 0,
     "46": 0,
     "47": 95,
-    "48": 16,
+    "48": 15,
     "49": 20,
     "50": 100,
     "51": 0,
@@ -5304,6 +5304,59 @@
         "mrgV": 25819.44,
         "total": 51638.88,
         "ganReal": 35819.44
+      }
+    },
+    {
+      "id": 126,
+      "codigo": "P0126",
+      "cliente": "aldana",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 10,
+      "fecha": "2026-08-07",
+      "materiales": [
+        {
+          "prodId": 48,
+          "cantidad": 1
+        },
+        {
+          "prodId": 24,
+          "cantidad": 1.5
+        },
+        {
+          "prodId": 71,
+          "cantidad": 10
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 3652.857142857143,
+      "gananciaReal": 1095.8571428571431,
+      "senia": 1826.4285714285716,
+      "_c": {
+        "subMP": 2557,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 2557,
+        "sub": 2557,
+        "mrgV": 1095.8571428571431,
+        "total": 3652.857142857143,
+        "ganReal": 1095.8571428571431
       }
     }
   ],
