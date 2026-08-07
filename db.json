@@ -868,9 +868,9 @@
       "id": 109,
       "nombre": "burbujero",
       "tipo": "Papel",
-      "presentacion": "10",
-      "unidades": 10,
-      "costoTotal": 4800
+      "presentacion": "30",
+      "unidades": 30,
+      "costoTotal": 24750
     }
   ],
   "stock": {
