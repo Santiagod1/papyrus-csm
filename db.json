@@ -855,6 +855,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 6866
+    },
+    {
+      "id": 108,
+      "nombre": "valijas",
+      "tipo": "Especial",
+      "presentacion": "30",
+      "unidades": 30,
+      "costoTotal": 15000
     }
   ],
   "stock": {
@@ -964,7 +972,8 @@
     "104": 0,
     "105": 0,
     "106": 0,
-    "107": 0
+    "107": 0,
+    "108": 0
   },
   "equipos": [
     {
