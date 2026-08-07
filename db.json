@@ -847,6 +847,14 @@
       "presentacion": "25",
       "unidades": 25,
       "costoTotal": 29800
+    },
+    {
+      "id": 107,
+      "nombre": "cajita feliz blanca valija",
+      "tipo": "Especial",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 6866
     }
   ],
   "stock": {
@@ -955,7 +963,8 @@
     "103": 0,
     "104": 0,
     "105": 0,
-    "106": 0
+    "106": 0,
+    "107": 0
   },
   "equipos": [
     {
