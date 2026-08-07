@@ -863,6 +863,14 @@
       "presentacion": "30",
       "unidades": 30,
       "costoTotal": 15000
+    },
+    {
+      "id": 109,
+      "nombre": "burbujero",
+      "tipo": "Papel",
+      "presentacion": "10",
+      "unidades": 10,
+      "costoTotal": 4800
     }
   ],
   "stock": {
@@ -973,7 +981,8 @@
     "105": 0,
     "106": 0,
     "107": 0,
-    "108": 0
+    "108": 0,
+    "109": 0
   },
   "equipos": [
     {
