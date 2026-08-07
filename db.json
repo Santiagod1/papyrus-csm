@@ -866,7 +866,7 @@
     }
   ],
   "stock": {
-    "1": 97,
+    "1": 96,
     "2": 4,
     "3": 24,
     "4": 14,
@@ -913,7 +913,7 @@
     "45": 0,
     "46": 0,
     "47": 95,
-    "48": 15,
+    "48": 7,
     "49": 20,
     "50": 100,
     "51": 0,
@@ -5379,6 +5379,51 @@
         "mrgV": 16486.45111111111,
         "total": 35840.11111111111,
         "ganReal": 26486.45111111111
+      }
+    },
+    {
+      "id": 127,
+      "codigo": "P0127",
+      "cliente": "aldana",
+      "productoFinal": "tarjetitas",
+      "variante": "Estándar",
+      "cantidad": 30,
+      "fecha": "2026-08-07",
+      "materiales": [
+        {
+          "prodId": 48,
+          "cantidad": 8
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 2642.857142857143,
+      "gananciaReal": 792.8571428571431,
+      "senia": 1321.4285714285716,
+      "_c": {
+        "subMP": 1850,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1850,
+        "sub": 1850,
+        "mrgV": 792.8571428571431,
+        "total": 2642.857142857143,
+        "ganReal": 792.8571428571431
       }
     }
   ],
