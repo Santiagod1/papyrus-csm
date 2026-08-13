@@ -5515,6 +5515,55 @@
         "total": 148369.0434782609,
         "ganReal": 60994.403478260894
       }
+    },
+    {
+      "id": 129,
+      "codigo": "P0129",
+      "cliente": "nerea",
+      "productoFinal": "kit dia del niño",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-08-13",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 10
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 100,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 11,
+      "tintas": "ambas",
+      "usosEquipo": 11,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 7328.13,
+      "gananciaReal": 3664.065,
+      "senia": 3664.065,
+      "_c": {
+        "subMP": 1597.625,
+        "cTinta": 264.44,
+        "cAmort": 1727,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 3664.065,
+        "sub": 3664.065,
+        "mrgV": 3664.065,
+        "total": 7328.13,
+        "ganReal": 3664.065
+      }
     }
   ],
   "pedidos": [
