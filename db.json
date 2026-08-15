@@ -5708,6 +5708,47 @@
         "total": 4518.835820895522,
         "ganReal": 3491.2158208955225
       }
+    },
+    {
+      "id": 133,
+      "codigo": "P0133",
+      "cliente": "aldana",
+      "productoFinal": "etiquetas burbujeros",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-08-15",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 3.5
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 8937.871428571429,
+      "gananciaReal": 7681.361428571428,
+      "senia": 4468.935714285714,
+      "_c": {
+        "subMP": 532.35,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1256.51,
+        "sub": 6256.51,
+        "mrgV": 2681.3614285714284,
+        "total": 8937.871428571429,
+        "ganReal": 7681.361428571428
+      }
     }
   ],
   "pedidos": [
