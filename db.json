@@ -5605,6 +5605,55 @@
         "total": 7426.549999999999,
         "ganReal": 6455.929999999999
       }
+    },
+    {
+      "id": 131,
+      "codigo": "P0131",
+      "cliente": "nati",
+      "productoFinal": "anillado y copia",
+      "variante": "Estándar",
+      "cantidad": 2,
+      "fecha": "2026-08-15",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 72,
+          "cantidad": 1
+        },
+        {
+          "prodId": 73,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 3925.7400000000002,
+      "gananciaReal": 1962.8700000000001,
+      "senia": 1962.8700000000001,
+      "_c": {
+        "subMP": 1744.3300000000002,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1962.8700000000001,
+        "sub": 1962.8700000000001,
+        "mrgV": 1962.8700000000001,
+        "total": 3925.7400000000002,
+        "ganReal": 1962.8700000000001
+      }
     }
   ],
   "pedidos": [
