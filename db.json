@@ -871,6 +871,14 @@
       "presentacion": "10",
       "unidades": 10,
       "costoTotal": 4700
+    },
+    {
+      "id": 110,
+      "nombre": "anillos de plastico",
+      "tipo": "Especial",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 8200
     }
   ],
   "stock": {
@@ -982,7 +990,8 @@
     "106": 0,
     "107": 0,
     "108": 0,
-    "109": 0
+    "109": 0,
+    "110": 0
   },
   "equipos": [
     {
