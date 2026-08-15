@@ -5667,6 +5667,47 @@
         "total": 3925.7400000000002,
         "ganReal": 1962.8700000000001
       }
+    },
+    {
+      "id": 132,
+      "codigo": "P0132",
+      "cliente": "Marito",
+      "productoFinal": "diplomas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-08-15",
+      "materiales": [
+        {
+          "prodId": 85,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 33,
+      "total": 4518.835820895522,
+      "gananciaReal": 3491.2158208955225,
+      "senia": 2259.417910447761,
+      "_c": {
+        "subMP": 447,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 1027.62,
+        "sub": 3027.62,
+        "mrgV": 1491.2158208955225,
+        "total": 4518.835820895522,
+        "ganReal": 3491.2158208955225
+      }
     }
   ],
   "pedidos": [
