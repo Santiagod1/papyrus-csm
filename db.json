@@ -5749,6 +5749,51 @@
         "total": 8937.871428571429,
         "ganReal": 7681.361428571428
       }
+    },
+    {
+      "id": 134,
+      "codigo": "P0134",
+      "cliente": "tobi",
+      "productoFinal": "tablas",
+      "variante": "Estándar",
+      "cantidad": 10,
+      "fecha": "2026-08-18",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 2
+        },
+        {
+          "prodId": 73,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 45,
+      "total": 4032.327272727273,
+      "gananciaReal": 2814.5472727272727,
+      "senia": 2016.1636363636364,
+      "_c": {
+        "subMP": 818.2,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1217.7800000000002,
+        "sub": 2217.78,
+        "mrgV": 1814.5472727272727,
+        "total": 4032.327272727273,
+        "ganReal": 2814.5472727272727
+      }
     }
   ],
   "pedidos": [
