@@ -5871,9 +5871,9 @@
       "id": 135,
       "codigo": "P0135",
       "cliente": "yamila",
-      "productoFinal": "cumpl",
+      "productoFinal": "perfumeros",
       "variante": "Estándar",
-      "cantidad": 1,
+      "cantidad": 15,
       "fecha": "2026-08-21",
       "materiales": [
         {
@@ -5887,89 +5887,33 @@
         {
           "prodId": 14,
           "cantidad": 4
-        },
-        {
-          "prodId": 40,
-          "cantidad": 2
-        },
-        {
-          "prodId": 113,
-          "cantidad": 4
-        },
-        {
-          "prodId": 49,
-          "cantidad": 1
-        },
-        {
-          "prodId": 115,
-          "cantidad": 1
-        },
-        {
-          "prodId": 46,
-          "cantidad": 30
-        },
-        {
-          "prodId": 14,
-          "cantidad": 4
-        },
-        {
-          "prodId": 112,
-          "cantidad": 15
-        },
-        {
-          "prodId": 85,
-          "cantidad": 5
-        },
-        {
-          "prodId": 14,
-          "cantidad": 5
-        },
-        {
-          "prodId": 116,
-          "cantidad": 20
-        },
-        {
-          "prodId": 22,
-          "cantidad": 10
-        },
-        {
-          "prodId": 71,
-          "cantidad": 58
-        },
-        {
-          "prodId": 46,
-          "cantidad": 3
-        },
-        {
-          "prodId": 118,
-          "cantidad": 30
         }
       ],
-      "paginas": 60,
+      "paginas": 5,
       "tintas": "ambas",
-      "usosEquipo": 60,
+      "usosEquipo": 5,
       "equipoId": "4",
-      "hsLuz": 6,
+      "hsLuz": 1,
       "hsDise": 0,
       "valDise": 18000,
-      "hsMo": 2.1,
+      "hsMo": 1,
       "valMo": 10000,
-      "margen": 57,
-      "total": 253650.41749723142,
-      "gananciaReal": 165580.7379734219,
-      "senia": 126825.20874861571,
+      "margen": 50,
+      "total": 56091.700000000004,
+      "gananciaReal": 38045.850000000006,
+      "senia": 28045.850000000002,
       "_c": {
-        "subMP": 76757.27952380953,
-        "cTinta": 1442.4,
-        "cAmort": 9420,
-        "cLuz": 450,
+        "subMP": 17065.65,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 75,
         "cDise": 0,
-        "cMo": 21000,
-        "cProd": 88069.67952380952,
-        "sub": 109069.67952380952,
-        "mrgV": 144580.7379734219,
-        "total": 253650.41749723142,
-        "ganReal": 165580.7379734219
+        "cMo": 10000,
+        "cProd": 18045.850000000002,
+        "sub": 28045.850000000002,
+        "mrgV": 28045.850000000002,
+        "total": 56091.700000000004,
+        "ganReal": 38045.850000000006
       }
     }
   ],
