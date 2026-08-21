@@ -6042,6 +6042,59 @@
         "total": 36380.880000000005,
         "ganReal": 19190.440000000002
       }
+    },
+    {
+      "id": 139,
+      "codigo": "P0139",
+      "cliente": "yamila",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 15,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 30
+        },
+        {
+          "prodId": 71,
+          "cantidad": 30
+        },
+        {
+          "prodId": 112,
+          "cantidad": 15
+        },
+        {
+          "prodId": 14,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 30,
+      "tintas": "ambas",
+      "usosEquipo": 30,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 43426.68571428571,
+      "gananciaReal": 31713.342857142856,
+      "senia": 21713.342857142856,
+      "_c": {
+        "subMP": 6207.142857142857,
+        "cTinta": 721.2,
+        "cAmort": 4710,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 11713.342857142856,
+        "sub": 21713.342857142856,
+        "mrgV": 21713.342857142856,
+        "total": 43426.68571428571,
+        "ganReal": 31713.342857142856
+      }
     }
   ],
   "pedidos": [
