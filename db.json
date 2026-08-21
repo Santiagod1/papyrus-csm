@@ -927,6 +927,14 @@
       "presentacion": "21",
       "unidades": 21,
       "costoTotal": 28000
+    },
+    {
+      "id": 117,
+      "nombre": "perfumeros tapa transparente",
+      "tipo": "Especial",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 20000
     }
   ],
   "stock": {
@@ -1045,7 +1053,8 @@
     "113": 0,
     "114": 0,
     "115": 0,
-    "116": 0
+    "116": 0,
+    "117": 0
   },
   "equipos": [
     {
