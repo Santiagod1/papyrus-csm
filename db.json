@@ -6099,6 +6099,51 @@
         "total": 43426.68571428571,
         "ganReal": 31713.342857142856
       }
+    },
+    {
+      "id": 140,
+      "codigo": "P0140",
+      "cliente": "yamila",
+      "productoFinal": "estampitas",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 85,
+          "cantidad": 5
+        },
+        {
+          "prodId": 14,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.4,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 15375.4,
+      "gananciaReal": 11687.7,
+      "senia": 7687.7,
+      "_c": {
+        "subMP": 2745,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 4000,
+        "cProd": 3687.7,
+        "sub": 7687.7,
+        "mrgV": 7687.7,
+        "total": 15375.4,
+        "ganReal": 11687.7
+      }
     }
   ],
   "pedidos": [
