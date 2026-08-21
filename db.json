@@ -935,6 +935,14 @@
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 20000
+    },
+    {
+      "id": 118,
+      "nombre": "escarbadientes",
+      "tipo": "Especial",
+      "presentacion": "500",
+      "unidades": 5000,
+      "costoTotal": 5000
     }
   ],
   "stock": {
@@ -1054,7 +1062,8 @@
     "114": 0,
     "115": 0,
     "116": 0,
-    "117": 0
+    "117": 0,
+    "118": 0
   },
   "equipos": [
     {
