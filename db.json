@@ -5915,6 +5915,47 @@
         "total": 56091.700000000004,
         "ganReal": 38045.850000000006
       }
+    },
+    {
+      "id": 136,
+      "codigo": "P0136",
+      "cliente": "yamila",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 15,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 3171.68,
+      "gananciaReal": 2585.84,
+      "senia": 1585.84,
+      "_c": {
+        "subMP": 186.26,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 585.8399999999999,
+        "sub": 1585.84,
+        "mrgV": 1585.84,
+        "total": 3171.68,
+        "ganReal": 2585.84
+      }
     }
   ],
   "pedidos": [
