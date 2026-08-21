@@ -967,7 +967,7 @@
     "19": 30,
     "20": 50,
     "21": 10,
-    "22": 3,
+    "22": 0,
     "23": 0,
     "24": 0,
     "25": 0.5,
@@ -6184,6 +6184,51 @@
         "mrgV": 12180.619999999999,
         "total": 24361.239999999998,
         "ganReal": 17180.62
+      }
+    },
+    {
+      "id": 142,
+      "codigo": "P0142",
+      "cliente": "yamila",
+      "productoFinal": "vasos",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 22,
+          "cantidad": 10
+        },
+        {
+          "prodId": 116,
+          "cantidad": 20
+        }
+      ],
+      "paginas": 10,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 52,
+      "total": 80014.72222222222,
+      "gananciaReal": 46607.65555555555,
+      "senia": 40007.36111111111,
+      "_c": {
+        "subMP": 31521.666666666664,
+        "cTinta": 240.40000000000003,
+        "cAmort": 1570,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 33407.066666666666,
+        "sub": 38407.066666666666,
+        "mrgV": 41607.65555555555,
+        "total": 80014.72222222222,
+        "ganReal": 46607.65555555555
       }
     }
   ],
