@@ -887,6 +887,14 @@
       "presentacion": "50",
       "unidades": 50,
       "costoTotal": 11200
+    },
+    {
+      "id": 112,
+      "nombre": "Media Perla Plástico Para Coser - 8mm",
+      "tipo": "Mercería",
+      "presentacion": "70",
+      "unidades": 70,
+      "costoTotal": 1200
     }
   ],
   "stock": {
@@ -1000,7 +1008,8 @@
     "108": 0,
     "109": 0,
     "110": 0,
-    "111": 0
+    "111": 0,
+    "112": 0
   },
   "equipos": [
     {
