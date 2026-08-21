@@ -5921,34 +5921,38 @@
         },
         {
           "prodId": 22,
-          "cantidad": 1
+          "cantidad": 10
+        },
+        {
+          "prodId": 71,
+          "cantidad": 58
         }
       ],
-      "paginas": 0,
+      "paginas": 57,
       "tintas": "ambas",
-      "usosEquipo": 0,
-      "equipoId": "todos",
-      "hsLuz": 0,
+      "usosEquipo": 57,
+      "equipoId": "4",
+      "hsLuz": 6,
       "hsDise": 0,
       "valDise": 18000,
-      "hsMo": 0,
+      "hsMo": 1.5,
       "valMo": 10000,
-      "margen": 30,
-      "total": 101568.25646258505,
-      "gananciaReal": 30470.476938775522,
-      "senia": 50784.128231292525,
+      "margen": 50,
+      "total": 204213.11904761905,
+      "gananciaReal": 117106.55952380953,
+      "senia": 102106.55952380953,
       "_c": {
-        "subMP": 71097.77952380953,
-        "cTinta": 0,
-        "cAmort": 0,
-        "cLuz": 0,
+        "subMP": 76337.27952380953,
+        "cTinta": 1370.2800000000002,
+        "cAmort": 8949,
+        "cLuz": 450,
         "cDise": 0,
-        "cMo": 0,
-        "cProd": 71097.77952380953,
-        "sub": 71097.77952380953,
-        "mrgV": 30470.476938775522,
-        "total": 101568.25646258505,
-        "ganReal": 30470.476938775522
+        "cMo": 15000,
+        "cProd": 87106.55952380953,
+        "sub": 102106.55952380953,
+        "mrgV": 102106.55952380953,
+        "total": 204213.11904761905,
+        "ganReal": 117106.55952380953
       }
     }
   ],
