@@ -5956,6 +5956,47 @@
         "total": 3171.68,
         "ganReal": 2585.84
       }
+    },
+    {
+      "id": 137,
+      "codigo": "P0137",
+      "cliente": "yamila",
+      "productoFinal": "tarjetas",
+      "variante": "Estándar",
+      "cantidad": 15,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 113,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 51,
+      "total": 10125.836734693878,
+      "gananciaReal": 8164.176734693878,
+      "senia": 5062.918367346939,
+      "_c": {
+        "subMP": 1200,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 1961.66,
+        "sub": 4961.66,
+        "mrgV": 5164.176734693878,
+        "total": 10125.836734693878,
+        "ganReal": 8164.176734693878
+      }
     }
   ],
   "pedidos": [
