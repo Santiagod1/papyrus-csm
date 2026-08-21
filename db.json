@@ -895,6 +895,14 @@
       "presentacion": "70",
       "unidades": 70,
       "costoTotal": 1200
+    },
+    {
+      "id": 113,
+      "nombre": "Gliterina A4 230g",
+      "tipo": "Mercería",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 6000
     }
   ],
   "stock": {
@@ -1009,7 +1017,8 @@
     "109": 0,
     "110": 0,
     "111": 0,
-    "112": 0
+    "112": 0,
+    "113": 0
   },
   "equipos": [
     {
