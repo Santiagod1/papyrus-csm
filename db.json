@@ -879,6 +879,14 @@
       "presentacion": "50",
       "unidades": 50,
       "costoTotal": 8200
+    },
+    {
+      "id": 111,
+      "nombre": "PAPEL ART-JET MATELINA TEXTURADO",
+      "tipo": "Papel",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 11200
     }
   ],
   "stock": {
@@ -991,7 +999,8 @@
     "107": 0,
     "108": 0,
     "109": 0,
-    "110": 0
+    "110": 0,
+    "111": 0
   },
   "equipos": [
     {
