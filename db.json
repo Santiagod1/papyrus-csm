@@ -994,7 +994,7 @@
     "46": 0,
     "47": 95,
     "48": 7,
-    "49": 19,
+    "49": 18,
     "50": 100,
     "51": 0,
     "52": 0,
@@ -5996,6 +5996,51 @@
         "mrgV": 5164.176734693878,
         "total": 10125.836734693878,
         "ganReal": 8164.176734693878
+      }
+    },
+    {
+      "id": 138,
+      "codigo": "P0138",
+      "cliente": "yamila",
+      "productoFinal": "cuadro",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 115,
+          "cantidad": 1
+        },
+        {
+          "prodId": 49,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 36380.880000000005,
+      "gananciaReal": 19190.440000000002,
+      "senia": 18190.440000000002,
+      "_c": {
+        "subMP": 16971.9,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 17190.440000000002,
+        "sub": 18190.440000000002,
+        "mrgV": 18190.440000000002,
+        "total": 36380.880000000005,
+        "ganReal": 19190.440000000002
       }
     }
   ],
