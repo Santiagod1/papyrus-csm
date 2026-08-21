@@ -1010,7 +1010,7 @@
     "62": 20,
     "63": 100,
     "64": 999,
-    "65": 7,
+    "65": 4,
     "66": 50,
     "67": 6,
     "68": 0,
@@ -6143,6 +6143,47 @@
         "mrgV": 7687.7,
         "total": 15375.4,
         "ganReal": 11687.7
+      }
+    },
+    {
+      "id": 141,
+      "codigo": "P0141",
+      "cliente": "yamila",
+      "productoFinal": "tatuajes",
+      "variante": "Estándar",
+      "cantidad": 3,
+      "fecha": "2026-08-21",
+      "materiales": [
+        {
+          "prodId": 65,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 24361.239999999998,
+      "gananciaReal": 17180.62,
+      "senia": 12180.619999999999,
+      "_c": {
+        "subMP": 6600,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 7180.62,
+        "sub": 12180.619999999999,
+        "mrgV": 12180.619999999999,
+        "total": 24361.239999999998,
+        "ganReal": 17180.62
       }
     }
   ],
