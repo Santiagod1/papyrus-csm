@@ -976,7 +976,7 @@
     "12": 0,
     "13": 5,
     "14": 0,
-    "15": 7.8,
+    "15": 6.8,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -6333,6 +6333,63 @@
         "mrgV": 33879.4,
         "total": 67758.8,
         "ganReal": 43879.4
+      }
+    },
+    {
+      "id": 145,
+      "codigo": "P0145",
+      "cliente": "nere",
+      "productoFinal": "souvenirs dulce de leche",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "materiales": [
+        {
+          "prodId": 120,
+          "cantidad": 1
+        },
+        {
+          "prodId": 40,
+          "cantidad": 1
+        },
+        {
+          "prodId": 98,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1
+        },
+        {
+          "prodId": 71,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 3732.1428571428573,
+      "gananciaReal": 2119.6428571428573,
+      "senia": 1866.0714285714287,
+      "_c": {
+        "subMP": 1393.96,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1612.5,
+        "sub": 2612.5,
+        "mrgV": 1119.6428571428573,
+        "total": 3732.1428571428573,
+        "ganReal": 2119.6428571428573
       }
     }
   ],
