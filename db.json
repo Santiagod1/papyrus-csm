@@ -951,6 +951,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 3400
+    },
+    {
+      "id": 120,
+      "nombre": "cajitas de dulce de leche",
+      "tipo": "Especial",
+      "presentacion": "1",
+      "unidades": 1,
+      "costoTotal": 705
     }
   ],
   "stock": {
@@ -1072,7 +1080,8 @@
     "116": 0,
     "117": 0,
     "118": 0,
-    "119": 0
+    "119": 0,
+    "120": 0
   },
   "equipos": [
     {
