@@ -943,6 +943,14 @@
       "presentacion": "500",
       "unidades": 5000,
       "costoTotal": 5000
+    },
+    {
+      "id": 119,
+      "nombre": "bolsitas papel madera",
+      "tipo": "Especial",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 3400
     }
   ],
   "stock": {
@@ -1063,7 +1071,8 @@
     "115": 0,
     "116": 0,
     "117": 0,
-    "118": 0
+    "118": 0,
+    "119": 0
   },
   "equipos": [
     {
