@@ -6284,6 +6284,47 @@
         "total": 13043.872340425532,
         "ganReal": 11913.252340425533
       }
+    },
+    {
+      "id": 144,
+      "codigo": "P0144",
+      "cliente": "pauli",
+      "productoFinal": "bolsitas de madera",
+      "variante": "Estándar",
+      "cantidad": 110,
+      "fecha": "2026-08-23",
+      "materiales": [
+        {
+          "prodId": 119,
+          "cantidad": 110
+        }
+      ],
+      "paginas": 110,
+      "tintas": "ambas",
+      "usosEquipo": 110,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 67758.8,
+      "gananciaReal": 43879.4,
+      "senia": 33879.4,
+      "_c": {
+        "subMP": 3740,
+        "cTinta": 2644.4,
+        "cAmort": 17270,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 23879.4,
+        "sub": 33879.4,
+        "mrgV": 33879.4,
+        "total": 67758.8,
+        "ganReal": 43879.4
+      }
     }
   ],
   "pedidos": [
