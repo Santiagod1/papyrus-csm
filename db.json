@@ -976,7 +976,7 @@
     "12": 0,
     "13": 5,
     "14": 0,
-    "15": 6.8,
+    "15": 2.8,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -6439,6 +6439,59 @@
         "mrgV": 1229.04,
         "total": 2458.08,
         "ganReal": 1229.04
+      }
+    },
+    {
+      "id": 147,
+      "codigo": "P0147",
+      "cliente": "yamila",
+      "productoFinal": "toppers",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 4
+        },
+        {
+          "prodId": 98,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 4
+        },
+        {
+          "prodId": 105,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 40,
+      "total": 4817.8,
+      "gananciaReal": 1927.1200000000003,
+      "senia": 2408.9,
+      "_c": {
+        "subMP": 2091.52,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 2890.68,
+        "sub": 2890.68,
+        "mrgV": 1927.1200000000003,
+        "total": 4817.8,
+        "ganReal": 1927.1200000000003
       }
     }
   ],
