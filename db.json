@@ -976,7 +976,7 @@
     "12": 0,
     "13": 5,
     "14": 0,
-    "15": 2.8,
+    "15": 1.7999999999999998,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -6492,6 +6492,59 @@
         "mrgV": 1927.1200000000003,
         "total": 4817.8,
         "ganReal": 1927.1200000000003
+      }
+    },
+    {
+      "id": 148,
+      "codigo": "P0148",
+      "cliente": "yamila",
+      "productoFinal": "centros de mesa",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 1
+        },
+        {
+          "prodId": 40,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1
+        },
+        {
+          "prodId": 71,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 3563.34,
+      "gananciaReal": 2781.67,
+      "senia": 1781.67,
+      "_c": {
+        "subMP": 382.09,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 781.67,
+        "sub": 1781.67,
+        "mrgV": 1781.67,
+        "total": 3563.34,
+        "ganReal": 2781.67
       }
     }
   ],
