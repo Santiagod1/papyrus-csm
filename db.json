@@ -1003,7 +1003,7 @@
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 14,
+    "42": 11,
     "43": 100,
     "44": 50,
     "45": 0,
@@ -6639,6 +6639,51 @@
         "mrgV": 2156.3314285714296,
         "total": 7187.77142857143,
         "ganReal": 4156.33142857143
+      }
+    },
+    {
+      "id": 151,
+      "codigo": "P0151",
+      "cliente": "aye",
+      "productoFinal": "banderines",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "materiales": [
+        {
+          "prodId": 73,
+          "cantidad": 3
+        },
+        {
+          "prodId": 42,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 51,
+      "total": 17313.102040816328,
+      "gananciaReal": 13829.682040816328,
+      "senia": 8656.551020408164,
+      "_c": {
+        "subMP": 2827.8,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 3483.42,
+        "sub": 8483.42,
+        "mrgV": 8829.682040816328,
+        "total": 17313.102040816328,
+        "ganReal": 13829.682040816328
       }
     }
   ],
