@@ -6768,6 +6768,21 @@
       "pagadoCompleto": false,
       "total": 4518.835820895522,
       "senia": 2259.417910447761
+    },
+    {
+      "id": 28,
+      "codigo": "PED028",
+      "cliente": "tobi",
+      "fecha": "2026-08-25",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 134,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 4032.327272727273,
+      "senia": 2016.1636363636364
     }
   ]
 }
