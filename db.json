@@ -6391,6 +6391,55 @@
         "total": 3732.1428571428573,
         "ganReal": 2119.6428571428573
       }
+    },
+    {
+      "id": 146,
+      "codigo": "P0146",
+      "cliente": "yamila",
+      "productoFinal": "Letras 3D",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 3
+        },
+        {
+          "prodId": 71,
+          "cantidad": 5
+        },
+        {
+          "prodId": 78,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 2458.08,
+      "gananciaReal": 1229.04,
+      "senia": 1229.04,
+      "_c": {
+        "subMP": 467.38,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1229.04,
+        "sub": 1229.04,
+        "mrgV": 1229.04,
+        "total": 2458.08,
+        "ganReal": 1229.04
+      }
     }
   ],
   "pedidos": [
