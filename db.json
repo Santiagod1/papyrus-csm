@@ -6783,6 +6783,21 @@
       "pagadoCompleto": false,
       "total": 4032.327272727273,
       "senia": 2016.1636363636364
+    },
+    {
+      "id": 29,
+      "codigo": "PED029",
+      "cliente": "aldana",
+      "fecha": "2026-08-25",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 133,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 8937.871428571429,
+      "senia": 4468.935714285714
     }
   ]
 }
