@@ -6798,6 +6798,21 @@
       "pagadoCompleto": false,
       "total": 8937.871428571429,
       "senia": 4468.935714285714
+    },
+    {
+      "id": 30,
+      "codigo": "PED030",
+      "cliente": "lu",
+      "fecha": "2026-08-25",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 75,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": false,
+      "total": 23096.833333333336,
+      "senia": 11548.416666666668
     }
   ]
 }
