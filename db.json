@@ -6546,6 +6546,51 @@
         "total": 3563.34,
         "ganReal": 2781.67
       }
+    },
+    {
+      "id": 149,
+      "codigo": "P0149",
+      "cliente": "yamila",
+      "productoFinal": "feliz cumple",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 12
+        },
+        {
+          "prodId": 78,
+          "cantidad": 8
+        }
+      ],
+      "paginas": 20,
+      "tintas": "ambas",
+      "usosEquipo": 20,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 15112.720000000001,
+      "gananciaReal": 9556.36,
+      "senia": 7556.360000000001,
+      "_c": {
+        "subMP": 1785.56,
+        "cTinta": 480.80000000000007,
+        "cAmort": 3140,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 5556.360000000001,
+        "sub": 7556.360000000001,
+        "mrgV": 7556.360000000001,
+        "total": 15112.720000000001,
+        "ganReal": 9556.36
+      }
     }
   ],
   "pedidos": [
