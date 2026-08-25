@@ -6595,6 +6595,51 @@
         "total": 20092.72,
         "ganReal": 12046.36
       }
+    },
+    {
+      "id": 150,
+      "codigo": "P0150",
+      "cliente": "yamila",
+      "productoFinal": "libritos",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 78,
+          "cantidad": 10
+        }
+      ],
+      "paginas": 11,
+      "tintas": "ambas",
+      "usosEquipo": 11,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 7187.77142857143,
+      "gananciaReal": 4156.33142857143,
+      "senia": 3593.885714285715,
+      "_c": {
+        "subMP": 965,
+        "cTinta": 264.44,
+        "cAmort": 1727,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 3031.44,
+        "sub": 5031.4400000000005,
+        "mrgV": 2156.3314285714296,
+        "total": 7187.77142857143,
+        "ganReal": 4156.33142857143
+      }
     }
   ],
   "pedidos": [
