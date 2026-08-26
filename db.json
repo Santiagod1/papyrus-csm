@@ -186,10 +186,10 @@
     },
     {
       "id": 24,
-      "nombre": "Foil por metro",
+      "nombre": "Foil reactivo al toner dorado",
       "tipo": "Foil",
-      "presentacion": "1 metro",
-      "unidades": 5,
+      "presentacion": "25 hojas A4",
+      "unidades": 25,
       "costoTotal": 6990
     },
     {
