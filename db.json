@@ -6717,8 +6717,8 @@
           "cantidad": 0.5
         },
         {
-          "prodId": 1,
-          "cantidad": 1
+          "prodId": 121,
+          "cantidad": 10
         }
       ],
       "paginas": 0,
@@ -6731,21 +6731,21 @@
       "hsMo": 0,
       "valMo": 10000,
       "margen": 30,
-      "total": 1653,
-      "gananciaReal": 495.9000000000001,
-      "senia": 826.5,
+      "total": 1798.7142857142858,
+      "gananciaReal": 539.6142857142859,
+      "senia": 899.3571428571429,
       "_c": {
-        "subMP": 1157.1,
+        "subMP": 1259.1,
         "cTinta": 0,
         "cAmort": 0,
         "cLuz": 0,
         "cDise": 0,
         "cMo": 0,
-        "cProd": 1157.1,
-        "sub": 1157.1,
-        "mrgV": 495.9000000000001,
-        "total": 1653,
-        "ganReal": 495.9000000000001
+        "cProd": 1259.1,
+        "sub": 1259.1,
+        "mrgV": 539.6142857142859,
+        "total": 1798.7142857142858,
+        "ganReal": 539.6142857142859
       }
     }
   ],
