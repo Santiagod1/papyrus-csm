@@ -967,6 +967,14 @@
       "presentacion": "500",
       "unidades": 500,
       "costoTotal": 9600
+    },
+    {
+      "id": 122,
+      "nombre": "resma a5 90",
+      "tipo": "Papel",
+      "presentacion": "500",
+      "unidades": 500,
+      "costoTotal": 4500
     }
   ],
   "stock": {
@@ -1090,7 +1098,8 @@
     "118": 0,
     "119": 0,
     "120": 0,
-    "121": 0
+    "121": 0,
+    "122": 0
   },
   "equipos": [
     {
