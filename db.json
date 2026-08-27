@@ -983,6 +983,14 @@
       "presentacion": "50",
       "unidades": 50,
       "costoTotal": 10100
+    },
+    {
+      "id": 124,
+      "nombre": "lapicera",
+      "tipo": "Papel",
+      "presentacion": "24",
+      "unidades": 24,
+      "costoTotal": 10000
     }
   ],
   "stock": {
@@ -1108,7 +1116,8 @@
     "120": 0,
     "121": 0,
     "122": 0,
-    "123": 0
+    "123": 0,
+    "124": 0
   },
   "equipos": [
     {
