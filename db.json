@@ -6859,6 +6859,47 @@
         "total": 33898.33333333334,
         "ganReal": 21525.43333333334
       }
+    },
+    {
+      "id": 155,
+      "codigo": "P0155",
+      "cliente": "berni",
+      "productoFinal": "tarjetitas casamiento",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-08-27",
+      "materiales": [
+        {
+          "prodId": 121,
+          "cantidad": 10
+        }
+      ],
+      "paginas": 10,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 12668.428571428572,
+      "gananciaReal": 8800.528571428573,
+      "senia": 6334.214285714286,
+      "_c": {
+        "subMP": 2020,
+        "cTinta": 240.40000000000003,
+        "cAmort": 1570,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 3867.9,
+        "sub": 8867.9,
+        "mrgV": 3800.528571428573,
+        "total": 12668.428571428572,
+        "ganReal": 8800.528571428573
+      }
     }
   ],
   "pedidos": [
