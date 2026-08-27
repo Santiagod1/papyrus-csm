@@ -6769,6 +6769,47 @@
         "total": 101599.38775510204,
         "ganReal": 81815.68775510204
       }
+    },
+    {
+      "id": 153,
+      "codigo": "P0153",
+      "cliente": "empre",
+      "productoFinal": "polaroid",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-08-27",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 0.5
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 82,
+      "total": 1575.2222222222215,
+      "gananciaReal": 1291.6822222222215,
+      "senia": 787.6111111111107,
+      "_c": {
+        "subMP": 65,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 283.53999999999996,
+        "sub": 283.53999999999996,
+        "mrgV": 1291.6822222222215,
+        "total": 1575.2222222222215,
+        "ganReal": 1291.6822222222215
+      }
     }
   ],
   "pedidos": [
