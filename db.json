@@ -6810,6 +6810,55 @@
         "total": 1575.2222222222215,
         "ganReal": 1291.6822222222215
       }
+    },
+    {
+      "id": 154,
+      "codigo": "P0154",
+      "cliente": "berna",
+      "productoFinal": "sobres",
+      "variante": "Estándar",
+      "cantidad": 20,
+      "fecha": "2026-08-27",
+      "materiales": [
+        {
+          "prodId": 123,
+          "cantidad": 40
+        },
+        {
+          "prodId": 122,
+          "cantidad": 10
+        },
+        {
+          "prodId": 71,
+          "cantidad": 40
+        }
+      ],
+      "paginas": 10,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 34,
+      "total": 33898.33333333334,
+      "gananciaReal": 21525.43333333334,
+      "senia": 16949.16666666667,
+      "_c": {
+        "subMP": 10450,
+        "cTinta": 240.40000000000003,
+        "cAmort": 1570,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 12372.9,
+        "sub": 22372.9,
+        "mrgV": 11525.433333333342,
+        "total": 33898.33333333334,
+        "ganReal": 21525.43333333334
+      }
     }
   ],
   "pedidos": [
