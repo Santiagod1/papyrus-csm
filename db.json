@@ -959,6 +959,14 @@
       "presentacion": "1",
       "unidades": 1,
       "costoTotal": 705
+    },
+    {
+      "id": 121,
+      "nombre": "Matelina Corteza Pino 230g",
+      "tipo": "Papel",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 10100
     }
   ],
   "stock": {
@@ -1081,7 +1089,8 @@
     "117": 0,
     "118": 0,
     "119": 0,
-    "120": 0
+    "120": 0,
+    "121": 0
   },
   "equipos": [
     {
