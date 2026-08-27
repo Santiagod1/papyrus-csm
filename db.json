@@ -986,7 +986,7 @@
     }
   ],
   "stock": {
-    "1": 96,
+    "1": 95,
     "2": 4,
     "3": 24,
     "4": 0,
@@ -6846,6 +6846,51 @@
         "mrgV": 3800.528571428573,
         "total": 12668.428571428572,
         "ganReal": 8800.528571428573
+      }
+    },
+    {
+      "id": 156,
+      "codigo": "P0156",
+      "cliente": "zule",
+      "productoFinal": "kit maestro",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-08-27",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 314.2857142857143,
+      "gananciaReal": 94.28571428571428,
+      "senia": 157.14285714285714,
+      "_c": {
+        "subMP": 220,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 220,
+        "sub": 220,
+        "mrgV": 94.28571428571428,
+        "total": 314.2857142857143,
+        "ganReal": 94.28571428571428
       }
     }
   ],
