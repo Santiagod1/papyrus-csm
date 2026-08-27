@@ -975,6 +975,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 17700
+    },
+    {
+      "id": 123,
+      "nombre": "Matelina Tramado Algodón 230g",
+      "tipo": "Papel",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 10100
     }
   ],
   "stock": {
@@ -1099,7 +1107,8 @@
     "119": 0,
     "120": 0,
     "121": 0,
-    "122": 0
+    "122": 0,
+    "123": 0
   },
   "equipos": [
     {
