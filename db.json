@@ -6718,59 +6718,6 @@
       }
     },
     {
-      "id": 152,
-      "codigo": "P0152",
-      "cliente": "berni",
-      "productoFinal": "tarjetas de casamiento",
-      "variante": "Estándar",
-      "cantidad": 20,
-      "fecha": "2026-08-26",
-      "materiales": [
-        {
-          "prodId": 121,
-          "cantidad": 10
-        },
-        {
-          "prodId": 122,
-          "cantidad": 20
-        },
-        {
-          "prodId": 123,
-          "cantidad": 40
-        },
-        {
-          "prodId": 71,
-          "cantidad": 40
-        }
-      ],
-      "paginas": 30,
-      "tintas": "ambas",
-      "usosEquipo": 30,
-      "equipoId": "4",
-      "hsLuz": 1.5,
-      "hsDise": 0,
-      "valDise": 18000,
-      "hsMo": 3,
-      "valMo": 10000,
-      "margen": 18,
-      "total": 60711.82926829268,
-      "gananciaReal": 40928.12926829268,
-      "senia": 30355.91463414634,
-      "_c": {
-        "subMP": 14240,
-        "cTinta": 721.2,
-        "cAmort": 4710,
-        "cLuz": 112.5,
-        "cDise": 0,
-        "cMo": 30000,
-        "cProd": 19783.7,
-        "sub": 49783.7,
-        "mrgV": 10928.12926829268,
-        "total": 60711.82926829268,
-        "ganReal": 40928.12926829268
-      }
-    },
-    {
       "id": 153,
       "codigo": "P0153",
       "cliente": "empre",
