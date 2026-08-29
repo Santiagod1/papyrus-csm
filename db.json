@@ -6913,6 +6913,47 @@
         "total": 15748.130718954248,
         "ganReal": 7716.5840522875815
       }
+    },
+    {
+      "id": 157,
+      "codigo": "P0157",
+      "cliente": "sebastian",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 1000,
+      "fecha": "2026-08-28",
+      "materiales": [
+        {
+          "prodId": 85,
+          "cantidad": 168
+        }
+      ],
+      "paginas": 168,
+      "tintas": "ambas",
+      "usosEquipo": 168,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 135343.44,
+      "gananciaReal": 79671.72,
+      "senia": 67671.72,
+      "_c": {
+        "subMP": 25032,
+        "cTinta": 4038.7200000000003,
+        "cAmort": 26376,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 12000,
+        "cProd": 55671.72,
+        "sub": 67671.72,
+        "mrgV": 67671.72,
+        "total": 135343.44,
+        "ganReal": 79671.72
+      }
     }
   ],
   "pedidos": [
