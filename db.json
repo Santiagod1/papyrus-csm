@@ -994,7 +994,7 @@
     }
   ],
   "stock": {
-    "1": 95,
+    "1": 94,
     "2": 4,
     "3": 24,
     "4": 0,
@@ -6998,6 +6998,51 @@
         "mrgV": 10190.6,
         "total": 20381.2,
         "ganReal": 15190.6
+      }
+    },
+    {
+      "id": 159,
+      "codigo": "P0159",
+      "cliente": "nerea",
+      "productoFinal": "anotador A5",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-31",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 314.2857142857143,
+      "gananciaReal": 94.28571428571428,
+      "senia": 157.14285714285714,
+      "_c": {
+        "subMP": 220,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 220,
+        "sub": 220,
+        "mrgV": 94.28571428571428,
+        "total": 314.2857142857143,
+        "ganReal": 94.28571428571428
       }
     }
   ],
