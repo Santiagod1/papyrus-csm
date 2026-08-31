@@ -999,6 +999,14 @@
       "presentacion": "500",
       "unidades": 500,
       "costoTotal": 10000
+    },
+    {
+      "id": 126,
+      "nombre": "caja de 25x15x5,5",
+      "tipo": "Papel",
+      "presentacion": "1",
+      "unidades": 1,
+      "costoTotal": 600
     }
   ],
   "stock": {
@@ -1126,7 +1134,8 @@
     "122": 0,
     "123": 0,
     "124": 0,
-    "125": 0
+    "125": 0,
+    "126": 0
   },
   "equipos": [
     {
