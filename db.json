@@ -6954,6 +6954,51 @@
         "total": 135343.44,
         "ganReal": 79671.72
       }
+    },
+    {
+      "id": 158,
+      "codigo": "P0158",
+      "cliente": "aldana",
+      "productoFinal": "porta panchos",
+      "variante": "Estándar",
+      "cantidad": 15,
+      "fecha": "2026-08-31",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 15
+        },
+        {
+          "prodId": 71,
+          "cantidad": 30
+        }
+      ],
+      "paginas": 15,
+      "tintas": "ambas",
+      "usosEquipo": 15,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 20381.2,
+      "gananciaReal": 15190.6,
+      "senia": 10190.6,
+      "_c": {
+        "subMP": 2400,
+        "cTinta": 360.6,
+        "cAmort": 2355,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 5190.6,
+        "sub": 10190.6,
+        "mrgV": 10190.6,
+        "total": 20381.2,
+        "ganReal": 15190.6
+      }
     }
   ],
   "pedidos": [
