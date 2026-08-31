@@ -1002,11 +1002,11 @@
     },
     {
       "id": 126,
-      "nombre": "caja de 25x15x5,5",
+      "nombre": "caja de 20x20",
       "tipo": "Papel",
       "presentacion": "1",
       "unidades": 1,
-      "costoTotal": 600
+      "costoTotal": 1700
     }
   ],
   "stock": {
