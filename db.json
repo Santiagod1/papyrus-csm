@@ -7062,6 +7062,51 @@
         "total": 6310.5599999999995,
         "ganReal": 3155.2799999999997
       }
+    },
+    {
+      "id": 160,
+      "codigo": "P0160",
+      "cliente": "nerea",
+      "productoFinal": "caja box",
+      "variante": "Estándar",
+      "cantidad": 1,
+      "fecha": "2026-08-31",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 1
+        },
+        {
+          "prodId": 126,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 2030.1599999999999,
+      "gananciaReal": 1015.0799999999999,
+      "senia": 1015.0799999999999,
+      "_c": {
+        "subMP": 796.54,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1015.0799999999999,
+        "sub": 1015.0799999999999,
+        "mrgV": 1015.0799999999999,
+        "total": 2030.1599999999999,
+        "ganReal": 1015.0799999999999
+      }
     }
   ],
   "pedidos": [
