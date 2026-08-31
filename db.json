@@ -991,6 +991,14 @@
       "presentacion": "24",
       "unidades": 24,
       "costoTotal": 10000
+    },
+    {
+      "id": 125,
+      "nombre": "resma 90",
+      "tipo": "Papel",
+      "presentacion": "500",
+      "unidades": 500,
+      "costoTotal": 10000
     }
   ],
   "stock": {
@@ -1117,7 +1125,8 @@
     "121": 0,
     "122": 0,
     "123": 0,
-    "124": 0
+    "124": 0,
+    "125": 0
   },
   "equipos": [
     {
