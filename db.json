@@ -7115,6 +7115,47 @@
         "total": 14689.730769230768,
         "ganReal": 12051.070769230768
       }
+    },
+    {
+      "id": 161,
+      "codigo": "P0161",
+      "cliente": "",
+      "productoFinal": "Entradas",
+      "variante": "Estándar",
+      "cantidad": 500,
+      "fecha": "2026-09-01",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 125
+        }
+      ],
+      "paginas": 125,
+      "tintas": "ambas",
+      "usosEquipo": 125,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 101450,
+      "gananciaReal": 65725,
+      "senia": 50725,
+      "_c": {
+        "subMP": 12870,
+        "cTinta": 3005,
+        "cAmort": 19625,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 35725,
+        "sub": 50725,
+        "mrgV": 50725,
+        "total": 101450,
+        "ganReal": 65725
+      }
     }
   ],
   "pedidos": [
