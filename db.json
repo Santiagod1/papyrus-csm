@@ -1007,6 +1007,14 @@
       "presentacion": "1",
       "unidades": 1,
       "costoTotal": 1700
+    },
+    {
+      "id": 127,
+      "nombre": "tapa de plastico a4",
+      "tipo": "Papel",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 9900
     }
   ],
   "stock": {
@@ -1135,7 +1143,8 @@
     "123": 0,
     "124": 0,
     "125": 0,
-    "126": 0
+    "126": 0,
+    "127": 0
   },
   "equipos": [
     {
