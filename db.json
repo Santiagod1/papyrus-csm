@@ -7165,6 +7165,55 @@
         "total": 101450,
         "ganReal": 65725
       }
+    },
+    {
+      "id": 162,
+      "codigo": "P0162",
+      "cliente": "nere",
+      "productoFinal": "kit matematicas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-02",
+      "materiales": [
+        {
+          "prodId": 127,
+          "cantidad": 2
+        },
+        {
+          "prodId": 110,
+          "cantidad": 1
+        },
+        {
+          "prodId": 125,
+          "cantidad": 72
+        }
+      ],
+      "paginas": 72,
+      "tintas": "ambas",
+      "usosEquipo": 72,
+      "equipoId": "4",
+      "hsLuz": 3,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 34519.76,
+      "gananciaReal": 19259.88,
+      "senia": 17259.88,
+      "_c": {
+        "subMP": 2000,
+        "cTinta": 1730.88,
+        "cAmort": 11304,
+        "cLuz": 225,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 15259.880000000001,
+        "sub": 17259.88,
+        "mrgV": 17259.88,
+        "total": 34519.76,
+        "ganReal": 19259.88
+      }
     }
   ],
   "pedidos": [
