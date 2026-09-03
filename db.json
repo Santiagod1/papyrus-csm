@@ -7188,9 +7188,9 @@
           "cantidad": 72
         }
       ],
-      "paginas": 72,
+      "paginas": 52,
       "tintas": "ambas",
-      "usosEquipo": 72,
+      "usosEquipo": 52,
       "equipoId": "4",
       "hsLuz": 3,
       "hsDise": 0,
@@ -7198,21 +7198,21 @@
       "hsMo": 0.2,
       "valMo": 10000,
       "margen": 50,
-      "total": 34519.76,
-      "gananciaReal": 19259.88,
-      "senia": 17259.88,
+      "total": 27278.16,
+      "gananciaReal": 15639.08,
+      "senia": 13639.08,
       "_c": {
         "subMP": 2000,
-        "cTinta": 1730.88,
-        "cAmort": 11304,
+        "cTinta": 1250.08,
+        "cAmort": 8164,
         "cLuz": 225,
         "cDise": 0,
         "cMo": 2000,
-        "cProd": 15259.880000000001,
-        "sub": 17259.88,
-        "mrgV": 17259.88,
-        "total": 34519.76,
-        "ganReal": 19259.88
+        "cProd": 11639.08,
+        "sub": 13639.08,
+        "mrgV": 13639.08,
+        "total": 27278.16,
+        "ganReal": 15639.08
       }
     }
   ],
