@@ -7214,6 +7214,51 @@
         "total": 27278.16,
         "ganReal": 15639.08
       }
+    },
+    {
+      "id": 163,
+      "codigo": "P0163",
+      "cliente": "aldana",
+      "productoFinal": "cuadrito",
+      "variante": "Estándar",
+      "cantidad": 2,
+      "fecha": "2026-09-04",
+      "materiales": [
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 13859.16,
+      "gananciaReal": 11929.58,
+      "senia": 6929.58,
+      "_c": {
+        "subMP": 1530,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1929.58,
+        "sub": 6929.58,
+        "mrgV": 6929.58,
+        "total": 13859.16,
+        "ganReal": 11929.58
+      }
     }
   ],
   "pedidos": [
