@@ -7312,6 +7312,59 @@
         "total": 85442.05172413791,
         "ganReal": 50885.66172413791
       }
+    },
+    {
+      "id": 165,
+      "codigo": "P0165",
+      "cliente": "rocio",
+      "productoFinal": "bolsitas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-07",
+      "materiales": [
+        {
+          "prodId": 107,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1.5
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 70,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 3600.3599999999997,
+      "gananciaReal": 1800.1799999999998,
+      "senia": 1800.1799999999998,
+      "_c": {
+        "subMP": 1400.6,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1800.1799999999998,
+        "sub": 1800.1799999999998,
+        "mrgV": 1800.1799999999998,
+        "total": 3600.3599999999997,
+        "ganReal": 1800.1799999999998
+      }
     }
   ],
   "pedidos": [
