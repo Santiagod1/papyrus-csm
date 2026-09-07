@@ -1032,7 +1032,7 @@
     "12": 0,
     "13": 5,
     "14": 0,
-    "15": 1.7999999999999998,
+    "15": 0,
     "16": 100,
     "17": 75,
     "18": 1,
@@ -7258,6 +7258,59 @@
         "mrgV": 6929.58,
         "total": 13859.16,
         "ganReal": 11929.58
+      }
+    },
+    {
+      "id": 164,
+      "codigo": "P0164",
+      "cliente": "rocio",
+      "productoFinal": "bolsita tipo kiosco",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-07",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 75
+        },
+        {
+          "prodId": 72,
+          "cantidad": 17
+        },
+        {
+          "prodId": 15,
+          "cantidad": 5
+        },
+        {
+          "prodId": 14,
+          "cantidad": 14
+        }
+      ],
+      "paginas": 92,
+      "tintas": "ambas",
+      "usosEquipo": 92,
+      "equipoId": "4",
+      "hsLuz": 2.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 42,
+      "total": 85442.05172413791,
+      "gananciaReal": 50885.66172413791,
+      "senia": 42721.02586206896,
+      "_c": {
+        "subMP": 17713.21,
+        "cTinta": 2211.68,
+        "cAmort": 14444,
+        "cLuz": 187.5,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 34556.39,
+        "sub": 49556.39,
+        "mrgV": 35885.66172413791,
+        "total": 85442.05172413791,
+        "ganReal": 50885.66172413791
       }
     }
   ],
