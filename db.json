@@ -7781,6 +7781,47 @@
         "total": 2400.48,
         "ganReal": 1200.24
       }
+    },
+    {
+      "id": 174,
+      "codigo": "P0174",
+      "cliente": "osmar",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 16
+        }
+      ],
+      "paginas": 16,
+      "tintas": "ambas",
+      "usosEquipo": 16,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 36,
+      "total": 24129.28125,
+      "gananciaReal": 18686.541250000002,
+      "senia": 12064.640625,
+      "_c": {
+        "subMP": 2433.6,
+        "cTinta": 384.64,
+        "cAmort": 2512,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 5442.74,
+        "sub": 15442.74,
+        "mrgV": 8686.54125,
+        "total": 24129.28125,
+        "ganReal": 18686.541250000002
+      }
     }
   ],
   "pedidos": [
