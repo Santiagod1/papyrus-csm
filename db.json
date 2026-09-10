@@ -7736,6 +7736,51 @@
         "total": 1159.5714285714287,
         "ganReal": 347.8714285714286
       }
+    },
+    {
+      "id": 173,
+      "codigo": "P0173",
+      "cliente": "zule",
+      "productoFinal": "souvenirs cuaderno para colorear",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 5
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 6,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 2400.48,
+      "gananciaReal": 1200.24,
+      "senia": 1200.24,
+      "_c": {
+        "subMP": 547.5,
+        "cTinta": 144.24,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1200.24,
+        "sub": 1200.24,
+        "mrgV": 1200.24,
+        "total": 2400.48,
+        "ganReal": 1200.24
+      }
     }
   ],
   "pedidos": [
