@@ -7365,6 +7365,47 @@
         "total": 3600.3599999999997,
         "ganReal": 1800.1799999999998
       }
+    },
+    {
+      "id": 166,
+      "codigo": "P0166",
+      "cliente": "zule",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 9,
+      "tintas": "ambas",
+      "usosEquipo": 9,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 10775.042857142858,
+      "gananciaReal": 8232.512857142858,
+      "senia": 5387.521428571429,
+      "_c": {
+        "subMP": 838.17,
+        "cTinta": 216.36,
+        "cAmort": 1413,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 2542.5299999999997,
+        "sub": 7542.53,
+        "mrgV": 3232.5128571428586,
+        "total": 10775.042857142858,
+        "ganReal": 8232.512857142858
+      }
     }
   ],
   "pedidos": [
