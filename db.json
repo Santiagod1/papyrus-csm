@@ -7455,6 +7455,55 @@
         "total": 3697.472222222222,
         "ganReal": 2035.2922222222223
       }
+    },
+    {
+      "id": 168,
+      "codigo": "P0168",
+      "cliente": "zule",
+      "productoFinal": "centro de mesa hongo",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 3
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1
+        },
+        {
+          "prodId": 98,
+          "cantidad": 0.5
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 32,
+      "total": 3325.0147058823536,
+      "gananciaReal": 2064.0047058823534,
+      "senia": 1662.5073529411768,
+      "_c": {
+        "subMP": 642.89,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1261.01,
+        "sub": 2261.01,
+        "mrgV": 1064.0047058823534,
+        "total": 3325.0147058823536,
+        "ganReal": 2064.0047058823534
+      }
     }
   ],
   "pedidos": [
