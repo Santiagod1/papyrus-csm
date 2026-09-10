@@ -1081,7 +1081,7 @@
     "61": 0,
     "62": 20,
     "63": 100,
-    "64": 998,
+    "64": 997,
     "65": 4,
     "66": 50,
     "67": 6,
@@ -7568,6 +7568,63 @@
         "mrgV": 1542.828048289739,
         "total": 5142.760160965795,
         "ganReal": 2542.828048289739
+      }
+    },
+    {
+      "id": 170,
+      "codigo": "P0170",
+      "cliente": "zule",
+      "productoFinal": "centro de mesas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 15,
+          "cantidad": 1
+        },
+        {
+          "prodId": 41,
+          "cantidad": 2
+        },
+        {
+          "prodId": 72,
+          "cantidad": 1
+        },
+        {
+          "prodId": 14,
+          "cantidad": 1
+        },
+        {
+          "prodId": 64,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 27,
+      "total": 3566.8356164383563,
+      "gananciaReal": 1963.0456164383563,
+      "senia": 1783.4178082191781,
+      "_c": {
+        "subMP": 1023.17,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1603.79,
+        "sub": 2603.79,
+        "mrgV": 963.0456164383563,
+        "total": 3566.8356164383563,
+        "ganReal": 1963.0456164383563
       }
     }
   ],
