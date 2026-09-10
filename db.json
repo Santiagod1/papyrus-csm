@@ -7626,6 +7626,67 @@
         "total": 3566.8356164383563,
         "ganReal": 1963.0456164383563
       }
+    },
+    {
+      "id": 171,
+      "codigo": "P0171",
+      "cliente": "zule",
+      "productoFinal": "souvenirs cajita circular",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 41,
+          "cantidad": 1
+        },
+        {
+          "prodId": 78,
+          "cantidad": 1
+        },
+        {
+          "prodId": 98,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1
+        },
+        {
+          "prodId": 71,
+          "cantidad": 2
+        },
+        {
+          "prodId": 120,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 4240.857142857143,
+      "gananciaReal": 2272.257142857143,
+      "senia": 2120.4285714285716,
+      "_c": {
+        "subMP": 1569.02,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1968.6,
+        "sub": 2968.6,
+        "mrgV": 1272.2571428571432,
+        "total": 4240.857142857143,
+        "ganReal": 2272.257142857143
+      }
     }
   ],
   "pedidos": [
