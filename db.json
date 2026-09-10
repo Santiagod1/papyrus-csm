@@ -7406,6 +7406,55 @@
         "total": 10775.042857142858,
         "ganReal": 8232.512857142858
       }
+    },
+    {
+      "id": 167,
+      "codigo": "P0167",
+      "cliente": "zule",
+      "productoFinal": "bolsita cartera",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 4
+        },
+        {
+          "prodId": 15,
+          "cantidad": 3
+        },
+        {
+          "prodId": 71,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 28,
+      "total": 3697.472222222222,
+      "gananciaReal": 2035.2922222222223,
+      "senia": 1848.736111111111,
+      "_c": {
+        "subMP": 900.52,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1662.1799999999998,
+        "sub": 2662.18,
+        "mrgV": 1035.2922222222223,
+        "total": 3697.472222222222,
+        "ganReal": 2035.2922222222223
+      }
     }
   ],
   "pedidos": [
