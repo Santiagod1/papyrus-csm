@@ -1081,7 +1081,7 @@
     "61": 0,
     "62": 20,
     "63": 100,
-    "64": 999,
+    "64": 998,
     "65": 4,
     "66": 50,
     "67": 6,
@@ -7503,6 +7503,71 @@
         "mrgV": 1064.0047058823534,
         "total": 3325.0147058823536,
         "ganReal": 2064.0047058823534
+      }
+    },
+    {
+      "id": 169,
+      "codigo": "P0169",
+      "cliente": "zule",
+      "productoFinal": "centro de mesa con letras",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-10",
+      "materiales": [
+        {
+          "prodId": 15,
+          "cantidad": 1.5
+        },
+        {
+          "prodId": 72,
+          "cantidad": 6
+        },
+        {
+          "prodId": 87,
+          "cantidad": 2
+        },
+        {
+          "prodId": 64,
+          "cantidad": 1
+        },
+        {
+          "prodId": 98,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 71,
+          "cantidad": 2.5
+        },
+        {
+          "prodId": 41,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 7,
+      "tintas": "ambas",
+      "usosEquipo": 7,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 5142.760160965795,
+      "gananciaReal": 2542.828048289739,
+      "senia": 2571.3800804828975,
+      "_c": {
+        "subMP": 1257.6521126760563,
+        "cTinta": 168.28,
+        "cAmort": 1099,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 2599.932112676056,
+        "sub": 3599.932112676056,
+        "mrgV": 1542.828048289739,
+        "total": 5142.760160965795,
+        "ganReal": 2542.828048289739
       }
     }
   ],
