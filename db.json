@@ -7822,6 +7822,47 @@
         "total": 24129.28125,
         "ganReal": 18686.541250000002
       }
+    },
+    {
+      "id": 175,
+      "codigo": "P0175",
+      "cliente": "krlitos",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-11",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 13
+        }
+      ],
+      "paginas": 13,
+      "tintas": "ambas",
+      "usosEquipo": 13,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 41,
+      "total": 12065.288135593219,
+      "gananciaReal": 7946.768135593218,
+      "senia": 6032.644067796609,
+      "_c": {
+        "subMP": 1690,
+        "cTinta": 312.52,
+        "cAmort": 2041,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 4118.52,
+        "sub": 7118.52,
+        "mrgV": 4946.768135593218,
+        "total": 12065.288135593219,
+        "ganReal": 7946.768135593218
+      }
     }
   ],
   "pedidos": [
