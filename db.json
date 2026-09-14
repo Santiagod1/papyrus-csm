@@ -1067,7 +1067,7 @@
     "47": 93.5,
     "48": 7,
     "49": 18,
-    "50": 100,
+    "50": 62,
     "51": 0,
     "52": 0,
     "53": 100,
@@ -7862,6 +7862,47 @@
         "mrgV": 4946.768135593218,
         "total": 12065.288135593219,
         "ganReal": 7946.768135593218
+      }
+    },
+    {
+      "id": 176,
+      "codigo": "P0176",
+      "cliente": "noe",
+      "productoFinal": "tickets",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-14",
+      "materiales": [
+        {
+          "prodId": 50,
+          "cantidad": 38
+        }
+      ],
+      "paginas": 38,
+      "tintas": "ambas",
+      "usosEquipo": 38,
+      "equipoId": "4",
+      "hsLuz": 2.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 45,
+      "total": 40358.21818181818,
+      "gananciaReal": 28161.198181818178,
+      "senia": 20179.10909090909,
+      "_c": {
+        "subMP": 5130,
+        "cTinta": 913.52,
+        "cAmort": 5966,
+        "cLuz": 187.5,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 12197.02,
+        "sub": 22197.02,
+        "mrgV": 18161.198181818178,
+        "total": 40358.21818181818,
+        "ganReal": 28161.198181818178
       }
     }
   ],
