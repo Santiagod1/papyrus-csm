@@ -8018,6 +8018,63 @@
         "total": 37380.4,
         "ganReal": 24214.120000000003
       }
+    },
+    {
+      "id": 179,
+      "codigo": "P0179",
+      "cliente": "zule",
+      "productoFinal": "fotolibro",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        },
+        {
+          "prodId": 52,
+          "cantidad": 30
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 32,
+      "tintas": "ambas",
+      "usosEquipo": 32,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 43332.73846153846,
+      "gananciaReal": 30166.45846153846,
+      "senia": 21666.36923076923,
+      "_c": {
+        "subMP": 7223,
+        "cTinta": 769.28,
+        "cAmort": 5024,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 13166.279999999999,
+        "sub": 28166.28,
+        "mrgV": 15166.45846153846,
+        "total": 43332.73846153846,
+        "ganReal": 30166.45846153846
+      }
     }
   ],
   "pedidos": [
