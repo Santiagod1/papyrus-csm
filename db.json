@@ -8075,6 +8075,63 @@
         "total": 43332.73846153846,
         "ganReal": 30166.45846153846
       }
+    },
+    {
+      "id": 180,
+      "codigo": "P0180",
+      "cliente": "zule",
+      "productoFinal": "fotolibro 24x17  10 fotos",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 52,
+          "cantidad": 30
+        }
+      ],
+      "paginas": 12,
+      "tintas": "ambas",
+      "usosEquipo": 12,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 38,
+      "total": 39468.51612903226,
+      "gananciaReal": 29998.036129032258,
+      "senia": 19734.25806451613,
+      "_c": {
+        "subMP": 7223,
+        "cTinta": 288.48,
+        "cAmort": 1884,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 9470.48,
+        "sub": 24470.48,
+        "mrgV": 14998.036129032258,
+        "total": 39468.51612903226,
+        "ganReal": 29998.036129032258
+      }
     }
   ],
   "pedidos": [
