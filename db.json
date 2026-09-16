@@ -8246,6 +8246,47 @@
         "total": 36553.305555555555,
         "ganReal": 25234.925555555554
       }
+    },
+    {
+      "id": 183,
+      "codigo": "P0183",
+      "cliente": "ludmila",
+      "productoFinal": "foto 13x18",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 52,
+          "cantidad": 0.5
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 68,
+      "total": 920.5937500000002,
+      "gananciaReal": 626.0037500000002,
+      "senia": 460.2968750000001,
+      "_c": {
+        "subMP": 76.05,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 294.59000000000003,
+        "sub": 294.59000000000003,
+        "mrgV": 626.0037500000002,
+        "total": 920.5937500000002,
+        "ganReal": 626.0037500000002
+      }
     }
   ],
   "pedidos": [
