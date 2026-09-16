@@ -8189,6 +8189,63 @@
         "total": 43144.88524590164,
         "ganReal": 31826.50524590164
       }
+    },
+    {
+      "id": 182,
+      "codigo": "P0182",
+      "cliente": "zule",
+      "productoFinal": "fotolibro 17x19 2o fotos",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 52,
+          "cantidad": 30
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 22,
+      "tintas": "ambas",
+      "usosEquipo": 22,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 28,
+      "total": 36553.305555555555,
+      "gananciaReal": 25234.925555555554,
+      "senia": 18276.652777777777,
+      "_c": {
+        "subMP": 7223,
+        "cTinta": 528.88,
+        "cAmort": 3454,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 11318.380000000001,
+        "sub": 26318.38,
+        "mrgV": 10234.925555555554,
+        "total": 36553.305555555555,
+        "ganReal": 25234.925555555554
+      }
     }
   ],
   "pedidos": [
