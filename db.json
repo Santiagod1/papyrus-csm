@@ -7904,6 +7904,63 @@
         "total": 40358.21818181818,
         "ganReal": 28161.198181818178
       }
+    },
+    {
+      "id": 177,
+      "codigo": "P0177",
+      "cliente": "Ludmila",
+      "productoFinal": "foto libro 17x19",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 70,
+          "cantidad": 1.5
+        },
+        {
+          "prodId": 52,
+          "cantidad": 30
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 13,
+      "tintas": "ambas",
+      "usosEquipo": 13,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 30020.028571428575,
+      "gananciaReal": 21006.008571428574,
+      "senia": 15010.014285714287,
+      "_c": {
+        "subMP": 6548,
+        "cTinta": 312.52,
+        "cAmort": 2041,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 12000,
+        "cProd": 9014.02,
+        "sub": 21014.02,
+        "mrgV": 9006.008571428574,
+        "total": 30020.028571428575,
+        "ganReal": 21006.008571428574
+      }
     }
   ],
   "pedidos": [
