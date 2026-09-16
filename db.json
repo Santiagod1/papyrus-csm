@@ -7961,6 +7961,63 @@
         "total": 30020.028571428575,
         "ganReal": 21006.008571428574
       }
+    },
+    {
+      "id": 178,
+      "codigo": "P0178",
+      "cliente": "zule",
+      "productoFinal": "foto libro 17x19 con fotos",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 52,
+          "cantidad": 30
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 32,
+      "tintas": "ambas",
+      "usosEquipo": 32,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.3,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 37380.4,
+      "gananciaReal": 24214.120000000003,
+      "senia": 18690.2,
+      "_c": {
+        "subMP": 7223,
+        "cTinta": 769.28,
+        "cAmort": 5024,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 13000,
+        "cProd": 13166.279999999999,
+        "sub": 26166.28,
+        "mrgV": 11214.120000000003,
+        "total": 37380.4,
+        "ganReal": 24214.120000000003
+      }
     }
   ],
   "pedidos": [
