@@ -8287,6 +8287,55 @@
         "total": 920.5937500000002,
         "ganReal": 626.0037500000002
       }
+    },
+    {
+      "id": 184,
+      "codigo": "P0184",
+      "cliente": "marce",
+      "productoFinal": "talonario x 2",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-16",
+      "materiales": [
+        {
+          "prodId": 125,
+          "cantidad": 100
+        },
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 15,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 102,
+      "tintas": "ambas",
+      "usosEquipo": 102,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 26,
+      "total": 41759.567567567574,
+      "gananciaReal": 20857.487567567572,
+      "senia": 20879.783783783787,
+      "_c": {
+        "subMP": 2286,
+        "cTinta": 2452.08,
+        "cAmort": 16014,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 20902.08,
+        "sub": 30902.08,
+        "mrgV": 10857.487567567572,
+        "total": 41759.567567567574,
+        "ganReal": 20857.487567567572
+      }
     }
   ],
   "pedidos": [
