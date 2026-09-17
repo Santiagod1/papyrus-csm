@@ -8430,6 +8430,51 @@
         "total": 18592.13333333333,
         "ganReal": 12436.853333333333
       }
+    },
+    {
+      "id": 187,
+      "codigo": "P0187",
+      "cliente": "zule",
+      "productoFinal": "kit emprendedor",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-17",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 2
+        },
+        {
+          "prodId": 46,
+          "cantidad": 6
+        }
+      ],
+      "paginas": 8,
+      "tintas": "ambas",
+      "usosEquipo": 8,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.8,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 15280.57142857143,
+      "gananciaReal": 12584.17142857143,
+      "senia": 7640.285714285715,
+      "_c": {
+        "subMP": 1173.08,
+        "cTinta": 192.32,
+        "cAmort": 1256,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 8000,
+        "cProd": 2696.3999999999996,
+        "sub": 10696.4,
+        "mrgV": 4584.17142857143,
+        "total": 15280.57142857143,
+        "ganReal": 12584.17142857143
+      }
     }
   ],
   "pedidos": [
