@@ -8585,6 +8585,59 @@
         "total": 6011.404255319149,
         "ganReal": 3186.044255319149
       }
+    },
+    {
+      "id": 190,
+      "codigo": "P0190",
+      "cliente": "zule",
+      "productoFinal": "cuaderno A6 común",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-17",
+      "materiales": [
+        {
+          "prodId": 125,
+          "cantidad": 15
+        },
+        {
+          "prodId": 78,
+          "cantidad": 1
+        },
+        {
+          "prodId": 110,
+          "cantidad": 0.3
+        },
+        {
+          "prodId": 73,
+          "cantidad": 0.5
+        }
+      ],
+      "paginas": 16,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 61,
+      "total": 3525.4871794871797,
+      "gananciaReal": 2150.5471794871796,
+      "senia": 1762.7435897435898,
+      "_c": {
+        "subMP": 758.3,
+        "cTinta": 384.64,
+        "cAmort": 157,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1374.94,
+        "sub": 1374.94,
+        "mrgV": 2150.5471794871796,
+        "total": 3525.4871794871797,
+        "ganReal": 2150.5471794871796
+      }
     }
   ],
   "pedidos": [
