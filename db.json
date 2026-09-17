@@ -1065,7 +1065,7 @@
     "45": 0,
     "46": 0,
     "47": 93.5,
-    "48": 7,
+    "48": 0,
     "49": 18,
     "50": 62,
     "51": 0,
@@ -8339,6 +8339,47 @@
         "mrgV": 9700.130526315792,
         "total": 40417.210526315794,
         "ganReal": 19700.130526315792
+      }
+    },
+    {
+      "id": 185,
+      "codigo": "P0185",
+      "cliente": "zoe",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-17",
+      "materiales": [
+        {
+          "prodId": 48,
+          "cantidad": 8
+        }
+      ],
+      "paginas": 8,
+      "tintas": "ambas",
+      "usosEquipo": 8,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 6566.639999999999,
+      "gananciaReal": 3283.3199999999997,
+      "senia": 3283.3199999999997,
+      "_c": {
+        "subMP": 1760,
+        "cTinta": 192.32,
+        "cAmort": 1256,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 3283.3199999999997,
+        "sub": 3283.3199999999997,
+        "mrgV": 3283.3199999999997,
+        "total": 6566.639999999999,
+        "ganReal": 3283.3199999999997
       }
     }
   ],
