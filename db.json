@@ -8381,6 +8381,55 @@
         "total": 4962.48,
         "ganReal": 2481.24
       }
+    },
+    {
+      "id": 186,
+      "codigo": "P0186",
+      "cliente": "zule",
+      "productoFinal": "kit feria",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-17",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 4
+        },
+        {
+          "prodId": 46,
+          "cantidad": 10
+        },
+        {
+          "prodId": 41,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 15,
+      "tintas": "ambas",
+      "usosEquipo": 22,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 40,
+      "total": 18592.13333333333,
+      "gananciaReal": 12436.853333333333,
+      "senia": 9296.066666666666,
+      "_c": {
+        "subMP": 2265.68,
+        "cTinta": 360.6,
+        "cAmort": 3454,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 6155.28,
+        "sub": 11155.279999999999,
+        "mrgV": 7436.853333333333,
+        "total": 18592.13333333333,
+        "ganReal": 12436.853333333333
+      }
     }
   ],
   "pedidos": [
