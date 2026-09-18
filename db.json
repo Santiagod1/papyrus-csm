@@ -8691,6 +8691,47 @@
         "total": 58065.653846153844,
         "ganReal": 37871.513846153844
       }
+    },
+    {
+      "id": 192,
+      "codigo": "P0192",
+      "cliente": "abigail",
+      "productoFinal": "etiquetas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-18",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 26,
+      "total": 3864.878378378379,
+      "gananciaReal": 3004.8683783783786,
+      "senia": 1932.4391891891894,
+      "_c": {
+        "subMP": 279.39,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 860.01,
+        "sub": 2860.01,
+        "mrgV": 1004.8683783783786,
+        "total": 3864.878378378379,
+        "ganReal": 3004.8683783783786
+      }
     }
   ],
   "pedidos": [
