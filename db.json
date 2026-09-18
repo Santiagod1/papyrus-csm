@@ -8638,6 +8638,59 @@
         "total": 3525.4871794871797,
         "ganReal": 2150.5471794871796
       }
+    },
+    {
+      "id": 191,
+      "codigo": "P0191",
+      "cliente": "franco",
+      "productoFinal": "cuaderno informativo",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-17",
+      "materiales": [
+        {
+          "prodId": 110,
+          "cantidad": 10
+        },
+        {
+          "prodId": 46,
+          "cantidad": 50
+        },
+        {
+          "prodId": 78,
+          "cantidad": 6
+        },
+        {
+          "prodId": 73,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 56,
+      "tintas": "ambas",
+      "usosEquipo": 56,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 48,
+      "total": 58065.653846153844,
+      "gananciaReal": 37871.513846153844,
+      "senia": 29032.826923076922,
+      "_c": {
+        "subMP": 9943.4,
+        "cTinta": 1346.24,
+        "cAmort": 8792,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 20194.14,
+        "sub": 30194.14,
+        "mrgV": 27871.513846153844,
+        "total": 58065.653846153844,
+        "ganReal": 37871.513846153844
+      }
     }
   ],
   "pedidos": [
