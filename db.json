@@ -1015,6 +1015,14 @@
       "presentacion": "50",
       "unidades": 50,
       "costoTotal": 9900
+    },
+    {
+      "id": 128,
+      "nombre": "X2 Cuadros 15x20cm",
+      "tipo": "Especial",
+      "presentacion": "2",
+      "unidades": 2,
+      "costoTotal": 13629
     }
   ],
   "stock": {
@@ -1144,7 +1152,8 @@
     "124": 0,
     "125": 0,
     "126": 0,
-    "127": 0
+    "127": 0,
+    "128": 0
   },
   "equipos": [
     {
