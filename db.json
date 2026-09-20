@@ -8741,6 +8741,51 @@
         "total": 4976.378378378378,
         "ganReal": 3293.8583783783783
       }
+    },
+    {
+      "id": 193,
+      "codigo": "P0193",
+      "cliente": "zule",
+      "productoFinal": "cuadro",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-19",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 128,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 52,
+      "total": 14923,
+      "gananciaReal": 7759.96,
+      "senia": 7461.5,
+      "_c": {
+        "subMP": 6944.5,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 7163.04,
+        "sub": 7163.04,
+        "mrgV": 7759.96,
+        "total": 14923,
+        "ganReal": 7759.96
+      }
     }
   ],
   "pedidos": [
