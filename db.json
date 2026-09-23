@@ -1023,6 +1023,14 @@
       "presentacion": "2",
       "unidades": 2,
       "costoTotal": 13629
+    },
+    {
+      "id": 129,
+      "nombre": "cuadro 20x30",
+      "tipo": "Especial",
+      "presentacion": "1",
+      "unidades": 1,
+      "costoTotal": 8000
     }
   ],
   "stock": {
@@ -1153,7 +1161,8 @@
     "125": 0,
     "126": 0,
     "127": 0,
-    "128": 0
+    "128": 0,
+    "129": 0
   },
   "equipos": [
     {
