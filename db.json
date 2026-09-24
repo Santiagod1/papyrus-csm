@@ -1034,7 +1034,7 @@
     }
   ],
   "stock": {
-    "1": 89,
+    "1": 88,
     "2": 4,
     "3": 24,
     "4": 0,
@@ -1075,7 +1075,7 @@
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 11,
+    "42": 10,
     "43": 100,
     "44": 50,
     "45": 0,
@@ -8888,6 +8888,63 @@
         "mrgV": 11519.885581395347,
         "total": 20210.325581395347,
         "ganReal": 11519.885581395347
+      }
+    },
+    {
+      "id": 196,
+      "codigo": "P0196",
+      "cliente": "facu",
+      "productoFinal": "librito",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-24",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 2
+        },
+        {
+          "prodId": 23,
+          "cantidad": 3
+        },
+        {
+          "prodId": 42,
+          "cantidad": 1
+        },
+        {
+          "prodId": 125,
+          "cantidad": 8
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 0,
+      "total": 2080.18,
+      "gananciaReal": 0,
+      "senia": 1040.09,
+      "_c": {
+        "subMP": 2080.18,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 2080.18,
+        "sub": 2080.18,
+        "mrgV": 0,
+        "total": 2080.18,
+        "ganReal": 0
       }
     }
   ],
