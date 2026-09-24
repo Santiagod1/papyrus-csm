@@ -1031,6 +1031,14 @@
       "presentacion": "1",
       "unidades": 1,
       "costoTotal": 8000
+    },
+    {
+      "id": 130,
+      "nombre": "papel fotografico 160 doble faz",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 15000
     }
   ],
   "stock": {
@@ -1162,7 +1170,8 @@
     "126": 0,
     "127": 0,
     "128": 0,
-    "129": 0
+    "129": 0,
+    "130": 0
   },
   "equipos": [
     {
