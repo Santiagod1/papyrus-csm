@@ -1042,7 +1042,7 @@
     }
   ],
   "stock": {
-    "1": 88,
+    "1": 87,
     "2": 4,
     "3": 24,
     "4": 0,
@@ -8954,6 +8954,51 @@
         "mrgV": 2431.851428571429,
         "total": 8106.171428571429,
         "ganReal": 2431.851428571429
+      }
+    },
+    {
+      "id": 197,
+      "codigo": "P0197",
+      "cliente": "franco",
+      "productoFinal": "libretas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-27",
+      "materiales": [
+        {
+          "prodId": 47,
+          "cantidad": 0
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 128.57142857142858,
+      "gananciaReal": 38.571428571428584,
+      "senia": 64.28571428571429,
+      "_c": {
+        "subMP": 90,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 90,
+        "sub": 90,
+        "mrgV": 38.571428571428584,
+        "total": 128.57142857142858,
+        "ganReal": 38.571428571428584
       }
     }
   ],
