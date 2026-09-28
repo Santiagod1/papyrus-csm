@@ -1092,7 +1092,7 @@
     "40": 0,
     "41": 0,
     "42": 10,
-    "43": 100,
+    "43": 98,
     "44": 50,
     "45": 0,
     "46": 0,
@@ -9008,6 +9008,63 @@
         "mrgV": 38.571428571428584,
         "total": 128.57142857142858,
         "ganReal": 38.571428571428584
+      }
+    },
+    {
+      "id": 198,
+      "codigo": "P0198",
+      "cliente": "zule",
+      "productoFinal": "agenda",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-28",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 12,
+          "cantidad": 1
+        },
+        {
+          "prodId": 125,
+          "cantidad": 160
+        },
+        {
+          "prodId": 72,
+          "cantidad": 1
+        },
+        {
+          "prodId": 43,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 163,
+      "tintas": "ambas",
+      "usosEquipo": 20,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 38710.87142857143,
+      "gananciaReal": 26613.26142857143,
+      "senia": 19355.435714285715,
+      "_c": {
+        "subMP": 5039.09,
+        "cTinta": 3918.5200000000004,
+        "cAmort": 3140,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 15000,
+        "cProd": 12097.61,
+        "sub": 27097.61,
+        "mrgV": 11613.26142857143,
+        "total": 38710.87142857143,
+        "ganReal": 26613.26142857143
       }
     }
   ],
