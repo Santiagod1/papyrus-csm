@@ -1039,6 +1039,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 15000
+    },
+    {
+      "id": 131,
+      "nombre": "papel fotografico 120 doble faz",
+      "tipo": "Papel",
+      "presentacion": "100",
+      "unidades": 100,
+      "costoTotal": 13900
     }
   ],
   "stock": {
@@ -1171,7 +1179,8 @@
     "127": 0,
     "128": 0,
     "129": 0,
-    "130": 0
+    "130": 0,
+    "131": 0
   },
   "equipos": [
     {
