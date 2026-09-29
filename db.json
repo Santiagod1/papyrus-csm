@@ -9066,6 +9066,47 @@
         "total": 38710.87142857143,
         "ganReal": 26613.26142857143
       }
+    },
+    {
+      "id": 199,
+      "codigo": "P0199",
+      "cliente": "evelin",
+      "productoFinal": "entradas troqueladas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-09-29",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 67
+        }
+      ],
+      "paginas": 67,
+      "tintas": "ambas",
+      "usosEquipo": 67,
+      "equipoId": "4",
+      "hsLuz": 1.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 35,
+      "total": 37139.230769230766,
+      "gananciaReal": 17998.730769230766,
+      "senia": 18569.615384615383,
+      "_c": {
+        "subMP": 6898.32,
+        "cTinta": 1610.68,
+        "cAmort": 10519,
+        "cLuz": 112.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 19140.5,
+        "sub": 24140.5,
+        "mrgV": 12998.730769230766,
+        "total": 37139.230769230766,
+        "ganReal": 17998.730769230766
+      }
     }
   ],
   "pedidos": [
