@@ -9107,6 +9107,47 @@
         "total": 37139.230769230766,
         "ganReal": 17998.730769230766
       }
+    },
+    {
+      "id": 200,
+      "codigo": "P0200",
+      "cliente": "franco",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-05",
+      "materiales": [
+        {
+          "prodId": 48,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 27,
+      "total": 9698.90410958904,
+      "gananciaReal": 7618.704109589041,
+      "senia": 4849.45205479452,
+      "_c": {
+        "subMP": 1100,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 2080.2,
+        "sub": 7080.2,
+        "mrgV": 2618.704109589041,
+        "total": 9698.90410958904,
+        "ganReal": 7618.704109589041
+      }
     }
   ],
   "pedidos": [
