@@ -9340,6 +9340,47 @@
         "total": 3272.1194029850744,
         "ganReal": 2079.7994029850747
       }
+    },
+    {
+      "id": 205,
+      "codigo": "P0205",
+      "cliente": "nati",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-08",
+      "materiales": [
+        {
+          "prodId": 125,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 9,
+      "tintas": "ambas",
+      "usosEquipo": 9,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 10,
+      "total": 2052.0666666666666,
+      "gananciaReal": 205.20666666666648,
+      "senia": 1026.0333333333333,
+      "_c": {
+        "subMP": 180,
+        "cTinta": 216.36,
+        "cAmort": 1413,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1846.8600000000001,
+        "sub": 1846.8600000000001,
+        "mrgV": 205.20666666666648,
+        "total": 2052.0666666666666,
+        "ganReal": 205.20666666666648
+      }
     }
   ],
   "pedidos": [
