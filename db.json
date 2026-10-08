@@ -9148,6 +9148,108 @@
         "total": 9698.90410958904,
         "ganReal": 7618.704109589041
       }
+    },
+    {
+      "id": 201,
+      "codigo": "P0201",
+      "cliente": "micaela",
+      "productoFinal": "etiquetas biju",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-06",
+      "materiales": [
+        {
+          "prodId": 48,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 43,
+      "total": 7158.245614035087,
+      "gananciaReal": 5078.045614035087,
+      "senia": 3579.1228070175434,
+      "_c": {
+        "subMP": 1100,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 2080.2,
+        "sub": 4080.2,
+        "mrgV": 3078.045614035087,
+        "total": 7158.245614035087,
+        "ganReal": 5078.045614035087
+      }
+    },
+    {
+      "id": 202,
+      "codigo": "P0202",
+      "cliente": "zule",
+      "productoFinal": "libreta 15x10",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-08",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 0.3
+        },
+        {
+          "prodId": 12,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 70,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 125,
+          "cantidad": 10
+        },
+        {
+          "prodId": 124,
+          "cantidad": 1
+        },
+        {
+          "prodId": 46,
+          "cantidad": 0.3
+        }
+      ],
+      "paginas": 11,
+      "tintas": "ambas",
+      "usosEquipo": 11,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 7720.866666666667,
+      "gananciaReal": 4316.26,
+      "senia": 3860.4333333333334,
+      "_c": {
+        "subMP": 1338.1666666666667,
+        "cTinta": 264.44,
+        "cAmort": 1727,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 3404.6066666666666,
+        "sub": 5404.606666666667,
+        "mrgV": 2316.26,
+        "total": 7720.866666666667,
+        "ganReal": 4316.26
+      }
     }
   ],
   "pedidos": [
