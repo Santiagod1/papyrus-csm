@@ -9250,6 +9250,51 @@
         "total": 7720.866666666667,
         "ganReal": 4316.26
       }
+    },
+    {
+      "id": 203,
+      "codigo": "P0203",
+      "cliente": "zule",
+      "productoFinal": "libretas a5",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-08",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        },
+        {
+          "prodId": 125,
+          "cantidad": 15
+        }
+      ],
+      "paginas": 16,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 42,
+      "total": 4482.137931034482,
+      "gananciaReal": 2882.497931034482,
+      "senia": 2241.068965517241,
+      "_c": {
+        "subMP": 430,
+        "cTinta": 384.64,
+        "cAmort": 785,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1599.6399999999999,
+        "sub": 2599.64,
+        "mrgV": 1882.497931034482,
+        "total": 4482.137931034482,
+        "ganReal": 2882.497931034482
+      }
     }
   ],
   "pedidos": [
