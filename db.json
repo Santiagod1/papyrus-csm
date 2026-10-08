@@ -9295,6 +9295,51 @@
         "total": 4482.137931034482,
         "ganReal": 2882.497931034482
       }
+    },
+    {
+      "id": 204,
+      "codigo": "P0204",
+      "cliente": "zule",
+      "productoFinal": "libreta a6",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-08",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 125,
+          "cantidad": 7.5
+        }
+      ],
+      "paginas": 8,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 33,
+      "total": 3272.1194029850744,
+      "gananciaReal": 2079.7994029850747,
+      "senia": 1636.0597014925372,
+      "_c": {
+        "subMP": 215,
+        "cTinta": 192.32,
+        "cAmort": 785,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 1192.32,
+        "sub": 2192.3199999999997,
+        "mrgV": 1079.7994029850747,
+        "total": 3272.1194029850744,
+        "ganReal": 2079.7994029850747
+      }
     }
   ],
   "pedidos": [
