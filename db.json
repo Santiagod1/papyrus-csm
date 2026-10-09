@@ -170,11 +170,11 @@
     },
     {
       "id": 22,
-      "nombre": "Filmilo",
+      "nombre": "Filmilo blanco",
       "tipo": "Papel adhesivo",
       "presentacion": "20 hojas",
       "unidades": 20,
-      "costoTotal": 9710
+      "costoTotal": 9790
     },
     {
       "id": 23,
