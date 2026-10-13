@@ -1091,7 +1091,7 @@
     "39": 100,
     "40": 0,
     "41": 0,
-    "42": 10,
+    "42": 9,
     "43": 98,
     "44": 50,
     "45": 0,
@@ -9507,6 +9507,51 @@
         "mrgV": 1257.1114285714289,
         "total": 4190.371428571429,
         "ganReal": 1257.1114285714289
+      }
+    },
+    {
+      "id": 209,
+      "codigo": "P0209",
+      "cliente": "MICA",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-13",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 1
+        },
+        {
+          "prodId": 42,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 563.3714285714285,
+      "gananciaReal": 169.01142857142855,
+      "senia": 281.68571428571425,
+      "_c": {
+        "subMP": 394.35999999999996,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 394.35999999999996,
+        "sub": 394.35999999999996,
+        "mrgV": 169.01142857142855,
+        "total": 563.3714285714285,
+        "ganReal": 169.01142857142855
       }
     }
   ],
