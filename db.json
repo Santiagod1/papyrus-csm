@@ -1047,6 +1047,14 @@
       "presentacion": "100",
       "unidades": 100,
       "costoTotal": 13900
+    },
+    {
+      "id": 132,
+      "nombre": "Papel Fotográfico Rc Ultra Glossy 260g A3+ Color Blanco",
+      "tipo": "Papel",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 26000
     }
   ],
   "stock": {
@@ -1180,7 +1188,8 @@
     "128": 0,
     "129": 0,
     "130": 0,
-    "131": 0
+    "131": 0,
+    "132": 0
   },
   "equipos": [
     {
