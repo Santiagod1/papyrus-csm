@@ -9562,6 +9562,51 @@
         "total": 2735.171428571429,
         "ganReal": 820.5514285714287
       }
+    },
+    {
+      "id": 210,
+      "codigo": "P0210",
+      "cliente": "mica",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-16",
+      "materiales": [
+        {
+          "prodId": 132,
+          "cantidad": 3
+        },
+        {
+          "prodId": 125,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 6,
+      "tintas": "ambas",
+      "usosEquipo": 6,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 7262.4857142857145,
+      "gananciaReal": 2178.7457142857147,
+      "senia": 3631.2428571428572,
+      "_c": {
+        "subMP": 3960,
+        "cTinta": 144.24,
+        "cAmort": 942,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 5083.74,
+        "sub": 5083.74,
+        "mrgV": 2178.7457142857147,
+        "total": 7262.4857142857145,
+        "ganReal": 2178.7457142857147
+      }
     }
   ],
   "pedidos": [
