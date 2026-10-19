@@ -9607,6 +9607,47 @@
         "total": 7262.4857142857145,
         "ganReal": 2178.7457142857147
       }
+    },
+    {
+      "id": 211,
+      "codigo": "P0211",
+      "cliente": "nere",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-19",
+      "materiales": [
+        {
+          "prodId": 125,
+          "cantidad": 8
+        }
+      ],
+      "paginas": 8,
+      "tintas": "ambas",
+      "usosEquipo": 8,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 0,
+      "total": 1645.82,
+      "gananciaReal": 0,
+      "senia": 822.91,
+      "_c": {
+        "subMP": 160,
+        "cTinta": 192.32,
+        "cAmort": 1256,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 1645.82,
+        "sub": 1645.82,
+        "mrgV": 0,
+        "total": 1645.82,
+        "ganReal": 0
+      }
     }
   ],
   "pedidos": [
