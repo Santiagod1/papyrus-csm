@@ -9821,6 +9821,47 @@
         "total": 77.91428571428571,
         "ganReal": 23.374285714285712
       }
+    },
+    {
+      "id": 216,
+      "codigo": "P0216",
+      "cliente": "andre",
+      "productoFinal": "copias  doble faz",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-21",
+      "materiales": [
+        {
+          "prodId": 133,
+          "cantidad": 11
+        }
+      ],
+      "paginas": 22,
+      "tintas": "1",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 50,
+      "total": 4624.52,
+      "gananciaReal": 2312.26,
+      "senia": 2312.26,
+      "_c": {
+        "subMP": 374,
+        "cTinta": 293.26,
+        "cAmort": 1570,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 2312.26,
+        "sub": 2312.26,
+        "mrgV": 2312.26,
+        "total": 4624.52,
+        "ganReal": 2312.26
+      }
     }
   ],
   "pedidos": [
