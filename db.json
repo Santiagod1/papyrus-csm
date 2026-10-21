@@ -1055,6 +1055,14 @@
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 26000
+    },
+    {
+      "id": 133,
+      "nombre": "Resmas Report A3 75",
+      "tipo": "Papel",
+      "presentacion": "500",
+      "unidades": 500,
+      "costoTotal": 17000
     }
   ],
   "stock": {
@@ -1189,7 +1197,8 @@
     "129": 0,
     "130": 0,
     "131": 0,
-    "132": 0
+    "132": 0,
+    "133": 0
   },
   "equipos": [
     {
