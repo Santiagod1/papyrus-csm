@@ -9771,6 +9771,47 @@
         "total": 416.42857142857144,
         "ganReal": 124.92857142857144
       }
+    },
+    {
+      "id": 215,
+      "codigo": "P0215",
+      "cliente": "zule",
+      "productoFinal": "hoja comun a4 90 gramos",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-21",
+      "materiales": [
+        {
+          "prodId": 125,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "4",
+      "hsLuz": 0.1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 77.91428571428571,
+      "gananciaReal": 23.374285714285712,
+      "senia": 38.957142857142856,
+      "_c": {
+        "subMP": 23,
+        "cTinta": 24.04,
+        "cAmort": 0,
+        "cLuz": 7.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 54.54,
+        "sub": 54.54,
+        "mrgV": 23.374285714285712,
+        "total": 77.91428571428571,
+        "ganReal": 23.374285714285712
+      }
     }
   ],
   "pedidos": [
