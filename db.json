@@ -9956,6 +9956,47 @@
         "total": 39482.31428571429,
         "ganReal": 16844.69428571429
       }
+    },
+    {
+      "id": 219,
+      "codigo": "P0219",
+      "cliente": "ne",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-27",
+      "materiales": [
+        {
+          "prodId": 133,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 3,
+      "tintas": "ambas",
+      "usosEquipo": 3,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 2403.7428571428572,
+      "gananciaReal": 1721.1228571428574,
+      "senia": 1201.8714285714286,
+      "_c": {
+        "subMP": 102,
+        "cTinta": 72.12,
+        "cAmort": 471,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 682.62,
+        "sub": 1682.62,
+        "mrgV": 721.1228571428574,
+        "total": 2403.7428571428572,
+        "ganReal": 1721.1228571428574
+      }
     }
   ],
   "pedidos": [
