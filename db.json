@@ -10054,6 +10054,42 @@
         "total": 27191.657142857144,
         "ganReal": 13157.497142857144
       }
+    },
+    {
+      "id": 221,
+      "codigo": "P0221",
+      "cliente": "veri",
+      "productoFinal": "folletos",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-31",
+      "materiales": [],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 0,
+      "gananciaReal": 0,
+      "senia": 0,
+      "_c": {
+        "subMP": 0,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 0,
+        "sub": 0,
+        "mrgV": 0,
+        "total": 0,
+        "ganReal": 0
+      }
     }
   ],
   "pedidos": [
