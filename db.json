@@ -10136,6 +10136,47 @@
         "total": 6206.171428571429,
         "ganReal": 3861.851428571429
       }
+    },
+    {
+      "id": 223,
+      "codigo": "P0223",
+      "cliente": "nere",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-10-31",
+      "materiales": [
+        {
+          "prodId": 130,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 18,
+      "tintas": "ambas",
+      "usosEquipo": 18,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 36,
+      "total": 15130.812500000002,
+      "gananciaReal": 10447.0925,
+      "senia": 7565.406250000001,
+      "_c": {
+        "subMP": 1350,
+        "cTinta": 432.72,
+        "cAmort": 2826,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 4683.72,
+        "sub": 9683.720000000001,
+        "mrgV": 5447.092500000001,
+        "total": 15130.812500000002,
+        "ganReal": 10447.0925
+      }
     }
   ],
   "pedidos": [
