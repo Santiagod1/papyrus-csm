@@ -10177,6 +10177,47 @@
         "total": 15130.812500000002,
         "ganReal": 10447.0925
       }
+    },
+    {
+      "id": 224,
+      "codigo": "P0224",
+      "cliente": "juan",
+      "productoFinal": "etiquetas adhesivas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-02",
+      "materiales": [
+        {
+          "prodId": 22,
+          "cantidad": 50
+        }
+      ],
+      "paginas": 50,
+      "tintas": "ambas",
+      "usosEquipo": 50,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 32,
+      "total": 63164.705882352944,
+      "gananciaReal": 30212.705882352944,
+      "senia": 31582.352941176472,
+      "_c": {
+        "subMP": 23750,
+        "cTinta": 1202,
+        "cAmort": 7850,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 32952,
+        "sub": 42952,
+        "mrgV": 20212.705882352944,
+        "total": 63164.705882352944,
+        "ganReal": 30212.705882352944
+      }
     }
   ],
   "pedidos": [
