@@ -10218,6 +10218,47 @@
         "total": 73772.30769230769,
         "ganReal": 40820.30769230769
       }
+    },
+    {
+      "id": 225,
+      "codigo": "P0225",
+      "cliente": "jael",
+      "productoFinal": "Tarjetas personales",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-03",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.3,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 7357.428571428572,
+      "gananciaReal": 5207.228571428572,
+      "senia": 3678.714285714286,
+      "_c": {
+        "subMP": 1170,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 3000,
+        "cProd": 2150.2,
+        "sub": 5150.2,
+        "mrgV": 2207.2285714285717,
+        "total": 7357.428571428572,
+        "ganReal": 5207.228571428572
+      }
     }
   ],
   "pedidos": [
