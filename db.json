@@ -10640,6 +10640,21 @@
       "pagadoCompleto": false,
       "total": 23096.833333333336,
       "senia": 11548.416666666668
+    },
+    {
+      "id": 31,
+      "codigo": "PED031",
+      "cliente": "veri",
+      "fecha": "2026-11-02",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 221,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": true,
+      "total": 12412.142857142859,
+      "senia": 6206.071428571429
     }
   ]
 }
