@@ -1063,6 +1063,14 @@
       "presentacion": "500",
       "unidades": 500,
       "costoTotal": 17000
+    },
+    {
+      "id": 134,
+      "nombre": "papel forografico 200 A3",
+      "tipo": "Papel",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 6400
     }
   ],
   "stock": {
@@ -1198,7 +1206,8 @@
     "130": 0,
     "131": 0,
     "132": 0,
-    "133": 0
+    "133": 0,
+    "134": 0
   },
   "equipos": [
     {
