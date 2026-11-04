@@ -10259,6 +10259,47 @@
         "total": 7357.428571428572,
         "ganReal": 5207.228571428572
       }
+    },
+    {
+      "id": 226,
+      "codigo": "P0226",
+      "cliente": "lara",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-04",
+      "materiales": [
+        {
+          "prodId": 133,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 2,
+      "tintas": "ambas",
+      "usosEquipo": 2,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 54,
+      "total": 1016.4782608695652,
+      "gananciaReal": 548.8982608695653,
+      "senia": 508.2391304347826,
+      "_c": {
+        "subMP": 68,
+        "cTinta": 48.08,
+        "cAmort": 314,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 467.58,
+        "sub": 467.58,
+        "mrgV": 548.8982608695653,
+        "total": 1016.4782608695652,
+        "ganReal": 548.8982608695653
+      }
     }
   ],
   "pedidos": [
