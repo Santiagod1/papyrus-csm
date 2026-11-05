@@ -10354,6 +10354,51 @@
         "total": 2895.3199999999997,
         "ganReal": 1447.6599999999999
       }
+    },
+    {
+      "id": 228,
+      "codigo": "P0228",
+      "cliente": "aye",
+      "productoFinal": "baby shower",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-05",
+      "materiales": [
+        {
+          "prodId": 72,
+          "cantidad": 5
+        },
+        {
+          "prodId": 70,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 6,
+      "tintas": "ambas",
+      "usosEquipo": 6,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 9913.414285714285,
+      "gananciaReal": 7974.024285714286,
+      "senia": 4956.707142857143,
+      "_c": {
+        "subMP": 815.65,
+        "cTinta": 144.24,
+        "cAmort": 942,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1939.3899999999999,
+        "sub": 6939.389999999999,
+        "mrgV": 2974.0242857142857,
+        "total": 9913.414285714285,
+        "ganReal": 7974.024285714286
+      }
     }
   ],
   "pedidos": [
