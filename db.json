@@ -10836,6 +10836,21 @@
       "pagadoCompleto": true,
       "total": 12412.142857142859,
       "senia": 6206.071428571429
+    },
+    {
+      "id": 32,
+      "codigo": "PED032",
+      "cliente": "mica",
+      "fecha": "2026-11-05",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 227,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": true,
+      "total": 2895.3199999999997,
+      "senia": 1447.6599999999999
     }
   ]
 }
