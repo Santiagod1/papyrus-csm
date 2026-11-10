@@ -10399,6 +10399,47 @@
         "total": 9913.414285714285,
         "ganReal": 7974.024285714286
       }
+    },
+    {
+      "id": 229,
+      "codigo": "P0229",
+      "cliente": "maldita caprichosa",
+      "productoFinal": "etiquetas adhesivas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-10",
+      "materiales": [
+        {
+          "prodId": 22,
+          "cantidad": 9
+        }
+      ],
+      "paginas": 9,
+      "tintas": "ambas",
+      "usosEquipo": 9,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 15684.800000000001,
+      "gananciaReal": 9705.44,
+      "senia": 7842.400000000001,
+      "_c": {
+        "subMP": 4275,
+        "cTinta": 216.36,
+        "cAmort": 1413,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 5979.36,
+        "sub": 10979.36,
+        "mrgV": 4705.4400000000005,
+        "total": 15684.800000000001,
+        "ganReal": 9705.44
+      }
     }
   ],
   "pedidos": [
