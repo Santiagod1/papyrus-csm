@@ -1079,6 +1079,14 @@
       "presentacion": "6",
       "unidades": 6,
       "costoTotal": 13500
+    },
+    {
+      "id": 136,
+      "nombre": "bolsas de ficelina 30x40",
+      "tipo": "Mercería",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 26900
     }
   ],
   "stock": {
@@ -1216,7 +1224,8 @@
     "132": 0,
     "133": 0,
     "134": 0,
-    "135": 0
+    "135": 0,
+    "136": 0
   },
   "equipos": [
     {
