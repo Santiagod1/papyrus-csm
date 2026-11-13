@@ -10557,6 +10557,51 @@
         "total": 44000.571428571435,
         "ganReal": 15200.171428571433
       }
+    },
+    {
+      "id": 232,
+      "codigo": "P0232",
+      "cliente": "abigail",
+      "productoFinal": "calendarios 2027",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-13",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 18
+        },
+        {
+          "prodId": 72,
+          "cantidad": 10
+        }
+      ],
+      "paginas": 28,
+      "tintas": "ambas",
+      "usosEquipo": 28,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 13683.457142857143,
+      "gananciaReal": 6105.037142857143,
+      "senia": 6841.728571428572,
+      "_c": {
+        "subMP": 2434.3,
+        "cTinta": 673.12,
+        "cAmort": 4396,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 7578.42,
+        "sub": 9578.42,
+        "mrgV": 4105.037142857143,
+        "total": 13683.457142857143,
+        "ganReal": 6105.037142857143
+      }
     }
   ],
   "pedidos": [
