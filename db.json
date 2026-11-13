@@ -1071,6 +1071,14 @@
       "presentacion": "20",
       "unidades": 20,
       "costoTotal": 6400
+    },
+    {
+      "id": 135,
+      "nombre": "bolsas de tela 35x40",
+      "tipo": "Mercería",
+      "presentacion": "6",
+      "unidades": 6,
+      "costoTotal": 13500
     }
   ],
   "stock": {
@@ -1207,7 +1215,8 @@
     "131": 0,
     "132": 0,
     "133": 0,
-    "134": 0
+    "134": 0,
+    "135": 0
   },
   "equipos": [
     {
