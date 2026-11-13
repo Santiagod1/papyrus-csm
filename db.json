@@ -1087,6 +1087,14 @@
       "presentacion": "50",
       "unidades": 50,
       "costoTotal": 26900
+    },
+    {
+      "id": 137,
+      "nombre": "hoja sublimable",
+      "tipo": "Papel",
+      "presentacion": "50",
+      "unidades": 50,
+      "costoTotal": 14400
     }
   ],
   "stock": {
@@ -1225,7 +1233,8 @@
     "133": 0,
     "134": 0,
     "135": 0,
-    "136": 0
+    "136": 0,
+    "137": 0
   },
   "equipos": [
     {
