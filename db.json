@@ -10602,6 +10602,47 @@
         "total": 13683.457142857143,
         "ganReal": 6105.037142857143
       }
+    },
+    {
+      "id": 233,
+      "codigo": "P0233",
+      "cliente": "jae",
+      "productoFinal": "fotos",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-14",
+      "materiales": [
+        {
+          "prodId": 46,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 1,
+      "tintas": "ambas",
+      "usosEquipo": 1,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 1926.4857142857143,
+      "gananciaReal": 1577.9457142857143,
+      "senia": 963.2428571428571,
+      "_c": {
+        "subMP": 130,
+        "cTinta": 24.04,
+        "cAmort": 157,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 1000,
+        "cProd": 348.53999999999996,
+        "sub": 1348.54,
+        "mrgV": 577.9457142857143,
+        "total": 1926.4857142857143,
+        "ganReal": 1577.9457142857143
+      }
     }
   ],
   "pedidos": [
