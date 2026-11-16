@@ -11125,6 +11125,21 @@
       "pagadoCompleto": false,
       "total": 73772.30769230769,
       "senia": 36886.153846153844
+    },
+    {
+      "id": 35,
+      "codigo": "PED035",
+      "cliente": "jae",
+      "fecha": "2026-11-16",
+      "entrega": "",
+      "estado": "Presupuestado",
+      "obs": "",
+      "presupId": 233,
+      "variante": "Estándar",
+      "seniaPagada": false,
+      "pagadoCompleto": true,
+      "total": 1926.4857142857143,
+      "senia": 963.2428571428571
     }
   ]
 }
