@@ -10643,6 +10643,47 @@
         "total": 1926.4857142857143,
         "ganReal": 1577.9457142857143
       }
+    },
+    {
+      "id": 234,
+      "codigo": "P0234",
+      "cliente": "lara",
+      "productoFinal": "hojas",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-20",
+      "materiales": [
+        {
+          "prodId": 134,
+          "cantidad": 4
+        }
+      ],
+      "paginas": 4,
+      "tintas": "ambas",
+      "usosEquipo": 4,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 33,
+      "total": 6032.328358208955,
+      "gananciaReal": 3990.6683582089554,
+      "senia": 3016.1641791044776,
+      "_c": {
+        "subMP": 1280,
+        "cTinta": 96.16,
+        "cAmort": 628,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 2041.66,
+        "sub": 4041.66,
+        "mrgV": 1990.6683582089554,
+        "total": 6032.328358208955,
+        "ganReal": 3990.6683582089554
+      }
     }
   ],
   "pedidos": [
