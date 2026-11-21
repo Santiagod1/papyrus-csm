@@ -1098,7 +1098,7 @@
     }
   ],
   "stock": {
-    "1": 86,
+    "1": 84,
     "2": 4,
     "3": 24,
     "4": 0,
@@ -10683,6 +10683,51 @@
         "mrgV": 1990.6683582089554,
         "total": 6032.328358208955,
         "ganReal": 3990.6683582089554
+      }
+    },
+    {
+      "id": 235,
+      "codigo": "P0235",
+      "cliente": "aye",
+      "productoFinal": "tatuajes y stickers",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-21",
+      "materiales": [
+        {
+          "prodId": 1,
+          "cantidad": 1
+        },
+        {
+          "prodId": 1,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 0,
+      "tintas": "ambas",
+      "usosEquipo": 0,
+      "equipoId": "todos",
+      "hsLuz": 0,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 257.14285714285717,
+      "gananciaReal": 77.14285714285717,
+      "senia": 128.57142857142858,
+      "_c": {
+        "subMP": 180,
+        "cTinta": 0,
+        "cAmort": 0,
+        "cLuz": 0,
+        "cDise": 0,
+        "cMo": 0,
+        "cProd": 180,
+        "sub": 180,
+        "mrgV": 77.14285714285717,
+        "total": 257.14285714285717,
+        "ganReal": 77.14285714285717
       }
     }
   ],
