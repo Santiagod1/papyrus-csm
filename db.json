@@ -1095,6 +1095,14 @@
       "presentacion": "50",
       "unidades": 50,
       "costoTotal": 14400
+    },
+    {
+      "id": 138,
+      "nombre": "Holografico",
+      "tipo": "Librería",
+      "presentacion": "20",
+      "unidades": 20,
+      "costoTotal": 12200
     }
   ],
   "stock": {
@@ -1234,7 +1242,8 @@
     "134": 0,
     "135": 0,
     "136": 0,
-    "137": 0
+    "137": 0,
+    "138": 0
   },
   "equipos": [
     {
