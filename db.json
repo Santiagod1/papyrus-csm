@@ -10917,6 +10917,63 @@
         "total": 19528.428571428572,
         "ganReal": 10858.528571428573
       }
+    },
+    {
+      "id": 239,
+      "codigo": "P0239",
+      "cliente": "zule",
+      "productoFinal": "cuaderno a5 tapa semi dura",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-22",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 40,
+          "cantidad": 2
+        },
+        {
+          "prodId": 73,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 125,
+          "cantidad": 50
+        },
+        {
+          "prodId": 78,
+          "cantidad": 2.5
+        }
+      ],
+      "paginas": 55,
+      "tintas": "ambas",
+      "usosEquipo": 6,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 21,
+      "total": 13066.518987341771,
+      "gananciaReal": 7743.968987341772,
+      "senia": 6533.259493670886,
+      "_c": {
+        "subMP": 2908.35,
+        "cTinta": 1322.2,
+        "cAmort": 942,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 5322.55,
+        "sub": 10322.55,
+        "mrgV": 2743.968987341772,
+        "total": 13066.518987341771,
+        "ganReal": 7743.968987341772
+      }
     }
   ],
   "pedidos": [
