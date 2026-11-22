@@ -1143,7 +1143,7 @@
     "35": 18,
     "36": 48,
     "37": 25,
-    "38": 108.5,
+    "38": 108,
     "39": 100,
     "40": 0,
     "41": 0,
@@ -10798,6 +10798,67 @@
         "mrgV": 8524.888571428572,
         "total": 28416.295238095237,
         "ganReal": 18524.88857142857
+      }
+    },
+    {
+      "id": 237,
+      "codigo": "P0237",
+      "cliente": "zule",
+      "productoFinal": "tapa dura a5",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-22",
+      "materiales": [
+        {
+          "prodId": 4,
+          "cantidad": 1
+        },
+        {
+          "prodId": 12,
+          "cantidad": 1
+        },
+        {
+          "prodId": 38,
+          "cantidad": 0.5
+        },
+        {
+          "prodId": 70,
+          "cantidad": 2
+        },
+        {
+          "prodId": 125,
+          "cantidad": 50
+        },
+        {
+          "prodId": 78,
+          "cantidad": 2
+        }
+      ],
+      "paginas": 54,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 1,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 16387.847619047618,
+      "gananciaReal": 9916.354285714286,
+      "senia": 8193.923809523809,
+      "_c": {
+        "subMP": 3528.333333333333,
+        "cTinta": 1298.16,
+        "cAmort": 1570,
+        "cLuz": 75,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 6471.493333333333,
+        "sub": 11471.493333333332,
+        "mrgV": 4916.354285714286,
+        "total": 16387.847619047618,
+        "ganReal": 9916.354285714286
       }
     }
   ],
