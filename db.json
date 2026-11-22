@@ -1143,7 +1143,7 @@
     "35": 18,
     "36": 48,
     "37": 25,
-    "38": 109.5,
+    "38": 108.5,
     "39": 100,
     "40": 0,
     "41": 0,
@@ -10737,6 +10737,63 @@
         "mrgV": 10016.236129032257,
         "total": 26358.516129032258,
         "ganReal": 15016.236129032257
+      }
+    },
+    {
+      "id": 236,
+      "codigo": "P0236",
+      "cliente": "zule",
+      "productoFinal": "cuaderno a4 tapa dura",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-22",
+      "materiales": [
+        {
+          "prodId": 12,
+          "cantidad": 2
+        },
+        {
+          "prodId": 38,
+          "cantidad": 1
+        },
+        {
+          "prodId": 70,
+          "cantidad": 3
+        },
+        {
+          "prodId": 125,
+          "cantidad": 100
+        },
+        {
+          "prodId": 78,
+          "cantidad": 3
+        }
+      ],
+      "paginas": 106,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 1,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 26987.72380952381,
+      "gananciaReal": 18096.317142857144,
+      "senia": 13493.861904761905,
+      "_c": {
+        "subMP": 4623.166666666666,
+        "cTinta": 2548.24,
+        "cAmort": 1570,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 10000,
+        "cProd": 8891.406666666666,
+        "sub": 18891.406666666666,
+        "mrgV": 8096.317142857144,
+        "total": 26987.72380952381,
+        "ganReal": 18096.317142857144
       }
     }
   ],
