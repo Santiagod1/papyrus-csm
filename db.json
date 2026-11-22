@@ -10974,6 +10974,47 @@
         "total": 13066.518987341771,
         "ganReal": 7743.968987341772
       }
+    },
+    {
+      "id": 240,
+      "codigo": "P0240",
+      "cliente": "veri",
+      "productoFinal": "copias",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-22",
+      "materiales": [
+        {
+          "prodId": 78,
+          "cantidad": 14
+        }
+      ],
+      "paginas": 14,
+      "tintas": "ambas",
+      "usosEquipo": 14,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.2,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 8201.514285714286,
+      "gananciaReal": 4460.454285714286,
+      "senia": 4100.757142857143,
+      "_c": {
+        "subMP": 1169,
+        "cTinta": 336.56,
+        "cAmort": 2198,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 2000,
+        "cProd": 3741.06,
+        "sub": 5741.0599999999995,
+        "mrgV": 2460.454285714286,
+        "total": 8201.514285714286,
+        "ganReal": 4460.454285714286
+      }
     }
   ],
   "pedidos": [
