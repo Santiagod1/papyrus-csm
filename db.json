@@ -10860,6 +10860,63 @@
         "total": 16387.847619047618,
         "ganReal": 9916.354285714286
       }
+    },
+    {
+      "id": 238,
+      "codigo": "P0238",
+      "cliente": "zule",
+      "productoFinal": "Cuadernos tapa semi dura a4",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-22",
+      "materiales": [
+        {
+          "prodId": 40,
+          "cantidad": 2
+        },
+        {
+          "prodId": 78,
+          "cantidad": 3
+        },
+        {
+          "prodId": 73,
+          "cantidad": 1
+        },
+        {
+          "prodId": 125,
+          "cantidad": 100
+        },
+        {
+          "prodId": 4,
+          "cantidad": 1
+        }
+      ],
+      "paginas": 105,
+      "tintas": "ambas",
+      "usosEquipo": 10,
+      "equipoId": "4",
+      "hsLuz": 2,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 19528.428571428572,
+      "gananciaReal": 10858.528571428573,
+      "senia": 9764.214285714286,
+      "_c": {
+        "subMP": 4425.7,
+        "cTinta": 2524.2000000000003,
+        "cAmort": 1570,
+        "cLuz": 150,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 8669.9,
+        "sub": 13669.9,
+        "mrgV": 5858.528571428573,
+        "total": 19528.428571428572,
+        "ganReal": 10858.528571428573
+      }
     }
   ],
   "pedidos": [
