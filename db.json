@@ -11015,6 +11015,47 @@
         "total": 8201.514285714286,
         "ganReal": 4460.454285714286
       }
+    },
+    {
+      "id": 241,
+      "codigo": "P0241",
+      "cliente": "zule",
+      "productoFinal": "pulseras",
+      "variante": "Estándar",
+      "cantidad": 0,
+      "fecha": "2026-11-26",
+      "materiales": [
+        {
+          "prodId": 45,
+          "cantidad": 5
+        }
+      ],
+      "paginas": 5,
+      "tintas": "ambas",
+      "usosEquipo": 5,
+      "equipoId": "4",
+      "hsLuz": 0.5,
+      "hsDise": 0,
+      "valDise": 18000,
+      "hsMo": 0.5,
+      "valMo": 10000,
+      "margen": 30,
+      "total": 9893.42857142857,
+      "gananciaReal": 7968.028571428571,
+      "senia": 4946.714285714285,
+      "_c": {
+        "subMP": 982.6999999999999,
+        "cTinta": 120.20000000000002,
+        "cAmort": 785,
+        "cLuz": 37.5,
+        "cDise": 0,
+        "cMo": 5000,
+        "cProd": 1925.3999999999999,
+        "sub": 6925.4,
+        "mrgV": 2968.028571428571,
+        "total": 9893.42857142857,
+        "ganReal": 7968.028571428571
+      }
     }
   ],
   "pedidos": [
